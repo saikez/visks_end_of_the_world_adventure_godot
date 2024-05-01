@@ -2,9 +2,4 @@ res://scenes/levels/game.tscn
 res://scenes/actors/visk.tscn
 res://scenes/actors/enemy.tscn
 res://scenes/weapons/spear.tscn
-res://scripts/weapons/spear.gd
-res://scripts/actors/visk.gd
-res://scripts/weapons/weapon_pivot_point.gd
-res://scripts/weapons/weapon_spawn_point.gd
-res://scripts/resources/Movement/movement.gd
-res://scenes/weapons/EndOfLifeTimer.gd
+res://scenes/weapons/weapon.tscn

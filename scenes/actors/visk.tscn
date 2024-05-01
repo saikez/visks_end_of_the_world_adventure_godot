@@ -7,7 +7,7 @@
 [ext_resource type="Script" path="res://scripts/resources/Movement/movement.gd" id="3_tar60"]
 [ext_resource type="Script" path="res://scripts/weapons/weapon_pivot_point.gd" id="3_txdt5"]
 [ext_resource type="Script" path="res://scripts/weapons/weapon_spawn_point.gd" id="4_2w23a"]
-[ext_resource type="PackedScene" uid="uid://bmq8lhf8qh7iu" path="res://scenes/weapons/spear.tscn" id="5_nyps2"]
+[ext_resource type="PackedScene" uid="uid://bmq8lhf8qh7iu" path="res://scenes/weapons/weapon.tscn" id="5_nyps2"]
 [ext_resource type="Script" path="res://scripts/resources/actor_animator.gd" id="6_81c20"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_ne85d"]
@@ -95,7 +95,7 @@ position = Vector2(0, -16)
 sprite_frames = SubResource("SpriteFrames_m7t3u")
 animation = &"move"
 autoplay = "idle"
-frame_progress = 0.591004
+frame_progress = 0.795487
 
 [node name="actor_collider" type="CollisionShape2D" parent="."]
 position = Vector2(0, -8)
