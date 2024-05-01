@@ -1,0 +1,125 @@
+[gd_scene load_steps=21 format=3 uid="uid://clya3yv7xjuv"]
+
+[ext_resource type="Script" path="res://scripts/actors/visk.gd" id="1_53i4x"]
+[ext_resource type="Texture2D" uid="uid://bjnusmisqp7hh" path="res://assets/textures/Dungeon/0x72 Dungeon Tileset.png" id="1_di6e3"]
+[ext_resource type="Script" path="res://scripts/resources/Movement/movement_stats.gd" id="1_gjge7"]
+[ext_resource type="Script" path="res://scripts/resources/Movement/movement_velocity_input.gd" id="1_ocm38"]
+[ext_resource type="Script" path="res://scripts/resources/Movement/movement.gd" id="3_tar60"]
+[ext_resource type="Script" path="res://scripts/weapons/weapon_pivot_point.gd" id="3_txdt5"]
+[ext_resource type="Script" path="res://scripts/weapons/weapon_spawn_point.gd" id="4_2w23a"]
+[ext_resource type="PackedScene" uid="uid://bmq8lhf8qh7iu" path="res://scenes/weapons/spear.tscn" id="5_nyps2"]
+[ext_resource type="Script" path="res://scripts/resources/actor_animator.gd" id="6_81c20"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_ne85d"]
+atlas = ExtResource("1_di6e3")
+region = Rect2(128, 224, 16, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_wx685"]
+atlas = ExtResource("1_di6e3")
+region = Rect2(144, 224, 16, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_4dlno"]
+atlas = ExtResource("1_di6e3")
+region = Rect2(160, 224, 16, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_v3cdg"]
+atlas = ExtResource("1_di6e3")
+region = Rect2(176, 224, 16, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_560hi"]
+atlas = ExtResource("1_di6e3")
+region = Rect2(192, 224, 16, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_okkx6"]
+atlas = ExtResource("1_di6e3")
+region = Rect2(208, 224, 16, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_xqxm0"]
+atlas = ExtResource("1_di6e3")
+region = Rect2(224, 224, 16, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_1oh6g"]
+atlas = ExtResource("1_di6e3")
+region = Rect2(240, 224, 16, 32)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_m7t3u"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_ne85d")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_wx685")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_4dlno")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_v3cdg")
+}],
+"loop": true,
+"name": &"idle",
+"speed": 10.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_560hi")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_okkx6")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_xqxm0")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_1oh6g")
+}],
+"loop": true,
+"name": &"move",
+"speed": 10.0
+}]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_6gue7"]
+radius = 6.0
+
+[sub_resource type="Resource" id="Resource_b4sjk"]
+script = ExtResource("1_gjge7")
+speed = 150
+
+[node name="Visk" type="CharacterBody2D"]
+motion_mode = 1
+script = ExtResource("1_53i4x")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+position = Vector2(0, -16)
+sprite_frames = SubResource("SpriteFrames_m7t3u")
+animation = &"move"
+autoplay = "idle"
+frame_progress = 0.591004
+
+[node name="actor_collider" type="CollisionShape2D" parent="."]
+position = Vector2(0, -8)
+shape = SubResource("CircleShape2D_6gue7")
+
+[node name="WeaponPivotPoint" type="Marker2D" parent="."]
+position = Vector2(0, -8)
+script = ExtResource("3_txdt5")
+
+[node name="WeaponSpawnPoint" type="Marker2D" parent="WeaponPivotPoint"]
+position = Vector2(9, 0)
+script = ExtResource("4_2w23a")
+spear = ExtResource("5_nyps2")
+
+[node name="MovementVelocityInput" type="Node" parent="." node_paths=PackedStringArray("actor")]
+script = ExtResource("1_ocm38")
+actor = NodePath("..")
+movement_stats = SubResource("Resource_b4sjk")
+
+[node name="ActorAnimator" type="Node" parent="." node_paths=PackedStringArray("actor", "animated_sprite")]
+script = ExtResource("6_81c20")
+actor = NodePath("..")
+animated_sprite = NodePath("../AnimatedSprite2D")
+
+[node name="Movement" type="Node" parent="." node_paths=PackedStringArray("actor")]
+script = ExtResource("3_tar60")
+actor = NodePath("..")

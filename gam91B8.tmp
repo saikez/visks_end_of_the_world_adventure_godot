@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://cv65daydnqlv3"]
+
+[ext_resource type="PackedScene" uid="uid://clya3yv7xjuv" path="res://visk.tscn" id="1_66bjo"]
+
+[node name="Game" type="Node2D"]
+
+[node name="Visk" parent="." instance=ExtResource("1_66bjo")]

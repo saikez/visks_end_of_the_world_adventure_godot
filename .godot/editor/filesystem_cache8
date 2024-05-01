@@ -1,0 +1,1542 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1714504170
+default_bus_layout.tres::AudioBusLayout::4930987862639818614::1714434948::0::1::::<><>::
+export_presets.cfg::TextFile::-1::1714447323::0::1::::<><>::
+::res://assets/::1714433118
+icon.svg::CompressedTexture2D::6077805865991356455::1714414663::1714433118::1::::<><>::
+::res://assets/fonts/::1714415317
+AncientModernTales.ttf::FontFile::5283411860920478942::1649801536::1714415317::1::::<><>::
+Credits.txt::TextFile::-1::1649801536::0::1::::<><>::
+::res://assets/sounds/::1714415235
+::res://assets/sounds/music/::1714434856
+4_Battle_1_Master.ogg::AudioStreamOggVorbis::1200015194886619593::1649801536::1714415317::1::::<><>::
+8_Battle_2_Master.ogg::AudioStreamOggVorbis::396480731588599965::1649801536::1714415317::1::::<><>::
+9_Boss_1_Master.ogg::AudioStreamOggVorbis::5563828098602745031::1649801536::1714415317::1::::<><>::
+Tragique.wav::AudioStreamWAV::177519893952020606::1649803827::1714434856::1::::<><>::
+::res://assets/textures/::1714415240
+Credits.txt::TextFile::-1::1649801536::0::1::::<><>::
+::res://assets/textures/Alternate Dungeons/::1714415320
+Desert Dungeon Portrait.png::CompressedTexture2D::5031612878625094596::1649801536::1714415320::1::::<><>::
+Desert Dungeon Tileset.png::CompressedTexture2D::7600818760064498570::1649801536::1714415320::1::::<><>::
+Jungle Dungeon Portrait.png::CompressedTexture2D::4505588189042487530::1649801536::1714415320::1::::<><>::
+Jungle Dungeon Tileset.png::CompressedTexture2D::6994669130281517095::1649801536::1714415320::1::::<><>::
+::res://assets/textures/Dungeon/::1714415321
+0x72 Dungeon Tileset.png::CompressedTexture2D::3046204314862269869::1649801537::1714415321::1::::<><>::
+::res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/::1714415238
+::res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/All/::1714415321
+big_demon_idle_anim_f0.png::CompressedTexture2D::7222948825423354088::1649801536::1714415320::1::::<><>::
+big_demon_idle_anim_f1.png::CompressedTexture2D::1689437349837885066::1649801536::1714415320::1::::<><>::
+big_demon_idle_anim_f2.png::CompressedTexture2D::3800112577963277977::1649801536::1714415320::1::::<><>::
+big_demon_idle_anim_f3.png::CompressedTexture2D::7889315613296917184::1649801536::1714415320::1::::<><>::
+big_demon_run_anim_f0.png::CompressedTexture2D::7843452599134260890::1649801536::1714415320::1::::<><>::
+big_demon_run_anim_f1.png::CompressedTexture2D::333389368444753546::1649801536::1714415320::1::::<><>::
+big_demon_run_anim_f2.png::CompressedTexture2D::7487422109322990236::1649801536::1714415320::1::::<><>::
+big_demon_run_anim_f3.png::CompressedTexture2D::1607738007774066128::1649801536::1714415320::1::::<><>::
+big_zombie_idle_anim_f0.png::CompressedTexture2D::3970187201577267902::1649801536::1714415320::1::::<><>::
+big_zombie_idle_anim_f1.png::CompressedTexture2D::1233749828174167379::1649801536::1714415320::1::::<><>::
+big_zombie_idle_anim_f2.png::CompressedTexture2D::2795248788931560719::1649801536::1714415320::1::::<><>::
+big_zombie_idle_anim_f3.png::CompressedTexture2D::4150462153079870503::1649801536::1714415320::1::::<><>::
+big_zombie_run_anim_f0.png::CompressedTexture2D::3925851198970858021::1649801536::1714415320::1::::<><>::
+big_zombie_run_anim_f1.png::CompressedTexture2D::8895850102414916920::1649801536::1714415320::1::::<><>::
+big_zombie_run_anim_f2.png::CompressedTexture2D::3490047604914470576::1649801536::1714415320::1::::<><>::
+big_zombie_run_anim_f3.png::CompressedTexture2D::4973370830748318463::1649801536::1714415320::1::::<><>::
+chest_empty_open_anim_f0.png::CompressedTexture2D::5786214019643278067::1649801536::1714415320::1::::<><>::
+chest_empty_open_anim_f1.png::CompressedTexture2D::4515085524812467916::1649801536::1714415320::1::::<><>::
+chest_empty_open_anim_f2.png::CompressedTexture2D::1154149455107039907::1649801536::1714415320::1::::<><>::
+chest_full_open_anim_f0.png::CompressedTexture2D::3105410804472406283::1649801536::1714415320::1::::<><>::
+chest_full_open_anim_f1.png::CompressedTexture2D::1312713294982093805::1649801536::1714415320::1::::<><>::
+chest_full_open_anim_f2.png::CompressedTexture2D::8019360338630597480::1649801536::1714415320::1::::<><>::
+chest_mimic_open_anim_f0.png::CompressedTexture2D::2529970671859612591::1649801536::1714415320::1::::<><>::
+chest_mimic_open_anim_f1.png::CompressedTexture2D::8029377193182752720::1649801536::1714415320::1::::<><>::
+chest_mimic_open_anim_f2.png::CompressedTexture2D::5404978496994626483::1649801536::1714415320::1::::<><>::
+chort_idle_anim_f0.png::CompressedTexture2D::6916178992897136437::1649801536::1714415320::1::::<><>::
+chort_idle_anim_f1.png::CompressedTexture2D::4383269714602068091::1649801536::1714415320::1::::<><>::
+chort_idle_anim_f2.png::CompressedTexture2D::6155209240820657417::1649801536::1714415320::1::::<><>::
+chort_idle_anim_f3.png::CompressedTexture2D::1858764881026648857::1649801536::1714415320::1::::<><>::
+chort_run_anim_f0.png::CompressedTexture2D::2843318410077542211::1649801536::1714415320::1::::<><>::
+chort_run_anim_f1.png::CompressedTexture2D::773647529698130562::1649801536::1714415320::1::::<><>::
+chort_run_anim_f2.png::CompressedTexture2D::2969061536091528148::1649801536::1714415320::1::::<><>::
+chort_run_anim_f3.png::CompressedTexture2D::1560182743068449965::1649801536::1714415320::1::::<><>::
+coin_anim_f0.png::CompressedTexture2D::4523348360835328116::1649801536::1714415320::1::::<><>::
+coin_anim_f1.png::CompressedTexture2D::6211229254021458911::1649801536::1714415320::1::::<><>::
+coin_anim_f2.png::CompressedTexture2D::5102825699640228764::1649801536::1714415320::1::::<><>::
+coin_anim_f3.png::CompressedTexture2D::471094847937490866::1649801536::1714415320::1::::<><>::
+column_mid.png::CompressedTexture2D::7658061331112680114::1649801536::1714415320::1::::<><>::
+column_top.png::CompressedTexture2D::1391083622475313042::1649801536::1714415320::1::::<><>::
+coulmn_base.png::CompressedTexture2D::7126419428152286679::1649801536::1714415320::1::::<><>::
+crate.png::CompressedTexture2D::3322879079692985659::1649801536::1714415320::1::::<><>::
+doors_all.png::CompressedTexture2D::1270207619351817876::1649801536::1714415320::1::::<><>::
+doors_frame_left.png::CompressedTexture2D::5639480901789832850::1649801536::1714415320::1::::<><>::
+doors_frame_righ.png::CompressedTexture2D::2745049353666244024::1649801536::1714415320::1::::<><>::
+doors_frame_top.png::CompressedTexture2D::6797134694493427727::1649801536::1714415320::1::::<><>::
+doors_leaf_closed.png::CompressedTexture2D::5689785537827656822::1649801536::1714415320::1::::<><>::
+doors_leaf_open.png::CompressedTexture2D::4811218175686440775::1649801536::1714415320::1::::<><>::
+edge.png::CompressedTexture2D::1073323282695313771::1649801536::1714415320::1::::<><>::
+elf_f_hit_anim_f0.png::CompressedTexture2D::4719854425256914078::1649801536::1714415320::1::::<><>::
+elf_f_idle_anim_f0.png::CompressedTexture2D::4621078638872586471::1649801536::1714415320::1::::<><>::
+elf_f_idle_anim_f1.png::CompressedTexture2D::2647592959716434398::1649801536::1714415320::1::::<><>::
+elf_f_idle_anim_f2.png::CompressedTexture2D::4665848395608312908::1649801536::1714415320::1::::<><>::
+elf_f_idle_anim_f3.png::CompressedTexture2D::3067044943796865884::1649801536::1714415320::1::::<><>::
+elf_f_run_anim_f0.png::CompressedTexture2D::9106169784673451718::1649801536::1714415320::1::::<><>::
+elf_f_run_anim_f1.png::CompressedTexture2D::8541894714355706563::1649801536::1714415320::1::::<><>::
+elf_f_run_anim_f2.png::CompressedTexture2D::5231834182880526538::1649801536::1714415320::1::::<><>::
+elf_f_run_anim_f3.png::CompressedTexture2D::5068352611337646367::1649801536::1714415320::1::::<><>::
+elf_m_hit_anim_f0.png::CompressedTexture2D::8838432519149875183::1649801536::1714415320::1::::<><>::
+elf_m_idle_anim_f0.png::CompressedTexture2D::5300699914882224633::1649801536::1714415320::1::::<><>::
+elf_m_idle_anim_f1.png::CompressedTexture2D::6397420064653263383::1649801536::1714415320::1::::<><>::
+elf_m_idle_anim_f2.png::CompressedTexture2D::8953921698892997801::1649801536::1714415320::1::::<><>::
+elf_m_idle_anim_f3.png::CompressedTexture2D::290025736472094714::1649801536::1714415320::1::::<><>::
+elf_m_run_anim_f0.png::CompressedTexture2D::5458875424134904682::1649801536::1714415320::1::::<><>::
+elf_m_run_anim_f1.png::CompressedTexture2D::1911128287740510270::1649801536::1714415320::1::::<><>::
+elf_m_run_anim_f2.png::CompressedTexture2D::3907845844154316032::1649801536::1714415320::1::::<><>::
+elf_m_run_anim_f3.png::CompressedTexture2D::2883558368615397045::1649801536::1714415320::1::::<><>::
+flask_big_blue.png::CompressedTexture2D::529597438639700185::1649801536::1714415320::1::::<><>::
+flask_big_green.png::CompressedTexture2D::4180946852834184740::1649801536::1714415320::1::::<><>::
+flask_big_red.png::CompressedTexture2D::7803735903281496317::1649801536::1714415320::1::::<><>::
+flask_big_yellow.png::CompressedTexture2D::3982533993008660258::1649801536::1714415320::1::::<><>::
+flask_blue.png::CompressedTexture2D::5237134497471302750::1649801536::1714415320::1::::<><>::
+flask_green.png::CompressedTexture2D::3561636170589032797::1649801536::1714415320::1::::<><>::
+flask_red.png::CompressedTexture2D::3634736433307901249::1649801536::1714415320::1::::<><>::
+flask_yellow.png::CompressedTexture2D::2734661444390827::1649801536::1714415320::1::::<><>::
+floor_1.png::CompressedTexture2D::212027936644107498::1649801536::1714415320::1::::<><>::
+floor_2.png::CompressedTexture2D::1776194774194759290::1649801536::1714415320::1::::<><>::
+floor_3.png::CompressedTexture2D::4357795733323948819::1649801536::1714415320::1::::<><>::
+floor_4.png::CompressedTexture2D::8556531941195104562::1649801536::1714415320::1::::<><>::
+floor_5.png::CompressedTexture2D::2008599888659501652::1649801536::1714415320::1::::<><>::
+floor_6.png::CompressedTexture2D::1631936126858958206::1649801536::1714415320::1::::<><>::
+floor_7.png::CompressedTexture2D::3579214847531313893::1649801536::1714415320::1::::<><>::
+floor_8.png::CompressedTexture2D::7397284837448623913::1649801536::1714415320::1::::<><>::
+floor_ladder.png::CompressedTexture2D::1864206287327550404::1649801536::1714415320::1::::<><>::
+floor_spikes_anim_f0.png::CompressedTexture2D::2664349129543098269::1649801536::1714415320::1::::<><>::
+floor_spikes_anim_f1.png::CompressedTexture2D::5414312867593685653::1649801536::1714415320::1::::<><>::
+floor_spikes_anim_f2.png::CompressedTexture2D::3170519161865764577::1649801536::1714415320::1::::<><>::
+floor_spikes_anim_f3.png::CompressedTexture2D::607195707765789957::1649801536::1714415320::1::::<><>::
+goblin_idle_anim_f0.png::CompressedTexture2D::6058700503100224946::1649801536::1714415320::1::::<><>::
+goblin_idle_anim_f1.png::CompressedTexture2D::971528091863719969::1649801536::1714415320::1::::<><>::
+goblin_idle_anim_f2.png::CompressedTexture2D::5904844569228747070::1649801536::1714415320::1::::<><>::
+goblin_idle_anim_f3.png::CompressedTexture2D::4959143478183744743::1649801536::1714415320::1::::<><>::
+goblin_run_anim_f0.png::CompressedTexture2D::9135757810550653485::1649801536::1714415320::1::::<><>::
+goblin_run_anim_f1.png::CompressedTexture2D::7331713349501034623::1649801536::1714415320::1::::<><>::
+goblin_run_anim_f2.png::CompressedTexture2D::1080782775316770007::1649801536::1714415320::1::::<><>::
+goblin_run_anim_f3.png::CompressedTexture2D::539355750042879753::1649801536::1714415320::1::::<><>::
+hole.png::CompressedTexture2D::7480000890093104953::1649801536::1714415320::1::::<><>::
+ice_zombie_idle_anim_f0.png::CompressedTexture2D::4747339115365401457::1649801536::1714415320::1::::<><>::
+ice_zombie_idle_anim_f1.png::CompressedTexture2D::3856838606925913058::1649801536::1714415320::1::::<><>::
+ice_zombie_idle_anim_f2.png::CompressedTexture2D::3587439716686732632::1649801536::1714415320::1::::<><>::
+ice_zombie_idle_anim_f3.png::CompressedTexture2D::8756342408516536407::1649801536::1714415320::1::::<><>::
+ice_zombie_run_anim_f0.png::CompressedTexture2D::5329959895975590395::1649801536::1714415320::1::::<><>::
+ice_zombie_run_anim_f1.png::CompressedTexture2D::1043750874186015766::1649801536::1714415320::1::::<><>::
+ice_zombie_run_anim_f2.png::CompressedTexture2D::7285029394901643229::1649801536::1714415320::1::::<><>::
+ice_zombie_run_anim_f3.png::CompressedTexture2D::1167000707937582672::1649801536::1714415320::1::::<><>::
+imp_idle_anim_f0.png::CompressedTexture2D::5310477543920248538::1649801536::1714415320::1::::<><>::
+imp_idle_anim_f1.png::CompressedTexture2D::4345898705097128230::1649801536::1714415320::1::::<><>::
+imp_idle_anim_f2.png::CompressedTexture2D::4226982192759583472::1649801536::1714415321::1::::<><>::
+imp_idle_anim_f3.png::CompressedTexture2D::3543443557031222257::1649801536::1714415321::1::::<><>::
+imp_run_anim_f0.png::CompressedTexture2D::8226832247155183452::1649801536::1714415321::1::::<><>::
+imp_run_anim_f1.png::CompressedTexture2D::5872796570025392275::1649801536::1714415321::1::::<><>::
+imp_run_anim_f2.png::CompressedTexture2D::8937502291252596525::1649801536::1714415320::1::::<><>::
+imp_run_anim_f3.png::CompressedTexture2D::8088841921651588783::1649801536::1714415320::1::::<><>::
+knight_f_hit_anim_f0.png::CompressedTexture2D::1524801118807177347::1649801536::1714415320::1::::<><>::
+knight_f_idle_anim_f0.png::CompressedTexture2D::8212200505712734451::1649801536::1714415320::1::::<><>::
+knight_f_idle_anim_f1.png::CompressedTexture2D::8530654332384244124::1649801536::1714415320::1::::<><>::
+knight_f_idle_anim_f2.png::CompressedTexture2D::2449408651038108228::1649801536::1714415320::1::::<><>::
+knight_f_idle_anim_f3.png::CompressedTexture2D::1779762567241076457::1649801536::1714415320::1::::<><>::
+knight_f_run_anim_f0.png::CompressedTexture2D::5006369925861661127::1649801536::1714415320::1::::<><>::
+knight_f_run_anim_f1.png::CompressedTexture2D::5360954451358881884::1649801536::1714415320::1::::<><>::
+knight_f_run_anim_f2.png::CompressedTexture2D::2257398340678322305::1649801536::1714415320::1::::<><>::
+knight_f_run_anim_f3.png::CompressedTexture2D::944900322306512053::1649801536::1714415320::1::::<><>::
+knight_m_hit_anim_f0.png::CompressedTexture2D::1479804616174601542::1649801536::1714415320::1::::<><>::
+knight_m_idle_anim_f0.png::CompressedTexture2D::7871130863095355958::1649801536::1714415320::1::::<><>::
+knight_m_idle_anim_f1.png::CompressedTexture2D::3394870426838809810::1649801536::1714415320::1::::<><>::
+knight_m_idle_anim_f2.png::CompressedTexture2D::6065407039388744825::1649801536::1714415320::1::::<><>::
+knight_m_idle_anim_f3.png::CompressedTexture2D::7791584984124495213::1649801536::1714415320::1::::<><>::
+knight_m_run_anim_f0.png::CompressedTexture2D::2075942101662567972::1649801536::1714415320::1::::<><>::
+knight_m_run_anim_f1.png::CompressedTexture2D::3994470544670637535::1649801536::1714415320::1::::<><>::
+knight_m_run_anim_f2.png::CompressedTexture2D::4525506765446733242::1649801536::1714415320::1::::<><>::
+knight_m_run_anim_f3.png::CompressedTexture2D::8129869997529198986::1649801536::1714415320::1::::<><>::
+lizard_f_hit_anim_f0.png::CompressedTexture2D::226053628622532080::1649801536::1714415320::1::::<><>::
+lizard_f_idle_anim_f0.png::CompressedTexture2D::7117265473631377790::1649801536::1714415320::1::::<><>::
+lizard_f_idle_anim_f1.png::CompressedTexture2D::7669811228256313507::1649801536::1714415320::1::::<><>::
+lizard_f_idle_anim_f2.png::CompressedTexture2D::430624883061773388::1649801536::1714415320::1::::<><>::
+lizard_f_idle_anim_f3.png::CompressedTexture2D::244273835539786759::1649801536::1714415320::1::::<><>::
+lizard_f_run_anim_f0.png::CompressedTexture2D::8207101775180637129::1649801536::1714415320::1::::<><>::
+lizard_f_run_anim_f1.png::CompressedTexture2D::7504557612157851469::1649801536::1714415320::1::::<><>::
+lizard_f_run_anim_f2.png::CompressedTexture2D::1924163636329781571::1649801536::1714415320::1::::<><>::
+lizard_f_run_anim_f3.png::CompressedTexture2D::5908218929065316885::1649801536::1714415320::1::::<><>::
+lizard_m_hit_anim_f0.png::CompressedTexture2D::4822070109530080493::1649801536::1714415320::1::::<><>::
+lizard_m_idle_anim_f0.png::CompressedTexture2D::2501945926296141219::1649801536::1714415320::1::::<><>::
+lizard_m_idle_anim_f1.png::CompressedTexture2D::1667023258708830264::1649801536::1714415320::1::::<><>::
+lizard_m_idle_anim_f2.png::CompressedTexture2D::5492794936393466360::1649801536::1714415320::1::::<><>::
+lizard_m_idle_anim_f3.png::CompressedTexture2D::5232532545515447495::1649801536::1714415320::1::::<><>::
+lizard_m_run_anim_f0.png::CompressedTexture2D::807573228864791153::1649801536::1714415320::1::::<><>::
+lizard_m_run_anim_f1.png::CompressedTexture2D::3096253408421379028::1649801536::1714415320::1::::<><>::
+lizard_m_run_anim_f2.png::CompressedTexture2D::7192280001285348963::1649801536::1714415320::1::::<><>::
+lizard_m_run_anim_f3.png::CompressedTexture2D::6921030630513153184::1649801536::1714415320::1::::<><>::
+masked_orc_idle_anim_f0.png::CompressedTexture2D::8703496253338266886::1649801536::1714415320::1::::<><>::
+masked_orc_idle_anim_f1.png::CompressedTexture2D::7524730238459234474::1649801536::1714415320::1::::<><>::
+masked_orc_idle_anim_f2.png::CompressedTexture2D::2132173420964296573::1649801536::1714415320::1::::<><>::
+masked_orc_idle_anim_f3.png::CompressedTexture2D::4005428285372891541::1649801536::1714415320::1::::<><>::
+masked_orc_run_anim_f0.png::CompressedTexture2D::3822070822308672293::1649801536::1714415320::1::::<><>::
+masked_orc_run_anim_f1.png::CompressedTexture2D::8852185987990636446::1649801536::1714415320::1::::<><>::
+masked_orc_run_anim_f2.png::CompressedTexture2D::926523644339356896::1649801536::1714415320::1::::<><>::
+masked_orc_run_anim_f3.png::CompressedTexture2D::4276920965418155638::1649801536::1714415320::1::::<><>::
+muddy_idle_anim_f0.png::CompressedTexture2D::1061263515092889898::1649801536::1714415320::1::::<><>::
+muddy_idle_anim_f1.png::CompressedTexture2D::8989696695740145110::1649801536::1714415320::1::::<><>::
+muddy_idle_anim_f2.png::CompressedTexture2D::2262553803711077602::1649801536::1714415320::1::::<><>::
+muddy_idle_anim_f3.png::CompressedTexture2D::8147708977073499172::1649801536::1714415320::1::::<><>::
+muddy_run_anim_f0.png::CompressedTexture2D::3034526709369633445::1649801536::1714415320::1::::<><>::
+muddy_run_anim_f1.png::CompressedTexture2D::854399456591675310::1649801536::1714415320::1::::<><>::
+muddy_run_anim_f2.png::CompressedTexture2D::4048157518086134536::1649801536::1714415320::1::::<><>::
+muddy_run_anim_f3.png::CompressedTexture2D::5324257313341883979::1649801536::1714415320::1::::<><>::
+necromancer_idle_anim_f0.png::CompressedTexture2D::3080258818196374773::1649801536::1714415320::1::::<><>::
+necromancer_idle_anim_f1.png::CompressedTexture2D::4299764781053058261::1649801536::1714415320::1::::<><>::
+necromancer_idle_anim_f2.png::CompressedTexture2D::8868811790976616112::1649801536::1714415320::1::::<><>::
+necromancer_idle_anim_f3.png::CompressedTexture2D::8415183403509734928::1649801536::1714415320::1::::<><>::
+necromancer_run_anim_f0.png::CompressedTexture2D::2245714704248994085::1649801536::1714415320::1::::<><>::
+necromancer_run_anim_f1.png::CompressedTexture2D::4203300967642789411::1649801536::1714415320::1::::<><>::
+necromancer_run_anim_f2.png::CompressedTexture2D::105976701172108354::1649801536::1714415320::1::::<><>::
+necromancer_run_anim_f3.png::CompressedTexture2D::9055121427864928960::1649801536::1714415320::1::::<><>::
+ogre_idle_anim_f0.png::CompressedTexture2D::3226686533373792845::1649801536::1714415319::1::::<><>::
+ogre_idle_anim_f1.png::CompressedTexture2D::1048525791377589963::1649801536::1714415319::1::::<><>::
+ogre_idle_anim_f2.png::CompressedTexture2D::2326612050040594766::1649801536::1714415319::1::::<><>::
+ogre_idle_anim_f3.png::CompressedTexture2D::1969748223203652135::1649801536::1714415319::1::::<><>::
+ogre_run_anim_f0.png::CompressedTexture2D::435149962506069999::1649801536::1714415319::1::::<><>::
+ogre_run_anim_f1.png::CompressedTexture2D::2639575976083605496::1649801536::1714415319::1::::<><>::
+ogre_run_anim_f2.png::CompressedTexture2D::4294595246288214324::1649801536::1714415319::1::::<><>::
+ogre_run_anim_f3.png::CompressedTexture2D::7473788218107330641::1649801536::1714415319::1::::<><>::
+orc_shaman_idle_anim_f0.png::CompressedTexture2D::2488041440580268105::1649801536::1714415319::1::::<><>::
+orc_shaman_idle_anim_f1.png::CompressedTexture2D::9168894953177133155::1649801536::1714415319::1::::<><>::
+orc_shaman_idle_anim_f2.png::CompressedTexture2D::5017352174060053275::1649801536::1714415319::1::::<><>::
+orc_shaman_idle_anim_f3.png::CompressedTexture2D::2188713251700662795::1649801536::1714415319::1::::<><>::
+orc_shaman_run_anim_f0.png::CompressedTexture2D::4403803190471112287::1649801536::1714415319::1::::<><>::
+orc_shaman_run_anim_f1.png::CompressedTexture2D::6587986734072972182::1649801536::1714415319::1::::<><>::
+orc_shaman_run_anim_f2.png::CompressedTexture2D::3886776363822239654::1649801536::1714415319::1::::<><>::
+orc_shaman_run_anim_f3.png::CompressedTexture2D::3371518395745699416::1649801536::1714415319::1::::<><>::
+orc_warrior_idle_anim_f0.png::CompressedTexture2D::101106429490877142::1649801536::1714415319::1::::<><>::
+orc_warrior_idle_anim_f1.png::CompressedTexture2D::1118452036015228309::1649801536::1714415319::1::::<><>::
+orc_warrior_idle_anim_f2.png::CompressedTexture2D::7618626550774607491::1649801536::1714415319::1::::<><>::
+orc_warrior_idle_anim_f3.png::CompressedTexture2D::3653624937409240615::1649801536::1714415319::1::::<><>::
+orc_warrior_run_anim_f0.png::CompressedTexture2D::4324595276573555732::1649801536::1714415319::1::::<><>::
+orc_warrior_run_anim_f1.png::CompressedTexture2D::3234229544773820226::1649801536::1714415319::1::::<><>::
+orc_warrior_run_anim_f2.png::CompressedTexture2D::8259793292826410832::1649801536::1714415320::1::::<><>::
+orc_warrior_run_anim_f3.png::CompressedTexture2D::486248926544894373::1649801536::1714415320::1::::<><>::
+skelet_idle_anim_f0.png::CompressedTexture2D::962568100865361311::1649801536::1714415320::1::::<><>::
+skelet_idle_anim_f1.png::CompressedTexture2D::6591893515936582311::1649801536::1714415320::1::::<><>::
+skelet_idle_anim_f2.png::CompressedTexture2D::6881234310755678960::1649801536::1714415320::1::::<><>::
+skelet_idle_anim_f3.png::CompressedTexture2D::7015303090015220781::1649801536::1714415320::1::::<><>::
+skelet_run_anim_f0.png::CompressedTexture2D::3695824371047716562::1649801536::1714415320::1::::<><>::
+skelet_run_anim_f1.png::CompressedTexture2D::7452391907768494314::1649801536::1714415320::1::::<><>::
+skelet_run_anim_f2.png::CompressedTexture2D::8636383540821751272::1649801536::1714415320::1::::<><>::
+skelet_run_anim_f3.png::CompressedTexture2D::3407040691806442766::1649801536::1714415320::1::::<><>::
+skull.png::CompressedTexture2D::7699865497171216217::1649801536::1714415320::1::::<><>::
+swampy_idle_anim_f0.png::CompressedTexture2D::907668957959169087::1649801536::1714415319::1::::<><>::
+swampy_idle_anim_f1.png::CompressedTexture2D::28628150998504028::1649801536::1714415319::1::::<><>::
+swampy_idle_anim_f2.png::CompressedTexture2D::8589735735592871128::1649801536::1714415319::1::::<><>::
+swampy_idle_anim_f3.png::CompressedTexture2D::8484110753314179077::1649801536::1714415319::1::::<><>::
+swampy_run_anim_f0.png::CompressedTexture2D::5886833000426382579::1649801536::1714415319::1::::<><>::
+swampy_run_anim_f1.png::CompressedTexture2D::1156584012459319014::1649801536::1714415319::1::::<><>::
+swampy_run_anim_f2.png::CompressedTexture2D::2044563247760948040::1649801536::1714415319::1::::<><>::
+swampy_run_anim_f3.png::CompressedTexture2D::1725562901579234267::1649801536::1714415319::1::::<><>::
+tiny_zombie_idle_anim_f0.png::CompressedTexture2D::8066852743455076686::1649801536::1714415319::1::::<><>::
+tiny_zombie_idle_anim_f1.png::CompressedTexture2D::4345734562589339428::1649801536::1714415319::1::::<><>::
+tiny_zombie_idle_anim_f2.png::CompressedTexture2D::2455808224381893475::1649801536::1714415319::1::::<><>::
+tiny_zombie_idle_anim_f3.png::CompressedTexture2D::2705680009775918150::1649801536::1714415319::1::::<><>::
+tiny_zombie_run_anim_f0.png::CompressedTexture2D::1483274580404744727::1649801536::1714415319::1::::<><>::
+tiny_zombie_run_anim_f1.png::CompressedTexture2D::7108496684836426683::1649801536::1714415319::1::::<><>::
+tiny_zombie_run_anim_f2.png::CompressedTexture2D::2740247240606500131::1649801536::1714415319::1::::<><>::
+tiny_zombie_run_anim_f3.png::CompressedTexture2D::8439278099674636911::1649801536::1714415319::1::::<><>::
+ui_heart_empty.png::CompressedTexture2D::2575988457501065745::1649801536::1714415319::1::::<><>::
+ui_heart_full.png::CompressedTexture2D::8129431703270767423::1649801536::1714415319::1::::<><>::
+ui_heart_half.png::CompressedTexture2D::8226862017801319431::1649801536::1714415319::1::::<><>::
+wall_banner_blue.png::CompressedTexture2D::620833336636516465::1649801536::1714415319::1::::<><>::
+wall_banner_green.png::CompressedTexture2D::3916117495075426170::1649801536::1714415319::1::::<><>::
+wall_banner_red.png::CompressedTexture2D::683976277945140742::1649801536::1714415319::1::::<><>::
+wall_banner_yellow.png::CompressedTexture2D::7314312371654704005::1649801536::1714415319::1::::<><>::
+wall_column_mid.png::CompressedTexture2D::7717813508014268179::1649801536::1714415319::1::::<><>::
+wall_column_top.png::CompressedTexture2D::4598599181220225812::1649801536::1714415319::1::::<><>::
+wall_corner_bottom_left.png::CompressedTexture2D::4661124590174799818::1649801536::1714415319::1::::<><>::
+wall_corner_bottom_right.png::CompressedTexture2D::3233527976939757874::1649801536::1714415319::1::::<><>::
+wall_corner_front_left.png::CompressedTexture2D::7627501353951460012::1649801536::1714415319::1::::<><>::
+wall_corner_front_right.png::CompressedTexture2D::1235242061181762647::1649801536::1714415319::1::::<><>::
+wall_corner_left.png::CompressedTexture2D::1972895534658643821::1649801536::1714415319::1::::<><>::
+wall_corner_right.png::CompressedTexture2D::7276252596823444726::1649801536::1714415319::1::::<><>::
+wall_corner_top_left.png::CompressedTexture2D::6920290786413139819::1649801536::1714415319::1::::<><>::
+wall_corner_top_right.png::CompressedTexture2D::3398739343102855804::1649801536::1714415319::1::::<><>::
+wall_coulmn_base.png::CompressedTexture2D::7313456276908790593::1649801536::1714415319::1::::<><>::
+wall_fountain_basin_blue_anim_f0.png::CompressedTexture2D::1134227919809867338::1649801536::1714415319::1::::<><>::
+wall_fountain_basin_blue_anim_f1.png::CompressedTexture2D::1498065117579629938::1649801536::1714415319::1::::<><>::
+wall_fountain_basin_blue_anim_f2.png::CompressedTexture2D::1571494268445061591::1649801536::1714415319::1::::<><>::
+wall_fountain_basin_red_anim_f0.png::CompressedTexture2D::8787764870449294996::1649801536::1714415319::1::::<><>::
+wall_fountain_basin_red_anim_f1.png::CompressedTexture2D::8454306153900461477::1649801536::1714415319::1::::<><>::
+wall_fountain_basin_red_anim_f2.png::CompressedTexture2D::7174820482454655688::1649801536::1714415319::1::::<><>::
+wall_fountain_mid_blue_anim_f0.png::CompressedTexture2D::4105544223595342902::1649801536::1714415319::1::::<><>::
+wall_fountain_mid_blue_anim_f1.png::CompressedTexture2D::2888093928897052825::1649801536::1714415319::1::::<><>::
+wall_fountain_mid_blue_anim_f2.png::CompressedTexture2D::6361737266851357591::1649801536::1714415319::1::::<><>::
+wall_fountain_mid_red_anim_f0.png::CompressedTexture2D::4801182468072185693::1649801536::1714415319::1::::<><>::
+wall_fountain_mid_red_anim_f1.png::CompressedTexture2D::8509640481276512315::1649801536::1714415319::1::::<><>::
+wall_fountain_mid_red_anim_f2.png::CompressedTexture2D::7589164033092894628::1649801536::1714415319::1::::<><>::
+wall_fountain_top.png::CompressedTexture2D::8775547102053395776::1649801536::1714415319::1::::<><>::
+wall_goo.png::CompressedTexture2D::8289855130842984706::1649801536::1714415319::1::::<><>::
+wall_goo_base.png::CompressedTexture2D::6141675659538043611::1649801536::1714415319::1::::<><>::
+wall_hole_1.png::CompressedTexture2D::1851160920440257169::1649801536::1714415319::1::::<><>::
+wall_hole_2.png::CompressedTexture2D::1161720612886770467::1649801536::1714415319::1::::<><>::
+wall_inner_corner_l_top_left.png::CompressedTexture2D::6651768575431852812::1649801536::1714415319::1::::<><>::
+wall_inner_corner_l_top_rigth.png::CompressedTexture2D::6364739593694741001::1649801536::1714415319::1::::<><>::
+wall_inner_corner_mid_left.png::CompressedTexture2D::1448919741867199374::1649801536::1714415319::1::::<><>::
+wall_inner_corner_mid_rigth.png::CompressedTexture2D::4208368810632499928::1649801536::1714415319::1::::<><>::
+wall_inner_corner_t_top_left.png::CompressedTexture2D::959325774444879208::1649801536::1714415320::1::::<><>::
+wall_inner_corner_t_top_rigth.png::CompressedTexture2D::1312255722864706207::1649801536::1714415320::1::::<><>::
+wall_left.png::CompressedTexture2D::6428294623673773492::1649801536::1714415320::1::::<><>::
+wall_mid.png::CompressedTexture2D::382495493889266881::1649801536::1714415320::1::::<><>::
+wall_right.png::CompressedTexture2D::8419284328981652391::1649801536::1714415320::1::::<><>::
+wall_side_front_left.png::CompressedTexture2D::5575605512327810449::1649801536::1714415320::1::::<><>::
+wall_side_front_right.png::CompressedTexture2D::1639201385672348061::1649801536::1714415320::1::::<><>::
+wall_side_mid_left.png::CompressedTexture2D::5253817200666480815::1649801536::1714415320::1::::<><>::
+wall_side_mid_right.png::CompressedTexture2D::4799558384900831566::1649801536::1714415320::1::::<><>::
+wall_side_top_left.png::CompressedTexture2D::8369028675994648521::1649801536::1714415320::1::::<><>::
+wall_side_top_right.png::CompressedTexture2D::3514448341131288067::1649801536::1714415320::1::::<><>::
+wall_top_left.png::CompressedTexture2D::702313167851125048::1649801536::1714415320::1::::<><>::
+wall_top_mid.png::CompressedTexture2D::1314390405240112678::1649801536::1714415320::1::::<><>::
+wall_top_right.png::CompressedTexture2D::5733453102675835377::1649801536::1714415320::1::::<><>::
+weapon_anime_sword.png::CompressedTexture2D::204499449706952524::1649801536::1714415320::1::::<><>::
+weapon_arrow.png::CompressedTexture2D::8616202765166807430::1649801536::1714415320::1::::<><>::
+weapon_axe.png::CompressedTexture2D::8239899163745716869::1649801536::1714415320::1::::<><>::
+weapon_baton_with_spikes.png::CompressedTexture2D::8443350430145243452::1649801536::1714415320::1::::<><>::
+weapon_big_hammer.png::CompressedTexture2D::8874334067999504443::1649801536::1714415320::1::::<><>::
+weapon_bow.png::CompressedTexture2D::5228489237627167554::1649801536::1714415320::1::::<><>::
+weapon_cleaver.png::CompressedTexture2D::3155958391805223623::1649801536::1714415320::1::::<><>::
+weapon_duel_sword.png::CompressedTexture2D::3634783816455755840::1649801536::1714415320::1::::<><>::
+weapon_golden_sword.png::CompressedTexture2D::3842833159512351397::1649801536::1714415320::1::::<><>::
+weapon_green_magic_staff.png::CompressedTexture2D::4931270483900539589::1649801536::1714415320::1::::<><>::
+weapon_hammer.png::CompressedTexture2D::4515364815121604681::1649801536::1714415320::1::::<><>::
+weapon_katana.png::CompressedTexture2D::1833497981267370160::1649801536::1714415320::1::::<><>::
+weapon_knife.png::CompressedTexture2D::8620042567289763071::1649801536::1714415320::1::::<><>::
+weapon_knight_sword.png::CompressedTexture2D::3635730232853658700::1649801536::1714415320::1::::<><>::
+weapon_lavish_sword.png::CompressedTexture2D::3716910325493959154::1649801536::1714415320::1::::<><>::
+weapon_mace.png::CompressedTexture2D::2260913668274533392::1649801536::1714415320::1::::<><>::
+weapon_machete.png::CompressedTexture2D::1834149579711559720::1649801536::1714415320::1::::<><>::
+weapon_red_gem_sword.png::CompressedTexture2D::2138164289594010463::1649801536::1714415320::1::::<><>::
+weapon_red_magic_staff.png::CompressedTexture2D::1237060032642142036::1649801536::1714415320::1::::<><>::
+weapon_regular_sword.png::CompressedTexture2D::4161696370656337036::1649801536::1714415320::1::::<><>::
+weapon_rusty_sword.png::CompressedTexture2D::2412871694536281557::1649801536::1714415320::1::::<><>::
+weapon_saw_sword.png::CompressedTexture2D::1309655018072902931::1649801536::1714415320::1::::<><>::
+weapon_spear.png::CompressedTexture2D::2399294549835180328::1649801536::1714415320::1::::<><>::
+wizzard_f_hit_anim_f0.png::CompressedTexture2D::7471292569797074863::1649801536::1714415320::1::::<><>::
+wizzard_f_idle_anim_f0.png::CompressedTexture2D::4285981524917926517::1649801536::1714415320::1::::<><>::
+wizzard_f_idle_anim_f1.png::CompressedTexture2D::66382566424818369::1649801536::1714415320::1::::<><>::
+wizzard_f_idle_anim_f2.png::CompressedTexture2D::9017955947126839945::1649801536::1714415320::1::::<><>::
+wizzard_f_idle_anim_f3.png::CompressedTexture2D::2943536671388843328::1649801536::1714415320::1::::<><>::
+wizzard_f_run_anim_f0.png::CompressedTexture2D::7294917755022337790::1649801536::1714415320::1::::<><>::
+wizzard_f_run_anim_f1.png::CompressedTexture2D::4666942526898893206::1649801536::1714415320::1::::<><>::
+wizzard_f_run_anim_f2.png::CompressedTexture2D::5199040844593873985::1649801536::1714415320::1::::<><>::
+wizzard_f_run_anim_f3.png::CompressedTexture2D::6908691122767764640::1649801536::1714415320::1::::<><>::
+wizzard_m_hit_anim_f0.png::CompressedTexture2D::797448176648716328::1649801536::1714415320::1::::<><>::
+wizzard_m_idle_anim_f0.png::CompressedTexture2D::8000092370123365685::1649801536::1714415320::1::::<><>::
+wizzard_m_idle_anim_f1.png::CompressedTexture2D::6551095059874729489::1649801536::1714415320::1::::<><>::
+wizzard_m_idle_anim_f2.png::CompressedTexture2D::1700042565037844218::1649801536::1714415320::1::::<><>::
+wizzard_m_idle_anim_f3.png::CompressedTexture2D::8804089259882942479::1649801536::1714415320::1::::<><>::
+wizzard_m_run_anim_f0.png::CompressedTexture2D::1670056078366722643::1649801536::1714415320::1::::<><>::
+wizzard_m_run_anim_f1.png::CompressedTexture2D::897271205677579157::1649801536::1714415320::1::::<><>::
+wizzard_m_run_anim_f2.png::CompressedTexture2D::462963532363176255::1649801536::1714415320::1::::<><>::
+wizzard_m_run_anim_f3.png::CompressedTexture2D::1723136039221560545::1649801536::1714415320::1::::<><>::
+wogol_idle_anim_f0.png::CompressedTexture2D::6391364779069055849::1649801536::1714415320::1::::<><>::
+wogol_idle_anim_f1.png::CompressedTexture2D::4193955684184355636::1649801536::1714415320::1::::<><>::
+wogol_idle_anim_f2.png::CompressedTexture2D::7655755849675485997::1649801536::1714415320::1::::<><>::
+wogol_idle_anim_f3.png::CompressedTexture2D::7982145110837738337::1649801536::1714415320::1::::<><>::
+wogol_run_anim_f0.png::CompressedTexture2D::7699447727669597361::1649801536::1714415320::1::::<><>::
+wogol_run_anim_f1.png::CompressedTexture2D::8145884844885516589::1649801536::1714415320::1::::<><>::
+wogol_run_anim_f2.png::CompressedTexture2D::3629468369639189445::1649801536::1714415320::1::::<><>::
+wogol_run_anim_f3.png::CompressedTexture2D::2405866030038723813::1649801536::1714415320::1::::<><>::
+zombie_idle_anim_f0.png::CompressedTexture2D::1636456133562529944::1649801536::1714415320::1::::<><>::
+zombie_idle_anim_f1.png::CompressedTexture2D::7930173117774661885::1649801536::1714415320::1::::<><>::
+zombie_idle_anim_f2.png::CompressedTexture2D::7472281539044441093::1649801536::1714415320::1::::<><>::
+zombie_idle_anim_f3.png::CompressedTexture2D::7438132734290481741::1649801536::1714415320::1::::<><>::
+zombie_run_anim_f0.png::CompressedTexture2D::8357936191892896055::1649801536::1714415320::1::::<><>::
+zombie_run_anim_f1.png::CompressedTexture2D::6476698904885994185::1649801536::1714415320::1::::<><>::
+zombie_run_anim_f2.png::CompressedTexture2D::126168969469374616::1649801536::1714415320::1::::<><>::
+zombie_run_anim_f3.png::CompressedTexture2D::8990056854000599656::1649801536::1714415320::1::::<><>::
+::res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Building/::1714415321
+column_base.png::CompressedTexture2D::9127467842076021900::1649801536::1714415320::1::::<><>::
+column_mid.png::CompressedTexture2D::3777236841178767352::1649801536::1714415320::1::::<><>::
+column_top.png::CompressedTexture2D::4386559571032463542::1649801536::1714415320::1::::<><>::
+doors_all.png::CompressedTexture2D::7940027474017304177::1649801536::1714415320::1::::<><>::
+doors_frame_left.png::CompressedTexture2D::3813171815904621856::1649801536::1714415320::1::::<><>::
+doors_frame_righ.png::CompressedTexture2D::1974953936032773630::1649801536::1714415320::1::::<><>::
+doors_frame_top.png::CompressedTexture2D::3920766504650537789::1649801536::1714415320::1::::<><>::
+doors_leaf_closed.png::CompressedTexture2D::2227130314385386969::1649801536::1714415320::1::::<><>::
+doors_leaf_open.png::CompressedTexture2D::4494790827202107435::1649801536::1714415320::1::::<><>::
+edge.png::CompressedTexture2D::6764000196872535252::1649801536::1714415320::1::::<><>::
+floor_1.png::CompressedTexture2D::916314902300921491::1649801536::1714415320::1::::<><>::
+floor_2.png::CompressedTexture2D::3509739258853482015::1649801536::1714415320::1::::<><>::
+floor_3.png::CompressedTexture2D::1028489795805937656::1649801536::1714415320::1::::<><>::
+floor_4.png::CompressedTexture2D::7467588638604645008::1649801536::1714415320::1::::<><>::
+floor_5.png::CompressedTexture2D::2875989798030891035::1649801536::1714415320::1::::<><>::
+floor_6.png::CompressedTexture2D::947211703371312991::1649801536::1714415320::1::::<><>::
+floor_7.png::CompressedTexture2D::3115888909812655018::1649801536::1714415320::1::::<><>::
+floor_8.png::CompressedTexture2D::9023298203805332996::1649801536::1714415321::1::::<><>::
+floor_ladder.png::CompressedTexture2D::4776772930457536441::1649801536::1714415321::1::::<><>::
+floor_spikes_anim_f0.png::CompressedTexture2D::4596894151590752465::1649801536::1714415321::1::::<><>::
+floor_spikes_anim_f1.png::CompressedTexture2D::211818981868129098::1649801536::1714415321::1::::<><>::
+floor_spikes_anim_f2.png::CompressedTexture2D::2334355137196672609::1649801536::1714415321::1::::<><>::
+floor_spikes_anim_f3.png::CompressedTexture2D::8688157598284643973::1649801536::1714415321::1::::<><>::
+hole.png::CompressedTexture2D::4186144679537540351::1649801536::1714415321::1::::<><>::
+skull.png::CompressedTexture2D::5360177815723229903::1649801536::1714415321::1::::<><>::
+wall_banner_blue.png::CompressedTexture2D::6364011353542958873::1649801536::1714415321::1::::<><>::
+wall_banner_green.png::CompressedTexture2D::5646742026983413947::1649801536::1714415321::1::::<><>::
+wall_banner_red.png::CompressedTexture2D::3590105814082170416::1649801536::1714415321::1::::<><>::
+wall_banner_yellow.png::CompressedTexture2D::7592481138883134855::1649801536::1714415321::1::::<><>::
+wall_column_mid.png::CompressedTexture2D::7809441646396120101::1649801536::1714415321::1::::<><>::
+wall_column_top.png::CompressedTexture2D::8202996890899248715::1649801536::1714415321::1::::<><>::
+wall_corner_bottom_left.png::CompressedTexture2D::2408490532629909220::1649801536::1714415321::1::::<><>::
+wall_corner_bottom_right.png::CompressedTexture2D::6964020960875516445::1649801536::1714415321::1::::<><>::
+wall_corner_front_left.png::CompressedTexture2D::964831686884076800::1649801536::1714415321::1::::<><>::
+wall_corner_front_right.png::CompressedTexture2D::3665243006551847937::1649801536::1714415321::1::::<><>::
+wall_corner_left.png::CompressedTexture2D::1572708885407994732::1649801536::1714415321::1::::<><>::
+wall_corner_right.png::CompressedTexture2D::4707405446246451843::1649801536::1714415321::1::::<><>::
+wall_corner_top_left.png::CompressedTexture2D::3788368379631912781::1649801536::1714415321::1::::<><>::
+wall_corner_top_right.png::CompressedTexture2D::1952871245808014347::1649801536::1714415321::1::::<><>::
+wall_coulmn_base.png::CompressedTexture2D::8062036894136663444::1649801536::1714415321::1::::<><>::
+wall_fountain_basin_blue_anim_f0.png::CompressedTexture2D::5510532694212293943::1649801536::1714415321::1::::<><>::
+wall_fountain_basin_blue_anim_f1.png::CompressedTexture2D::4052469929640137005::1649801536::1714415321::1::::<><>::
+wall_fountain_basin_blue_anim_f2.png::CompressedTexture2D::8061647600495279918::1649801536::1714415321::1::::<><>::
+wall_fountain_basin_red_anim_f0.png::CompressedTexture2D::4293272600852918301::1649801536::1714415321::1::::<><>::
+wall_fountain_basin_red_anim_f1.png::CompressedTexture2D::3160271649506689845::1649801536::1714415321::1::::<><>::
+wall_fountain_basin_red_anim_f2.png::CompressedTexture2D::5846574694467449118::1649801536::1714415321::1::::<><>::
+wall_fountain_mid_blue_anim_f0.png::CompressedTexture2D::2871716645761846460::1649801536::1714415321::1::::<><>::
+wall_fountain_mid_blue_anim_f1.png::CompressedTexture2D::3799011456976153875::1649801536::1714415321::1::::<><>::
+wall_fountain_mid_blue_anim_f2.png::CompressedTexture2D::5923117931516864710::1649801536::1714415321::1::::<><>::
+wall_fountain_mid_red_anim_f0.png::CompressedTexture2D::5185644727135504609::1649801536::1714415321::1::::<><>::
+wall_fountain_mid_red_anim_f1.png::CompressedTexture2D::7960748302434559035::1649801536::1714415321::1::::<><>::
+wall_fountain_mid_red_anim_f2.png::CompressedTexture2D::2412813135469103362::1649801536::1714415321::1::::<><>::
+wall_fountain_top.png::CompressedTexture2D::8137564171725161657::1649801536::1714415321::1::::<><>::
+wall_goo.png::CompressedTexture2D::8665571395600735069::1649801536::1714415321::1::::<><>::
+wall_goo_base.png::CompressedTexture2D::7177935855725643566::1649801536::1714415321::1::::<><>::
+wall_hole_1.png::CompressedTexture2D::3757257847526109719::1649801536::1714415321::1::::<><>::
+wall_hole_2.png::CompressedTexture2D::4779734065581569419::1649801536::1714415321::1::::<><>::
+wall_inner_corner_l_top_left.png::CompressedTexture2D::8920496758920753896::1649801536::1714415321::1::::<><>::
+wall_inner_corner_l_top_rigth.png::CompressedTexture2D::4890353554251785042::1649801536::1714415321::1::::<><>::
+wall_inner_corner_mid_left.png::CompressedTexture2D::6732683631399475001::1649801536::1714415321::1::::<><>::
+wall_inner_corner_mid_rigth.png::CompressedTexture2D::5281139667500487610::1649801536::1714415321::1::::<><>::
+wall_inner_corner_t_top_left.png::CompressedTexture2D::4389603439626666473::1649801536::1714415321::1::::<><>::
+wall_inner_corner_t_top_rigth.png::CompressedTexture2D::1921202931403655219::1649801536::1714415321::1::::<><>::
+wall_left.png::CompressedTexture2D::8939291174897855292::1649801536::1714415321::1::::<><>::
+wall_mid.png::CompressedTexture2D::1356807485550069880::1649801536::1714415321::1::::<><>::
+wall_right.png::CompressedTexture2D::5589395460703522555::1649801536::1714415321::1::::<><>::
+wall_side_front_left.png::CompressedTexture2D::3435492173721170532::1649801536::1714415321::1::::<><>::
+wall_side_front_right.png::CompressedTexture2D::6168675053426878677::1649801536::1714415321::1::::<><>::
+wall_side_mid_left.png::CompressedTexture2D::5516335233438612350::1649801536::1714415321::1::::<><>::
+wall_side_mid_right.png::CompressedTexture2D::3362164674664113211::1649801536::1714415321::1::::<><>::
+wall_side_top_left.png::CompressedTexture2D::8862874858961903431::1649801536::1714415321::1::::<><>::
+wall_side_top_right.png::CompressedTexture2D::1799207414303214874::1649801536::1714415321::1::::<><>::
+wall_top_left.png::CompressedTexture2D::6193421824807991011::1649801536::1714415321::1::::<><>::
+wall_top_mid.png::CompressedTexture2D::934766460955306209::1649801536::1714415321::1::::<><>::
+wall_top_right.png::CompressedTexture2D::7274922284516689040::1649801536::1714415321::1::::<><>::
+::res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Characters/::1714415238
+::res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Characters/Big Demon/::1714415321
+big_demon_idle_anim_f0.png::CompressedTexture2D::2680478069087534783::1649801536::1714415321::1::::<><>::
+big_demon_idle_anim_f1.png::CompressedTexture2D::1392819010542959448::1649801536::1714415321::1::::<><>::
+big_demon_idle_anim_f2.png::CompressedTexture2D::4118005076765936958::1649801536::1714415321::1::::<><>::
+big_demon_idle_anim_f3.png::CompressedTexture2D::1428788578388902119::1649801536::1714415321::1::::<><>::
+big_demon_run_anim_f0.png::CompressedTexture2D::5080251018204183629::1649801536::1714415321::1::::<><>::
+big_demon_run_anim_f1.png::CompressedTexture2D::5205821402714295761::1649801536::1714415321::1::::<><>::
+big_demon_run_anim_f2.png::CompressedTexture2D::5176088812053862960::1649801536::1714415321::1::::<><>::
+big_demon_run_anim_f3.png::CompressedTexture2D::9059198902303536923::1649801536::1714415321::1::::<><>::
+::res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Characters/Chort/::1714415321
+chort_idle_anim_f0.png::CompressedTexture2D::3078302107394828736::1649801536::1714415321::1::::<><>::
+chort_idle_anim_f1.png::CompressedTexture2D::1102232847139807995::1649801536::1714415321::1::::<><>::
+chort_idle_anim_f2.png::CompressedTexture2D::1196424537876835871::1649801536::1714415321::1::::<><>::
+chort_idle_anim_f3.png::CompressedTexture2D::6566877753164386727::1649801536::1714415321::1::::<><>::
+chort_run_anim_f0.png::CompressedTexture2D::3250367101708463753::1649801536::1714415321::1::::<><>::
+chort_run_anim_f1.png::CompressedTexture2D::1806964282834975074::1649801536::1714415321::1::::<><>::
+chort_run_anim_f2.png::CompressedTexture2D::3459540050245858194::1649801536::1714415321::1::::<><>::
+chort_run_anim_f3.png::CompressedTexture2D::4294896523731081673::1649801536::1714415321::1::::<><>::
+::res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Characters/Elf/::1714415322
+elf_f_hit_anim_f0.png::CompressedTexture2D::8510333343318977580::1649801536::1714415321::1::::<><>::
+elf_f_idle_anim_f0.png::CompressedTexture2D::743144845018465411::1649801536::1714415321::1::::<><>::
+elf_f_idle_anim_f1.png::CompressedTexture2D::6213199507308263038::1649801536::1714415321::1::::<><>::
+elf_f_idle_anim_f2.png::CompressedTexture2D::5637408959920626253::1649801536::1714415321::1::::<><>::
+elf_f_idle_anim_f3.png::CompressedTexture2D::4705866712392758374::1649801536::1714415321::1::::<><>::
+elf_f_run_anim_f0.png::CompressedTexture2D::8938999927824277721::1649801536::1714415321::1::::<><>::
+elf_f_run_anim_f1.png::CompressedTexture2D::6499148793042615404::1649801536::1714415321::1::::<><>::
+elf_f_run_anim_f2.png::CompressedTexture2D::814591098846023915::1649801536::1714415321::1::::<><>::
+elf_f_run_anim_f3.png::CompressedTexture2D::6838374340535257553::1649801536::1714415321::1::::<><>::
+elf_m_hit_anim_f0.png::CompressedTexture2D::5835927513193884942::1649801536::1714415321::1::::<><>::
+elf_m_idle_anim_f0.png::CompressedTexture2D::8428886271927242249::1649801536::1714415321::1::::<><>::
+elf_m_idle_anim_f1.png::CompressedTexture2D::6536625283571616213::1649801536::1714415321::1::::<><>::
+elf_m_idle_anim_f2.png::CompressedTexture2D::3196493463542317973::1649801536::1714415321::1::::<><>::
+elf_m_idle_anim_f3.png::CompressedTexture2D::933740268465592858::1649801536::1714415321::1::::<><>::
+elf_m_run_anim_f0.png::CompressedTexture2D::6096657473504958619::1649801536::1714415322::1::::<><>::
+elf_m_run_anim_f1.png::CompressedTexture2D::251461405367378358::1649801536::1714415322::1::::<><>::
+elf_m_run_anim_f2.png::CompressedTexture2D::6017653280545273086::1649801536::1714415322::1::::<><>::
+elf_m_run_anim_f3.png::CompressedTexture2D::4365375928633426022::1649801536::1714415322::1::::<><>::
+::res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Characters/Goblin/::1714415322
+goblin_idle_anim_f0.png::CompressedTexture2D::572982488329718841::1649801536::1714415322::1::::<><>::
+goblin_idle_anim_f1.png::CompressedTexture2D::3700038899899372688::1649801536::1714415322::1::::<><>::
+goblin_idle_anim_f2.png::CompressedTexture2D::2617340286013357873::1649801536::1714415322::1::::<><>::
+goblin_idle_anim_f3.png::CompressedTexture2D::6822979487402442455::1649801536::1714415322::1::::<><>::
+goblin_run_anim_f0.png::CompressedTexture2D::1931675498179504603::1649801536::1714415322::1::::<><>::
+goblin_run_anim_f1.png::CompressedTexture2D::310594268964390673::1649801536::1714415322::1::::<><>::
+goblin_run_anim_f2.png::CompressedTexture2D::4345475323254792315::1649801536::1714415322::1::::<><>::
+goblin_run_anim_f3.png::CompressedTexture2D::7238650862903242380::1649801536::1714415322::1::::<><>::
+::res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Characters/Imp/::1714415322
+imp_idle_anim_f0.png::CompressedTexture2D::7743050474353741398::1649801536::1714415322::1::::<><>::
+imp_idle_anim_f1.png::CompressedTexture2D::7298884588543279770::1649801536::1714415322::1::::<><>::
+imp_idle_anim_f2.png::CompressedTexture2D::5737488420352759950::1649801536::1714415322::1::::<><>::
+imp_idle_anim_f3.png::CompressedTexture2D::6229778682625798984::1649801536::1714415322::1::::<><>::
+imp_run_anim_f0.png::CompressedTexture2D::9069732569337013789::1649801536::1714415322::1::::<><>::
+imp_run_anim_f1.png::CompressedTexture2D::4253468521319745918::1649801536::1714415322::1::::<><>::
+imp_run_anim_f2.png::CompressedTexture2D::6971629218565891308::1649801536::1714415322::1::::<><>::
+imp_run_anim_f3.png::CompressedTexture2D::9001826573611209303::1649801536::1714415322::1::::<><>::
+::res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Characters/Knight/::1714415322
+knight_f_hit_anim_f0.png::CompressedTexture2D::8974169391741244028::1649801536::1714415322::1::::<><>::
+knight_f_idle_anim_f0.png::CompressedTexture2D::1096612943086541418::1649801536::1714415322::1::::<><>::
+knight_f_idle_anim_f1.png::CompressedTexture2D::7267958745358500728::1649801536::1714415322::1::::<><>::
+knight_f_idle_anim_f2.png::CompressedTexture2D::5273222917959819770::1649801536::1714415322::1::::<><>::
+knight_f_idle_anim_f3.png::CompressedTexture2D::7853126508109385040::1649801536::1714415322::1::::<><>::
+knight_f_run_anim_f0.png::CompressedTexture2D::3139099112296881768::1649801536::1714415322::1::::<><>::
+knight_f_run_anim_f1.png::CompressedTexture2D::6044777521577616370::1649801536::1714415322::1::::<><>::
+knight_f_run_anim_f2.png::CompressedTexture2D::5662563779270015845::1649801536::1714415322::1::::<><>::
+knight_f_run_anim_f3.png::CompressedTexture2D::8680064869843515887::1649801536::1714415322::1::::<><>::
+knight_m_hit_anim_f0.png::CompressedTexture2D::8084891522296589957::1649801536::1714415322::1::::<><>::
+knight_m_idle_anim_f0.png::CompressedTexture2D::3094822573472366397::1649801536::1714415322::1::::<><>::
+knight_m_idle_anim_f1.png::CompressedTexture2D::1329509169639651180::1649801536::1714415322::1::::<><>::
+knight_m_idle_anim_f2.png::CompressedTexture2D::1725783817313926980::1649801536::1714415322::1::::<><>::
+knight_m_idle_anim_f3.png::CompressedTexture2D::7999786285163010978::1649801536::1714415322::1::::<><>::
+knight_m_run_anim_f0.png::CompressedTexture2D::2485531536474544634::1649801536::1714415322::1::::<><>::
+knight_m_run_anim_f1.png::CompressedTexture2D::1451493647232281808::1649801536::1714415322::1::::<><>::
+knight_m_run_anim_f2.png::CompressedTexture2D::3494587666424374286::1649801536::1714415322::1::::<><>::
+knight_m_run_anim_f3.png::CompressedTexture2D::5757825262751980547::1649801536::1714415322::1::::<><>::
+::res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Characters/Lizard/::1714415322
+lizard_f_hit_anim_f0.png::CompressedTexture2D::2738981002060343510::1649801536::1714415322::1::::<><>::
+lizard_f_idle_anim_f0.png::CompressedTexture2D::4333932353163788249::1649801536::1714415322::1::::<><>::
+lizard_f_idle_anim_f1.png::CompressedTexture2D::9178861310420011643::1649801536::1714415322::1::::<><>::
+lizard_f_idle_anim_f2.png::CompressedTexture2D::6639443857608851871::1649801536::1714415322::1::::<><>::
+lizard_f_idle_anim_f3.png::CompressedTexture2D::4299684975704103551::1649801536::1714415322::1::::<><>::
+lizard_f_run_anim_f0.png::CompressedTexture2D::504609869853701423::1649801536::1714415322::1::::<><>::
+lizard_f_run_anim_f1.png::CompressedTexture2D::3726185721733186907::1649801536::1714415322::1::::<><>::
+lizard_f_run_anim_f2.png::CompressedTexture2D::75886761610898802::1649801536::1714415322::1::::<><>::
+lizard_f_run_anim_f3.png::CompressedTexture2D::210010874590806425::1649801536::1714415322::1::::<><>::
+lizard_m_hit_anim_f0.png::CompressedTexture2D::5791370730282466363::1649801536::1714415322::1::::<><>::
+lizard_m_idle_anim_f0.png::CompressedTexture2D::6532172416267357141::1649801536::1714415321::1::::<><>::
+lizard_m_idle_anim_f1.png::CompressedTexture2D::3915009840652473508::1649801536::1714415321::1::::<><>::
+lizard_m_idle_anim_f2.png::CompressedTexture2D::1750373774578708604::1649801536::1714415321::1::::<><>::
+lizard_m_idle_anim_f3.png::CompressedTexture2D::7824814186137090087::1649801536::1714415321::1::::<><>::
+lizard_m_run_anim_f0.png::CompressedTexture2D::895859551249795194::1649801536::1714415321::1::::<><>::
+lizard_m_run_anim_f1.png::CompressedTexture2D::1843054044026079708::1649801536::1714415321::1::::<><>::
+lizard_m_run_anim_f2.png::CompressedTexture2D::2071469354360287318::1649801536::1714415321::1::::<><>::
+lizard_m_run_anim_f3.png::CompressedTexture2D::8225681713989215111::1649801536::1714415321::1::::<><>::
+::res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Characters/Masked Orc/::1714415321
+masked_orc_idle_anim_f0.png::CompressedTexture2D::2951258206001375287::1649801536::1714415321::1::::<><>::
+masked_orc_idle_anim_f1.png::CompressedTexture2D::6246319450766194778::1649801536::1714415321::1::::<><>::
+masked_orc_idle_anim_f2.png::CompressedTexture2D::7761614619648294610::1649801536::1714415321::1::::<><>::
+masked_orc_idle_anim_f3.png::CompressedTexture2D::3171871996776426546::1649801536::1714415321::1::::<><>::
+masked_orc_run_anim_f0.png::CompressedTexture2D::4270706320113514501::1649801536::1714415321::1::::<><>::
+masked_orc_run_anim_f1.png::CompressedTexture2D::3886360974607229067::1649801536::1714415321::1::::<><>::
+masked_orc_run_anim_f2.png::CompressedTexture2D::7050968854696218871::1649801536::1714415321::1::::<><>::
+masked_orc_run_anim_f3.png::CompressedTexture2D::5676567599673732394::1649801536::1714415321::1::::<><>::
+::res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Characters/Mimic/::1714415322
+chest_mimic_open_anim_f0.png::CompressedTexture2D::7062650243102010211::1649801536::1714415321::1::::<><>::
+chest_mimic_open_anim_f1.png::CompressedTexture2D::3323288882336619239::1649801536::1714415321::1::::<><>::
+chest_mimic_open_anim_f2.png::CompressedTexture2D::6293747764477599102::1649801536::1714415322::1::::<><>::
+::res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Characters/Muddy/::1714415322
+muddy_idle_anim_f0.png::CompressedTexture2D::1554809368331786444::1649801536::1714415322::1::::<><>::
+muddy_idle_anim_f1.png::CompressedTexture2D::4701273429783972444::1649801536::1714415322::1::::<><>::
+muddy_idle_anim_f2.png::CompressedTexture2D::8016900213785230906::1649801536::1714415322::1::::<><>::
+muddy_idle_anim_f3.png::CompressedTexture2D::5314248011772890331::1649801536::1714415322::1::::<><>::
+muddy_run_anim_f0.png::CompressedTexture2D::8738426554949475827::1649801536::1714415322::1::::<><>::
+muddy_run_anim_f1.png::CompressedTexture2D::2142941527687195840::1649801536::1714415322::1::::<><>::
+muddy_run_anim_f2.png::CompressedTexture2D::4205350996069698977::1649801536::1714415322::1::::<><>::
+muddy_run_anim_f3.png::CompressedTexture2D::1388952231034006739::1649801536::1714415322::1::::<><>::
+::res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Characters/Necromancer/::1714415322
+necromancer_idle_anim_f0.png::CompressedTexture2D::8234598671705585227::1649801536::1714415322::1::::<><>::
+necromancer_idle_anim_f1.png::CompressedTexture2D::5622146509925517330::1649801536::1714415322::1::::<><>::
+necromancer_idle_anim_f2.png::CompressedTexture2D::5356866344141436231::1649801536::1714415322::1::::<><>::
+necromancer_idle_anim_f3.png::CompressedTexture2D::9035425688259689541::1649801536::1714415322::1::::<><>::
+necromancer_run_anim_f0.png::CompressedTexture2D::3642037639805293635::1649801536::1714415322::1::::<><>::
+necromancer_run_anim_f1.png::CompressedTexture2D::6304208459613155690::1649801536::1714415322::1::::<><>::
+necromancer_run_anim_f2.png::CompressedTexture2D::5823021432014329489::1649801537::1714415322::1::::<><>::
+necromancer_run_anim_f3.png::CompressedTexture2D::8822895264218678182::1649801537::1714415322::1::::<><>::
+::res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Characters/Ogre/::1714415322
+ogre_idle_anim_f0.png::CompressedTexture2D::6806194347644152995::1649801537::1714415322::1::::<><>::
+ogre_idle_anim_f1.png::CompressedTexture2D::2961651383582119013::1649801537::1714415322::1::::<><>::
+ogre_idle_anim_f2.png::CompressedTexture2D::6725787651786091473::1649801537::1714415322::1::::<><>::
+ogre_idle_anim_f3.png::CompressedTexture2D::5869473530770077957::1649801537::1714415322::1::::<><>::
+ogre_run_anim_f0.png::CompressedTexture2D::5169673248871141902::1649801537::1714415322::1::::<><>::
+ogre_run_anim_f1.png::CompressedTexture2D::8391741678187995541::1649801537::1714415321::1::::<><>::
+ogre_run_anim_f2.png::CompressedTexture2D::4998462063907044380::1649801537::1714415321::1::::<><>::
+ogre_run_anim_f3.png::CompressedTexture2D::1688780342871483685::1649801537::1714415321::1::::<><>::
+::res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Characters/Orc Shaman/::1714415321
+orc_shaman_idle_anim_f0.png::CompressedTexture2D::209312886049639760::1649801537::1714415321::1::::<><>::
+orc_shaman_idle_anim_f1.png::CompressedTexture2D::5992507117063413878::1649801537::1714415321::1::::<><>::
+orc_shaman_idle_anim_f2.png::CompressedTexture2D::7853862931128033865::1649801537::1714415321::1::::<><>::
+orc_shaman_idle_anim_f3.png::CompressedTexture2D::3303436253174495342::1649801537::1714415321::1::::<><>::
+orc_shaman_run_anim_f0.png::CompressedTexture2D::6419077956582339644::1649801537::1714415321::1::::<><>::
+orc_shaman_run_anim_f1.png::CompressedTexture2D::6236317561936882843::1649801537::1714415321::1::::<><>::
+orc_shaman_run_anim_f2.png::CompressedTexture2D::8390783095051002496::1649801537::1714415321::1::::<><>::
+orc_shaman_run_anim_f3.png::CompressedTexture2D::1544081416234533280::1649801537::1714415321::1::::<><>::
+::res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Characters/Orc Warrior/::1714415321
+orc_warrior_idle_anim_f0.png::CompressedTexture2D::3283628307047443139::1649801537::1714415321::1::::<><>::
+orc_warrior_idle_anim_f1.png::CompressedTexture2D::8162362269211767267::1649801537::1714415321::1::::<><>::
+orc_warrior_idle_anim_f2.png::CompressedTexture2D::8374074399794045198::1649801537::1714415321::1::::<><>::
+orc_warrior_idle_anim_f3.png::CompressedTexture2D::4289193956339013702::1649801537::1714415321::1::::<><>::
+orc_warrior_run_anim_f0.png::CompressedTexture2D::2870915749975236747::1649801537::1714415321::1::::<><>::
+orc_warrior_run_anim_f1.png::CompressedTexture2D::4620203121073877575::1649801537::1714415321::1::::<><>::
+orc_warrior_run_anim_f2.png::CompressedTexture2D::3348893403129565919::1649801537::1714415321::1::::<><>::
+orc_warrior_run_anim_f3.png::CompressedTexture2D::5101216395895922222::1649801537::1714415321::1::::<><>::
+::res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Characters/Skeleton/::1714415321
+skelet_idle_anim_f0.png::CompressedTexture2D::5940236168766637836::1649801537::1714415321::1::::<><>::
+skelet_idle_anim_f1.png::CompressedTexture2D::1275816601259371190::1649801537::1714415321::1::::<><>::
+skelet_idle_anim_f2.png::CompressedTexture2D::4330212983326240286::1649801537::1714415321::1::::<><>::
+skelet_idle_anim_f3.png::CompressedTexture2D::8632090921381904432::1649801537::1714415321::1::::<><>::
+skelet_run_anim_f0.png::CompressedTexture2D::9065581044612600007::1649801537::1714415321::1::::<><>::
+skelet_run_anim_f1.png::CompressedTexture2D::4592217316956123024::1649801537::1714415321::1::::<><>::
+skelet_run_anim_f2.png::CompressedTexture2D::1281192992055572429::1649801537::1714415321::1::::<><>::
+skelet_run_anim_f3.png::CompressedTexture2D::8544162514571196406::1649801537::1714415321::1::::<><>::
+::res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Characters/Swampy/::1714415321
+swampy_idle_anim_f0.png::CompressedTexture2D::3962720147720656252::1649801537::1714415321::1::::<><>::
+swampy_idle_anim_f1.png::CompressedTexture2D::8630188513298473028::1649801537::1714415321::1::::<><>::
+swampy_idle_anim_f2.png::CompressedTexture2D::1473857359898024420::1649801537::1714415321::1::::<><>::
+swampy_idle_anim_f3.png::CompressedTexture2D::7381859306070123022::1649801537::1714415321::1::::<><>::
+swampy_run_anim_f0.png::CompressedTexture2D::2918474033329255368::1649801537::1714415321::1::::<><>::
+swampy_run_anim_f1.png::CompressedTexture2D::1793728252343278531::1649801537::1714415321::1::::<><>::
+swampy_run_anim_f2.png::CompressedTexture2D::7899200064026674949::1649801537::1714415321::1::::<><>::
+swampy_run_anim_f3.png::CompressedTexture2D::8843782118349116718::1649801537::1714415321::1::::<><>::
+::res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Characters/Wizard/::1714415321
+wizzard_f_hit_anim_f0.png::CompressedTexture2D::4760910076282668779::1649801537::1714415321::1::::<><>::
+wizzard_f_idle_anim_f0.png::CompressedTexture2D::1753961018714026596::1649801537::1714415321::1::::<><>::
+wizzard_f_idle_anim_f1.png::CompressedTexture2D::602488070237457553::1649801537::1714415321::1::::<><>::
+wizzard_f_idle_anim_f2.png::CompressedTexture2D::4199974092171905346::1649801537::1714415321::1::::<><>::
+wizzard_f_idle_anim_f3.png::CompressedTexture2D::733489766885452038::1649801537::1714415321::1::::<><>::
+wizzard_f_run_anim_f0.png::CompressedTexture2D::1286056302890990703::1649801537::1714415321::1::::<><>::
+wizzard_f_run_anim_f1.png::CompressedTexture2D::6743373824952899418::1649801537::1714415321::1::::<><>::
+wizzard_f_run_anim_f2.png::CompressedTexture2D::258413234574348227::1649801537::1714415321::1::::<><>::
+wizzard_f_run_anim_f3.png::CompressedTexture2D::439211371166064985::1649801537::1714415321::1::::<><>::
+wizzard_m_hit_anim_f0.png::CompressedTexture2D::3689973331665796837::1649801537::1714415321::1::::<><>::
+wizzard_m_idle_anim_f0.png::CompressedTexture2D::754128003971537127::1649801537::1714415321::1::::<><>::
+wizzard_m_idle_anim_f1.png::CompressedTexture2D::6769320949589526044::1649801537::1714415321::1::::<><>::
+wizzard_m_idle_anim_f2.png::CompressedTexture2D::4003680663432323498::1649801537::1714415321::1::::<><>::
+wizzard_m_idle_anim_f3.png::CompressedTexture2D::4505541687698218592::1649801537::1714415321::1::::<><>::
+wizzard_m_run_anim_f0.png::CompressedTexture2D::208499512531094645::1649801537::1714415321::1::::<><>::
+wizzard_m_run_anim_f1.png::CompressedTexture2D::5073585351998771286::1649801537::1714415321::1::::<><>::
+wizzard_m_run_anim_f2.png::CompressedTexture2D::1290798457580607021::1649801537::1714415321::1::::<><>::
+wizzard_m_run_anim_f3.png::CompressedTexture2D::4431181239118638172::1649801537::1714415321::1::::<><>::
+::res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Characters/Wogol/::1714415321
+wogol_idle_anim_f0.png::CompressedTexture2D::1575418239302313161::1649801537::1714415321::1::::<><>::
+wogol_idle_anim_f1.png::CompressedTexture2D::573804310412479443::1649801537::1714415321::1::::<><>::
+wogol_idle_anim_f2.png::CompressedTexture2D::8625586845572841430::1649801537::1714415321::1::::<><>::
+wogol_idle_anim_f3.png::CompressedTexture2D::415551760639251377::1649801537::1714415321::1::::<><>::
+wogol_run_anim_f0.png::CompressedTexture2D::3548557210295716312::1649801537::1714415321::1::::<><>::
+wogol_run_anim_f1.png::CompressedTexture2D::4398894943739694661::1649801537::1714415321::1::::<><>::
+wogol_run_anim_f2.png::CompressedTexture2D::6336224442829674219::1649801537::1714415321::1::::<><>::
+wogol_run_anim_f3.png::CompressedTexture2D::7207363936798086461::1649801537::1714415321::1::::<><>::
+::res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Characters/Zombie/::1714415321
+zombie_idle_anim_f0.png::CompressedTexture2D::8949263691426078129::1649801537::1714415321::1::::<><>::
+zombie_idle_anim_f1.png::CompressedTexture2D::1759433649275235604::1649801537::1714415321::1::::<><>::
+zombie_idle_anim_f2.png::CompressedTexture2D::1813724832594796156::1649801537::1714415321::1::::<><>::
+zombie_idle_anim_f3.png::CompressedTexture2D::5640943410683069665::1649801537::1714415321::1::::<><>::
+zombie_run_anim_f0.png::CompressedTexture2D::6507207546588248793::1649801537::1714415321::1::::<><>::
+zombie_run_anim_f1.png::CompressedTexture2D::1929254044266244452::1649801537::1714415321::1::::<><>::
+zombie_run_anim_f2.png::CompressedTexture2D::490945388029280323::1649801537::1714415321::1::::<><>::
+zombie_run_anim_f3.png::CompressedTexture2D::8079549487245060599::1649801537::1714415321::1::::<><>::
+::res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Characters/Zombie - Big/::1714415321
+big_zombie_idle_anim_f0.png::CompressedTexture2D::9215876120100229639::1649801537::1714415321::1::::<><>::
+big_zombie_idle_anim_f1.png::CompressedTexture2D::6413470544939528925::1649801537::1714415321::1::::<><>::
+big_zombie_idle_anim_f2.png::CompressedTexture2D::2792586015063826765::1649801537::1714415321::1::::<><>::
+big_zombie_idle_anim_f3.png::CompressedTexture2D::7324217453677327673::1649801537::1714415321::1::::<><>::
+big_zombie_run_anim_f0.png::CompressedTexture2D::5259184471216432149::1649801537::1714415321::1::::<><>::
+big_zombie_run_anim_f1.png::CompressedTexture2D::4041410169746021506::1649801537::1714415321::1::::<><>::
+big_zombie_run_anim_f2.png::CompressedTexture2D::1524319052820915891::1649801537::1714415321::1::::<><>::
+big_zombie_run_anim_f3.png::CompressedTexture2D::5435966543010293343::1649801537::1714415321::1::::<><>::
+::res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Characters/Zombie - Ice/::1714415321
+ice_zombie_idle_anim_f0.png::CompressedTexture2D::3128031113347064316::1649801537::1714415321::1::::<><>::
+ice_zombie_idle_anim_f1.png::CompressedTexture2D::4203320243388274268::1649801537::1714415321::1::::<><>::
+ice_zombie_idle_anim_f2.png::CompressedTexture2D::1076013531739527717::1649801537::1714415321::1::::<><>::
+ice_zombie_idle_anim_f3.png::CompressedTexture2D::5457573049130297254::1649801537::1714415321::1::::<><>::
+ice_zombie_run_anim_f0.png::CompressedTexture2D::6392091498586938997::1649801537::1714415321::1::::<><>::
+ice_zombie_run_anim_f1.png::CompressedTexture2D::6243592597650306909::1649801537::1714415321::1::::<><>::
+ice_zombie_run_anim_f2.png::CompressedTexture2D::6865319595711777762::1649801537::1714415321::1::::<><>::
+ice_zombie_run_anim_f3.png::CompressedTexture2D::7254995688558731031::1649801537::1714415321::1::::<><>::
+::res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Characters/Zombie - Tiny/::1714415321
+tiny_zombie_idle_anim_f0.png::CompressedTexture2D::7665182003880895061::1649801537::1714415321::1::::<><>::
+tiny_zombie_idle_anim_f1.png::CompressedTexture2D::8744396199648808267::1649801537::1714415321::1::::<><>::
+tiny_zombie_idle_anim_f2.png::CompressedTexture2D::1249795845485280495::1649801537::1714415321::1::::<><>::
+tiny_zombie_idle_anim_f3.png::CompressedTexture2D::1805423254883471127::1649801537::1714415321::1::::<><>::
+tiny_zombie_run_anim_f0.png::CompressedTexture2D::6738283780747933217::1649801537::1714415321::1::::<><>::
+tiny_zombie_run_anim_f1.png::CompressedTexture2D::1276996852415843923::1649801537::1714415321::1::::<><>::
+tiny_zombie_run_anim_f2.png::CompressedTexture2D::8956541569185115550::1649801537::1714415321::1::::<><>::
+tiny_zombie_run_anim_f3.png::CompressedTexture2D::3541416978917083357::1649801537::1714415321::1::::<><>::
+::res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Chest/::1714415321
+chest_empty_open_anim_f0.png::CompressedTexture2D::2946460780554998388::1649801537::1714415321::1::::<><>::
+chest_empty_open_anim_f1.png::CompressedTexture2D::5946469851850340114::1649801537::1714415321::1::::<><>::
+chest_empty_open_anim_f2.png::CompressedTexture2D::2123572258035147662::1649801537::1714415321::1::::<><>::
+chest_full_open_anim_f0.png::CompressedTexture2D::2578922827338367809::1649801537::1714415321::1::::<><>::
+chest_full_open_anim_f1.png::CompressedTexture2D::3943106319569994628::1649801537::1714415321::1::::<><>::
+chest_full_open_anim_f2.png::CompressedTexture2D::5824214580366779164::1649801537::1714415321::1::::<><>::
+::res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Coin/::1714415321
+coin_anim_f0.png::CompressedTexture2D::8341950687797447250::1649801537::1714415321::1::::<><>::
+coin_anim_f1.png::CompressedTexture2D::7990891146172863296::1649801537::1714415321::1::::<><>::
+coin_anim_f2.png::CompressedTexture2D::6213564622382364958::1649801537::1714415321::1::::<><>::
+coin_anim_f3.png::CompressedTexture2D::4127998241807619540::1649801537::1714415321::1::::<><>::
+::res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Crate/::1714415321
+crate.png::CompressedTexture2D::179757563916273451::1649801537::1714415321::1::::<><>::
+::res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Flask/::1714415321
+flask_big_blue.png::CompressedTexture2D::1880241725048480538::1649801537::1714415321::1::::<><>::
+flask_big_green.png::CompressedTexture2D::6086352847261583584::1649801537::1714415321::1::::<><>::
+flask_big_red.png::CompressedTexture2D::1061915422339109432::1649801537::1714415321::1::::<><>::
+flask_big_yellow.png::CompressedTexture2D::5492991161198292872::1649801537::1714415321::1::::<><>::
+flask_blue.png::CompressedTexture2D::8057494364506459500::1649801537::1714415321::1::::<><>::
+flask_green.png::CompressedTexture2D::6455606355776828041::1649801537::1714415321::1::::<><>::
+flask_red.png::CompressedTexture2D::5668503491518111685::1649801537::1714415321::1::::<><>::
+flask_yellow.png::CompressedTexture2D::6750186485740334194::1649801537::1714415321::1::::<><>::
+::res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/UI Heart/::1714415321
+ui_heart_empty.png::CompressedTexture2D::1573087623498356941::1649801537::1714415321::1::::<><>::
+ui_heart_full.png::CompressedTexture2D::2033299469910798158::1649801537::1714415321::1::::<><>::
+ui_heart_half.png::CompressedTexture2D::7597599754053982925::1649801537::1714415321::1::::<><>::
+::res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Weapons/::1714415321
+weapon_anime_sword.png::CompressedTexture2D::410372468955522152::1649801537::1714415321::1::::<><>::
+weapon_arrow.png::CompressedTexture2D::1227700228943569137::1649801537::1714415321::1::::<><>::
+weapon_axe.png::CompressedTexture2D::6926211382317329605::1649801537::1714415321::1::::<><>::
+weapon_baton_with_spikes.png::CompressedTexture2D::3447222868434492420::1649801537::1714415321::1::::<><>::
+weapon_big_hammer.png::CompressedTexture2D::7088054758645756910::1649801537::1714415321::1::::<><>::
+weapon_bow.png::CompressedTexture2D::3208811540219923519::1649801537::1714415321::1::::<><>::
+weapon_cleaver.png::CompressedTexture2D::8088469159912911026::1649801537::1714415321::1::::<><>::
+weapon_duel_sword.png::CompressedTexture2D::7420930431733704474::1649801537::1714415321::1::::<><>::
+weapon_golden_sword.png::CompressedTexture2D::3656463742119636292::1649801537::1714415321::1::::<><>::
+weapon_green_magic_staff.png::CompressedTexture2D::2344814950364412693::1649801537::1714415321::1::::<><>::
+weapon_hammer.png::CompressedTexture2D::1866040791345565833::1649801537::1714415321::1::::<><>::
+weapon_katana.png::CompressedTexture2D::718831561720307773::1649801537::1714415321::1::::<><>::
+weapon_knife.png::CompressedTexture2D::8766774977965181959::1649801537::1714415321::1::::<><>::
+weapon_knight_sword.png::CompressedTexture2D::8218809597151633619::1649801537::1714415321::1::::<><>::
+weapon_lavish_sword.png::CompressedTexture2D::4997211780429516668::1649801537::1714415321::1::::<><>::
+weapon_mace.png::CompressedTexture2D::800198338251304025::1649801537::1714415321::1::::<><>::
+weapon_machete.png::CompressedTexture2D::7174343909525414539::1649801537::1714415321::1::::<><>::
+weapon_red_gem_sword.png::CompressedTexture2D::4470232380019684940::1649801537::1714415321::1::::<><>::
+weapon_red_magic_staff.png::CompressedTexture2D::4530624874061932649::1649801537::1714415321::1::::<><>::
+weapon_regular_sword.png::CompressedTexture2D::3737801204141966388::1649801537::1714415321::1::::<><>::
+weapon_rusty_sword.png::CompressedTexture2D::1905190677192069869::1649801537::1714415321::1::::<><>::
+weapon_saw_sword.png::CompressedTexture2D::7396742164174583745::1649801537::1714415321::1::::<><>::
+weapon_spear.png::CompressedTexture2D::6370483035154866337::1649801537::1714415321::1::::<><>::
+::res://assets/textures/Dungeon/Extra/::1714415321
+Alternative Characters.png::CompressedTexture2D::711727771912150531::1649801537::1714415321::1::::<><>::
+doc.png::CompressedTexture2D::563175443624702100::1649801537::1714415321::1::::<><>::
+Objects.png::CompressedTexture2D::3954486833728180951::1649801537::1714415321::1::::<><>::
+pumpkin_dude.png::CompressedTexture2D::7138665467807389193::1649801537::1714415321::1::::<><>::
+Structures.png::CompressedTexture2D::8268147496174580668::1649801537::1714415321::1::::<><>::
+::res://assets/textures/Enchanted Forest Characters/::1714415319
+Enchanted Forest Tileset.png::CompressedTexture2D::4406054610997529058::1649801537::1714415319::1::::<><>::
+::res://assets/textures/Enchanted Forest Characters/Enchanted Forest Individual Frames/::1714415240
+::res://assets/textures/Enchanted Forest Characters/Enchanted Forest Individual Frames/All/::1714415321
+Bandit_Idle_1.png::CompressedTexture2D::991025441050074697::1649801537::1714415321::1::::<><>::
+Bandit_Idle_2.png::CompressedTexture2D::8067583914955984060::1649801537::1714415321::1::::<><>::
+Bandit_Idle_3.png::CompressedTexture2D::2303877651689221027::1649801537::1714415321::1::::<><>::
+Bandit_Idle_4.png::CompressedTexture2D::8972412362263921338::1649801537::1714415321::1::::<><>::
+Bandit_Walk_1.png::CompressedTexture2D::3900058138300487437::1649801537::1714415321::1::::<><>::
+Bandit_Walk_2.png::CompressedTexture2D::8953024721068522096::1649801537::1714415321::1::::<><>::
+Bandit_Walk_3.png::CompressedTexture2D::998539685089639629::1649801537::1714415321::1::::<><>::
+Bandit_Walk_4.png::CompressedTexture2D::2540400843985396649::1649801537::1714415321::1::::<><>::
+Bear_Idle_1.png::CompressedTexture2D::611609418886802662::1649801537::1714415321::1::::<><>::
+Bear_Idle_2.png::CompressedTexture2D::3156816796895833270::1649801537::1714415321::1::::<><>::
+Bear_Idle_3.png::CompressedTexture2D::3996477875856434735::1649801537::1714415321::1::::<><>::
+Bear_Idle_4.png::CompressedTexture2D::5032849896386848955::1649801537::1714415321::1::::<><>::
+Bear_Walk_1.png::CompressedTexture2D::7370191837116313876::1649801537::1714415321::1::::<><>::
+Bear_Walk_2.png::CompressedTexture2D::7997524454263704521::1649801537::1714415321::1::::<><>::
+Bear_Walk_3.png::CompressedTexture2D::5120984707602911783::1649801537::1714415321::1::::<><>::
+Bear_Walk_4.png::CompressedTexture2D::9217593578023426638::1649801537::1714415321::1::::<><>::
+Centaur_F_Idle_1.png::CompressedTexture2D::8722577780874905815::1649801537::1714415321::1::::<><>::
+Centaur_F_Idle_2.png::CompressedTexture2D::5174931056778136334::1649801537::1714415321::1::::<><>::
+Centaur_F_Idle_3.png::CompressedTexture2D::1995352697021138740::1649801537::1714415321::1::::<><>::
+Centaur_F_Idle_4.png::CompressedTexture2D::472827476780514007::1649801537::1714415321::1::::<><>::
+Centaur_F_Walk_1.png::CompressedTexture2D::5810416248788264923::1649801537::1714415321::1::::<><>::
+Centaur_F_Walk_2.png::CompressedTexture2D::7706972060078136344::1649801537::1714415321::1::::<><>::
+Centaur_F_Walk_3.png::CompressedTexture2D::3173761519860622590::1649801537::1714415321::1::::<><>::
+Centaur_F_Walk_4.png::CompressedTexture2D::5323738985071825385::1649801537::1714415321::1::::<><>::
+Centaur_M_Idle_1.png::CompressedTexture2D::87599372462513743::1649801537::1714415321::1::::<><>::
+Centaur_M_Idle_2.png::CompressedTexture2D::8696246621226619603::1649801537::1714415321::1::::<><>::
+Centaur_M_Idle_3.png::CompressedTexture2D::6859090658484784679::1649801537::1714415321::1::::<><>::
+Centaur_M_Idle_4.png::CompressedTexture2D::649335355655048674::1649801537::1714415321::1::::<><>::
+Centaur_M_Walk_1.png::CompressedTexture2D::3924692432715952312::1649801537::1714415321::1::::<><>::
+Centaur_M_Walk_2.png::CompressedTexture2D::101812867672793401::1649801537::1714415321::1::::<><>::
+Centaur_M_Walk_3.png::CompressedTexture2D::4065059059284505726::1649801537::1714415321::1::::<><>::
+Centaur_M_Walk_4.png::CompressedTexture2D::707331835365408424::1649801537::1714415321::1::::<><>::
+Elf_F_Idle_1.png::CompressedTexture2D::6526678005107162222::1649801537::1714415318::1::::<><>::
+Elf_F_Idle_2.png::CompressedTexture2D::2913640641832184531::1649801537::1714415318::1::::<><>::
+Elf_F_Idle_3.png::CompressedTexture2D::1209051616671611879::1649801537::1714415318::1::::<><>::
+Elf_F_Idle_4.png::CompressedTexture2D::2793104739032668578::1649801537::1714415318::1::::<><>::
+Elf_F_Walk_1.png::CompressedTexture2D::6896811761822907606::1649801537::1714415318::1::::<><>::
+Elf_F_Walk_2.png::CompressedTexture2D::5976261060061447481::1649801537::1714415318::1::::<><>::
+Elf_F_Walk_3.png::CompressedTexture2D::4294327372129965806::1649801537::1714415318::1::::<><>::
+Elf_F_Walk_4.png::CompressedTexture2D::1607312024357005821::1649801537::1714415318::1::::<><>::
+Elf_M_Idle_1.png::CompressedTexture2D::6250823170479688665::1649801537::1714415318::1::::<><>::
+Elf_M_Idle_2.png::CompressedTexture2D::7317482185686872639::1649801537::1714415318::1::::<><>::
+Elf_M_Idle_3.png::CompressedTexture2D::6352604769265030987::1649801537::1714415318::1::::<><>::
+Elf_M_Idle_4.png::CompressedTexture2D::8914567727676846290::1649801537::1714415318::1::::<><>::
+Elf_M_Walk_1.png::CompressedTexture2D::5068046552375068263::1649801537::1714415318::1::::<><>::
+Elf_M_Walk_2.png::CompressedTexture2D::5866722134590983929::1649801537::1714415318::1::::<><>::
+Elf_M_Walk_3.png::CompressedTexture2D::7785622091355734994::1649801537::1714415318::1::::<><>::
+Elf_M_Walk_4.png::CompressedTexture2D::4864046187276902495::1649801537::1714415318::1::::<><>::
+ElvenKnight_Idle_1.png::CompressedTexture2D::7652152219542744653::1649801537::1714415318::1::::<><>::
+ElvenKnight_Idle_2.png::CompressedTexture2D::2754139259611413416::1649801537::1714415317::1::::<><>::
+ElvenKnight_Idle_3.png::CompressedTexture2D::6724493179329284259::1649801537::1714415317::1::::<><>::
+ElvenKnight_Idle_4.png::CompressedTexture2D::5909343453958790489::1649801537::1714415317::1::::<><>::
+ElvenKnight_Walk_1.png::CompressedTexture2D::608956731104299898::1649801537::1714415317::1::::<><>::
+ElvenKnight_Walk_2.png::CompressedTexture2D::595353550543219609::1649801537::1714415317::1::::<><>::
+ElvenKnight_Walk_3.png::CompressedTexture2D::3115804609601787038::1649801537::1714415318::1::::<><>::
+ElvenKnight_Walk_4.png::CompressedTexture2D::8911663735616437643::1649801537::1714415318::1::::<><>::
+Ent_Idle_1.png::CompressedTexture2D::2721551853451292970::1649801537::1714415318::1::::<><>::
+Ent_Idle_2.png::CompressedTexture2D::7817999749426601935::1649801537::1714415318::1::::<><>::
+Ent_Idle_3.png::CompressedTexture2D::437468125949570696::1649801537::1714415318::1::::<><>::
+Ent_Idle_4.png::CompressedTexture2D::4460979214788461210::1649801537::1714415318::1::::<><>::
+Ent_Walk_1.png::CompressedTexture2D::3793119960169687030::1649801537::1714415318::1::::<><>::
+Ent_Walk_2.png::CompressedTexture2D::5410684606616917511::1649801537::1714415318::1::::<><>::
+Ent_Walk_3.png::CompressedTexture2D::8460402884902276373::1649801537::1714415318::1::::<><>::
+Ent_Walk_4.png::CompressedTexture2D::2442265708121612225::1649801537::1714415318::1::::<><>::
+Fairy_Idle + Walk_1.png::CompressedTexture2D::2567171065842889893::1649801537::1714415318::1::::<><>::
+Fairy_Idle + Walk_2.png::CompressedTexture2D::7261665331539233549::1649801537::1714415318::1::::<><>::
+Fairy_Idle + Walk_3.png::CompressedTexture2D::3336112699702433840::1649801537::1714415318::1::::<><>::
+Fairy_Idle + Walk_4.png::CompressedTexture2D::8068323497172459320::1649801537::1714415318::1::::<><>::
+FatCleric_Idle + Walk_1.png::CompressedTexture2D::527757940851637418::1649801537::1714415318::1::::<><>::
+FatCleric_Idle + Walk_2.png::CompressedTexture2D::1113476244118760086::1649801537::1714415318::1::::<><>::
+FatCleric_Idle + Walk_3.png::CompressedTexture2D::1246238818358063014::1649801537::1714415318::1::::<><>::
+FatCleric_Idle + Walk_4.png::CompressedTexture2D::9117050286815700250::1649801537::1714415318::1::::<><>::
+ForestGuardian_Idle_1.png::CompressedTexture2D::2387848049957891174::1649801537::1714415318::1::::<><>::
+ForestGuardian_Idle_2.png::CompressedTexture2D::7807775123245728940::1649801537::1714415318::1::::<><>::
+ForestGuardian_Idle_3.png::CompressedTexture2D::5932999574226449256::1649801537::1714415318::1::::<><>::
+ForestGuardian_Idle_4.png::CompressedTexture2D::4033147409120991388::1649801537::1714415318::1::::<><>::
+ForestGuardian_walk_1.png::CompressedTexture2D::504760083394701638::1649801537::1714415317::1::::<><>::
+ForestGuardian_walk_2.png::CompressedTexture2D::9208199454430871595::1649801537::1714415317::1::::<><>::
+ForestGuardian_walk_3.png::CompressedTexture2D::3395039287816409836::1649801537::1714415317::1::::<><>::
+ForestGuardian_walk_4.png::CompressedTexture2D::7731527946980193332::1649801537::1714415317::1::::<><>::
+GnollBrute_Idle_1.png::CompressedTexture2D::1207446694868266937::1649801537::1714415317::1::::<><>::
+GnollBrute_Idle_2.png::CompressedTexture2D::8459078284619274584::1649801537::1714415317::1::::<><>::
+GnollBrute_Idle_3.png::CompressedTexture2D::914222934063596314::1649801537::1714415317::1::::<><>::
+GnollBrute_Idle_4.png::CompressedTexture2D::7866171556085766753::1649801537::1714415317::1::::<><>::
+GnollBrute_Walk_1.png::CompressedTexture2D::5564659497493889871::1649801537::1714415317::1::::<><>::
+GnollBrute_Walk_2.png::CompressedTexture2D::129504295072330721::1649801537::1714415317::1::::<><>::
+GnollBrute_Walk_3.png::CompressedTexture2D::6038133969586801407::1649801537::1714415317::1::::<><>::
+GnollBrute_Walk_4.png::CompressedTexture2D::9076794739645139771::1649801537::1714415317::1::::<><>::
+GnollOverseer_Idle_1.png::CompressedTexture2D::8709656597501335678::1649801537::1714415317::1::::<><>::
+GnollOverseer_Idle_2.png::CompressedTexture2D::271097576004488929::1649801537::1714415317::1::::<><>::
+GnollOverseer_Idle_3.png::CompressedTexture2D::2169393167737090329::1649801537::1714415317::1::::<><>::
+GnollOverseer_Idle_4.png::CompressedTexture2D::6205029475723001102::1649801537::1714415317::1::::<><>::
+GnollOverseer_Walk_1.png::CompressedTexture2D::4744878297914536730::1649801537::1714415317::1::::<><>::
+GnollOverseer_Walk_2.png::CompressedTexture2D::9121897777774148992::1649801537::1714415317::1::::<><>::
+GnollOverseer_Walk_3.png::CompressedTexture2D::8980418944859119110::1649801537::1714415317::1::::<><>::
+GnollOverseer_Walk_4.png::CompressedTexture2D::6169715860759220433::1649801537::1714415317::1::::<><>::
+GnollScout_Idle_1.png::CompressedTexture2D::6413300290399140073::1649801537::1714415317::1::::<><>::
+GnollScout_Idle_2.png::CompressedTexture2D::4982170461566372329::1649801537::1714415317::1::::<><>::
+GnollScout_Idle_3.png::CompressedTexture2D::2430364623004843004::1649801537::1714415317::1::::<><>::
+GnollScout_Idle_4.png::CompressedTexture2D::1221674709124647654::1649801537::1714415317::1::::<><>::
+GnollScout_Walk_1.png::CompressedTexture2D::5882365770674404643::1649801537::1714415317::1::::<><>::
+GnollScout_Walk_2.png::CompressedTexture2D::4962728463335476412::1649801537::1714415317::1::::<><>::
+GnollScout_Walk_3.png::CompressedTexture2D::6702185325177897551::1649801537::1714415317::1::::<><>::
+GnollScout_Walk_4.png::CompressedTexture2D::4980630950683004517::1649801537::1714415317::1::::<><>::
+GnollShaman_Idle_1.png::CompressedTexture2D::4887351553082125143::1649801537::1714415317::1::::<><>::
+GnollShaman_Idle_2.png::CompressedTexture2D::3572395769843514653::1649801537::1714415317::1::::<><>::
+GnollShaman_Idle_3.png::CompressedTexture2D::1914897018896194535::1649801537::1714415317::1::::<><>::
+GnollShaman_Idle_4.png::CompressedTexture2D::2946986616014467639::1649801537::1714415317::1::::<><>::
+GnollShaman_Walk_1.png::CompressedTexture2D::7161593577381359434::1649801537::1714415317::1::::<><>::
+GnollShaman_Walk_2.png::CompressedTexture2D::7916441378152579844::1649801537::1714415317::1::::<><>::
+GnollShaman_Walk_3.png::CompressedTexture2D::2988458645998759880::1649801537::1714415317::1::::<><>::
+GnollShaman_Walk_4.png::CompressedTexture2D::7680268520607520868::1649801537::1714415317::1::::<><>::
+Golem_Idle_1.png::CompressedTexture2D::43236212352640821::1649801537::1714415317::1::::<><>::
+Golem_Idle_2.png::CompressedTexture2D::7057352415514204659::1649801537::1714415317::1::::<><>::
+Golem_Idle_3.png::CompressedTexture2D::7180528551063922922::1649801537::1714415317::1::::<><>::
+Golem_Idle_4.png::CompressedTexture2D::4389899743690031051::1649801537::1714415317::1::::<><>::
+Golem_Idle_5.png::CompressedTexture2D::7907330508456590720::1649801537::1714415317::1::::<><>::
+Golem_Idle_6.png::CompressedTexture2D::665838096843531160::1649801537::1714415317::1::::<><>::
+Golem_Walk_1.png::CompressedTexture2D::5656489351716527351::1649801537::1714415317::1::::<><>::
+Golem_Walk_2.png::CompressedTexture2D::6968944536311899073::1649801537::1714415317::1::::<><>::
+Golem_Walk_3.png::CompressedTexture2D::2081370120060151084::1649801537::1714415318::1::::<><>::
+Golem_Walk_4.png::CompressedTexture2D::1460818589830538173::1649801537::1714415318::1::::<><>::
+Golem_Walk_5.png::CompressedTexture2D::7330010466415275061::1649801537::1714415318::1::::<><>::
+Golem_Walk_6.png::CompressedTexture2D::3522516194061235585::1649801537::1714415318::1::::<><>::
+HighElf_F_Idle_1.png::CompressedTexture2D::7588711274607193417::1649801537::1714415318::1::::<><>::
+HighElf_F_Idle_2.png::CompressedTexture2D::8617905444697891079::1649801537::1714415318::1::::<><>::
+HighElf_F_Idle_3.png::CompressedTexture2D::6064448894328582363::1649801537::1714415318::1::::<><>::
+HighElf_F_Idle_4.png::CompressedTexture2D::8571118802568336251::1649801537::1714415318::1::::<><>::
+HighElf_F_Walk_1.png::CompressedTexture2D::8452901509903004692::1649801537::1714415318::1::::<><>::
+HighElf_F_Walk_2.png::CompressedTexture2D::4563432224058718217::1649801537::1714415318::1::::<><>::
+HighElf_F_Walk_3.png::CompressedTexture2D::6560070232069978062::1649801537::1714415318::1::::<><>::
+HighElf_F_Walk_4.png::CompressedTexture2D::1256797876314678854::1649801537::1714415318::1::::<><>::
+HighElf_M_Idle + Walk_1.png::CompressedTexture2D::8724537919276225292::1649801537::1714415318::1::::<><>::
+HighElf_M_Idle + Walk_2.png::CompressedTexture2D::5596201843507927076::1649801537::1714415318::1::::<><>::
+HighElf_M_Idle + Walk_3.png::CompressedTexture2D::1276760400011503267::1649801537::1714415318::1::::<><>::
+HighElf_M_Idle + Walk_4.png::CompressedTexture2D::630658568438588918::1649801537::1714415318::1::::<><>::
+LargeMushroom_Idle_1.png::CompressedTexture2D::3250058870571822485::1649801537::1714415318::1::::<><>::
+LargeMushroom_Idle_2.png::CompressedTexture2D::2016175256543625751::1649801537::1714415318::1::::<><>::
+LargeMushroom_Idle_3.png::CompressedTexture2D::2345909898386272626::1649801537::1714415318::1::::<><>::
+LargeMushroom_Idle_4.png::CompressedTexture2D::8565635022581722215::1649801537::1714415318::1::::<><>::
+LargeMushroom_Walk_1.png::CompressedTexture2D::564773176263620460::1649801537::1714415318::1::::<><>::
+LargeMushroom_Walk_2.png::CompressedTexture2D::141656458249477716::1649801537::1714415318::1::::<><>::
+LargeMushroom_Walk_3.png::CompressedTexture2D::4154904475586762437::1649801537::1714415318::1::::<><>::
+LargeMushroom_Walk_4.png::CompressedTexture2D::6883849062833109411::1649801537::1714415318::1::::<><>::
+NormalCleric_Idle + Walk_1.png::CompressedTexture2D::727505309089131703::1649801537::1714415318::1::::<><>::
+NormalCleric_Idle + Walk_2.png::CompressedTexture2D::8124638622891977325::1649801537::1714415318::1::::<><>::
+NormalCleric_Idle + Walk_3.png::CompressedTexture2D::2632214692467894602::1649801537::1714415318::1::::<><>::
+NormalCleric_Idle + Walk_4.png::CompressedTexture2D::7663031462199063651::1649801537::1714415318::1::::<><>::
+NormalMushroom_Idle_1.png::CompressedTexture2D::7818868865638649191::1649801537::1714415318::1::::<><>::
+NormalMushroom_Idle_2.png::CompressedTexture2D::8156103876551442329::1649801537::1714415318::1::::<><>::
+NormalMushroom_Idle_3.png::CompressedTexture2D::6554288753250035061::1649801537::1714415318::1::::<><>::
+NormalMushroom_Idle_4.png::CompressedTexture2D::7951210730063329587::1649801537::1714415318::1::::<><>::
+NormalMushroom_Walk_1.png::CompressedTexture2D::7161050625214483902::1649801537::1714415318::1::::<><>::
+NormalMushroom_Walk_2.png::CompressedTexture2D::8319340279123211471::1649801537::1714415318::1::::<><>::
+NormalMushroom_Walk_3.png::CompressedTexture2D::3805002576327015509::1649801537::1714415318::1::::<><>::
+NormalMushroom_Walk_4.png::CompressedTexture2D::7292784839784196585::1649801537::1714415318::1::::<><>::
+Ranger_Idle_1.png::CompressedTexture2D::7186487149571549398::1649801537::1714415318::1::::<><>::
+Ranger_Idle_2.png::CompressedTexture2D::6197049890923838333::1649801537::1714415318::1::::<><>::
+Ranger_Idle_3.png::CompressedTexture2D::2822396739818250442::1649801537::1714415318::1::::<><>::
+Ranger_Idle_4.png::CompressedTexture2D::759131236917771129::1649801537::1714415318::1::::<><>::
+Ranger_Walk_1.png::CompressedTexture2D::8619497181544837452::1649801537::1714415318::1::::<><>::
+Ranger_Walk_2.png::CompressedTexture2D::3652273863307338900::1649801537::1714415318::1::::<><>::
+Ranger_Walk_3.png::CompressedTexture2D::7732685573610495792::1649801537::1714415318::1::::<><>::
+Ranger_Walk_4.png::CompressedTexture2D::1851726146920394529::1649801537::1714415318::1::::<><>::
+SmallMushroom_Idle_1.png::CompressedTexture2D::5334697682639761816::1649801537::1714415318::1::::<><>::
+SmallMushroom_Idle_2.png::CompressedTexture2D::6915379554238180156::1649801537::1714415318::1::::<><>::
+SmallMushroom_Idle_3.png::CompressedTexture2D::4770671282921997016::1649801537::1714415318::1::::<><>::
+SmallMushroom_Idle_4.png::CompressedTexture2D::1616739079174054369::1649801537::1714415318::1::::<><>::
+SmallMushroom_Walk_1.png::CompressedTexture2D::5675722056460110400::1649801537::1714415318::1::::<><>::
+SmallMushroom_Walk_2.png::CompressedTexture2D::6470051923657767430::1649801537::1714415318::1::::<><>::
+SmallMushroom_Walk_3.png::CompressedTexture2D::910146423350586870::1649801537::1714415318::1::::<><>::
+SmallMushroom_Walk_4.png::CompressedTexture2D::1755737722326403364::1649801537::1714415318::1::::<><>::
+TallCleric_Idle + Walk_1.png::CompressedTexture2D::8401146378216342645::1649801537::1714415318::1::::<><>::
+TallCleric_Idle + Walk_2.png::CompressedTexture2D::7275808238756666877::1649801537::1714415318::1::::<><>::
+TallCleric_Idle + Walk_3.png::CompressedTexture2D::8821581259914817820::1649801537::1714415318::1::::<><>::
+TallCleric_Idle + Walk_4.png::CompressedTexture2D::103235597283805281::1649801537::1714415318::1::::<><>::
+Troll_Idle_1.png::CompressedTexture2D::4615544661080242658::1649801537::1714415318::1::::<><>::
+Troll_Idle_2.png::CompressedTexture2D::7514875768044155207::1649801537::1714415318::1::::<><>::
+Troll_Idle_3.png::CompressedTexture2D::6016493034857169860::1649801537::1714415318::1::::<><>::
+Troll_Idle_4.png::CompressedTexture2D::2257705817926819948::1649801537::1714415318::1::::<><>::
+Troll_Walk_1.png::CompressedTexture2D::5548559259836531332::1649801537::1714415318::1::::<><>::
+Troll_Walk_2.png::CompressedTexture2D::2407826989111556436::1649801537::1714415318::1::::<><>::
+Troll_Walk_3.png::CompressedTexture2D::6659270275156036123::1649801537::1714415318::1::::<><>::
+Troll_Walk_4.png::CompressedTexture2D::4718494276498798058::1649801537::1714415318::1::::<><>::
+Wizard_Idle + Walk_1.png::CompressedTexture2D::2410752741157017003::1649801537::1714415318::1::::<><>::
+Wizard_Idle + Walk_2.png::CompressedTexture2D::2549757869393690979::1649801537::1714415318::1::::<><>::
+Wizard_Idle + Walk_3.png::CompressedTexture2D::390093208370255331::1649801537::1714415318::1::::<><>::
+Wizard_Idle + Walk_4.png::CompressedTexture2D::7292525694233081146::1649801537::1714415318::1::::<><>::
+Wolf_Idle_1.png::CompressedTexture2D::6749268448396732564::1649801537::1714415318::1::::<><>::
+Wolf_Idle_2.png::CompressedTexture2D::1273822736199992960::1649801537::1714415318::1::::<><>::
+Wolf_Idle_3.png::CompressedTexture2D::1563126140661818151::1649801537::1714415318::1::::<><>::
+Wolf_Idle_4.png::CompressedTexture2D::2888607934521012968::1649801537::1714415318::1::::<><>::
+Wolf_Walk_1.png::CompressedTexture2D::3795924041487470560::1649801537::1714415318::1::::<><>::
+Wolf_Walk_2.png::CompressedTexture2D::581782154691216878::1649801537::1714415318::1::::<><>::
+Wolf_Walk_3.png::CompressedTexture2D::5452162114106630203::1649801537::1714415318::1::::<><>::
+Wolf_Walk_4.png::CompressedTexture2D::726614767439135642::1649801537::1714415318::1::::<><>::
+::res://assets/textures/Enchanted Forest Characters/Enchanted Forest Individual Frames/Bandit/::1714415318
+Bandit_Idle_1.png::CompressedTexture2D::728083364669533866::1649801537::1714415318::1::::<><>::
+Bandit_Idle_2.png::CompressedTexture2D::6141748614468473280::1649801537::1714415318::1::::<><>::
+Bandit_Idle_3.png::CompressedTexture2D::3798608325644678904::1649801537::1714415318::1::::<><>::
+Bandit_Idle_4.png::CompressedTexture2D::4269917284485234255::1649801537::1714415318::1::::<><>::
+Bandit_Walk_1.png::CompressedTexture2D::6128171310747310184::1649801537::1714415318::1::::<><>::
+Bandit_Walk_2.png::CompressedTexture2D::3282273451145604707::1649801537::1714415318::1::::<><>::
+Bandit_Walk_3.png::CompressedTexture2D::392853734394840910::1649801537::1714415318::1::::<><>::
+Bandit_Walk_4.png::CompressedTexture2D::3382372311740000735::1649801537::1714415318::1::::<><>::
+::res://assets/textures/Enchanted Forest Characters/Enchanted Forest Individual Frames/Bear/::1714415318
+Bear_Idle_1.png::CompressedTexture2D::4220757860338960254::1649801537::1714415318::1::::<><>::
+Bear_Idle_2.png::CompressedTexture2D::7167101112704580203::1649801537::1714415318::1::::<><>::
+Bear_Idle_3.png::CompressedTexture2D::2824503664761255894::1649801537::1714415318::1::::<><>::
+Bear_Idle_4.png::CompressedTexture2D::8231229757549437758::1649801537::1714415318::1::::<><>::
+Bear_Walk_1.png::CompressedTexture2D::3277242243325006349::1649801537::1714415317::1::::<><>::
+Bear_Walk_2.png::CompressedTexture2D::6581811100621454861::1649801537::1714415317::1::::<><>::
+Bear_Walk_3.png::CompressedTexture2D::5580525325770472282::1649801537::1714415317::1::::<><>::
+Bear_Walk_4.png::CompressedTexture2D::4840754959144950149::1649801537::1714415317::1::::<><>::
+::res://assets/textures/Enchanted Forest Characters/Enchanted Forest Individual Frames/Centaur - Male/::1714415317
+Centaur_M_Idle_1.png::CompressedTexture2D::203494069540484939::1649801537::1714415317::1::::<><>::
+Centaur_M_Idle_2.png::CompressedTexture2D::7961246114866967827::1649801537::1714415317::1::::<><>::
+Centaur_M_Idle_3.png::CompressedTexture2D::6057520078324805887::1649801537::1714415317::1::::<><>::
+Centaur_M_Idle_4.png::CompressedTexture2D::1170308024962784418::1649801537::1714415317::1::::<><>::
+Centaur_M_Walk_1.png::CompressedTexture2D::5565682446310183902::1649801537::1714415317::1::::<><>::
+Centaur_M_Walk_2.png::CompressedTexture2D::6029629388221461687::1649801537::1714415317::1::::<><>::
+Centaur_M_Walk_3.png::CompressedTexture2D::2345947759561935189::1649801537::1714415317::1::::<><>::
+Centaur_M_Walk_4.png::CompressedTexture2D::3563581381166160485::1649801537::1714415317::1::::<><>::
+::res://assets/textures/Enchanted Forest Characters/Enchanted Forest Individual Frames/Centuar - Female/::1714415317
+Centaur_F_Idle_1.png::CompressedTexture2D::1077764099299749756::1649801537::1714415317::1::::<><>::
+Centaur_F_Idle_2.png::CompressedTexture2D::2652701410184215514::1649801537::1714415317::1::::<><>::
+Centaur_F_Idle_3.png::CompressedTexture2D::801797648687757795::1649801537::1714415317::1::::<><>::
+Centaur_F_Idle_4.png::CompressedTexture2D::5555278731842320033::1649801537::1714415317::1::::<><>::
+Centaur_F_Walk_1.png::CompressedTexture2D::2638250251348676229::1649801537::1714415317::1::::<><>::
+Centaur_F_Walk_2.png::CompressedTexture2D::7360149453902180449::1649801537::1714415317::1::::<><>::
+Centaur_F_Walk_3.png::CompressedTexture2D::20520816256242126::1649801537::1714415317::1::::<><>::
+Centaur_F_Walk_4.png::CompressedTexture2D::5430732415159549800::1649801537::1714415317::1::::<><>::
+::res://assets/textures/Enchanted Forest Characters/Enchanted Forest Individual Frames/Cleric - Fat/::1714415317
+FatCleric_Idle + Walk_1.png::CompressedTexture2D::2552552955999271520::1649801537::1714415317::1::::<><>::
+FatCleric_Idle + Walk_2.png::CompressedTexture2D::4185896949214343675::1649801537::1714415317::1::::<><>::
+FatCleric_Idle + Walk_3.png::CompressedTexture2D::4273919085678652501::1649801537::1714415317::1::::<><>::
+FatCleric_Idle + Walk_4.png::CompressedTexture2D::3544034320776516175::1649801537::1714415317::1::::<><>::
+::res://assets/textures/Enchanted Forest Characters/Enchanted Forest Individual Frames/Cleric - Normal/::1714415317
+NormalCleric_Idle + Walk_1.png::CompressedTexture2D::1825821892843490799::1649801537::1714415317::1::::<><>::
+NormalCleric_Idle + Walk_2.png::CompressedTexture2D::397642478570492860::1649801537::1714415317::1::::<><>::
+NormalCleric_Idle + Walk_3.png::CompressedTexture2D::8917716085470694453::1649801537::1714415317::1::::<><>::
+NormalCleric_Idle + Walk_4.png::CompressedTexture2D::6541393910846812822::1649801537::1714415317::1::::<><>::
+::res://assets/textures/Enchanted Forest Characters/Enchanted Forest Individual Frames/Cleric - Tall/::1714415317
+TallCleric_Idle + Walk_1.png::CompressedTexture2D::2011026771333312024::1649801537::1714415317::1::::<><>::
+TallCleric_Idle + Walk_2.png::CompressedTexture2D::9191511189995244773::1649801537::1714415317::1::::<><>::
+TallCleric_Idle + Walk_3.png::CompressedTexture2D::1551953487956849872::1649801537::1714415317::1::::<><>::
+TallCleric_Idle + Walk_4.png::CompressedTexture2D::1373942336863970467::1649801537::1714415317::1::::<><>::
+::res://assets/textures/Enchanted Forest Characters/Enchanted Forest Individual Frames/Elf - Female/::1714415317
+Elf_F_Idle_1.png::CompressedTexture2D::8481110905317512502::1649801537::1714415317::1::::<><>::
+Elf_F_Idle_2.png::CompressedTexture2D::4813015711792123363::1649801537::1714415317::1::::<><>::
+Elf_F_Idle_3.png::CompressedTexture2D::8453354997786997513::1649801537::1714415317::1::::<><>::
+Elf_F_Idle_4.png::CompressedTexture2D::7415386378191234612::1649801537::1714415317::1::::<><>::
+Elf_F_Walk_1.png::CompressedTexture2D::7503481427823267142::1649801537::1714415317::1::::<><>::
+Elf_F_Walk_2.png::CompressedTexture2D::5209814285777378707::1649801537::1714415317::1::::<><>::
+Elf_F_Walk_3.png::CompressedTexture2D::6538656422245468739::1649801537::1714415317::1::::<><>::
+Elf_F_Walk_4.png::CompressedTexture2D::2977759247054136764::1649801537::1714415317::1::::<><>::
+::res://assets/textures/Enchanted Forest Characters/Enchanted Forest Individual Frames/Elf - Male/::1714415317
+Elf_M_Idle_1.png::CompressedTexture2D::5563272495383750696::1649801537::1714415317::1::::<><>::
+Elf_M_Idle_2.png::CompressedTexture2D::5212536187584577247::1649801537::1714415317::1::::<><>::
+Elf_M_Idle_3.png::CompressedTexture2D::7847391036749782712::1649801537::1714415317::1::::<><>::
+Elf_M_Idle_4.png::CompressedTexture2D::2535708879791384305::1649801537::1714415317::1::::<><>::
+Elf_M_Walk_1.png::CompressedTexture2D::596150998741692670::1649801537::1714415317::1::::<><>::
+Elf_M_Walk_2.png::CompressedTexture2D::5713253373612328852::1649801537::1714415317::1::::<><>::
+Elf_M_Walk_3.png::CompressedTexture2D::9094132891526377378::1649801537::1714415317::1::::<><>::
+Elf_M_Walk_4.png::CompressedTexture2D::4836189718269911600::1649801537::1714415317::1::::<><>::
+::res://assets/textures/Enchanted Forest Characters/Enchanted Forest Individual Frames/Elf Princess/::1714415317
+HighElf_F_Idle_1.png::CompressedTexture2D::2371791053771330046::1649801537::1714415317::1::::<><>::
+HighElf_F_Idle_2.png::CompressedTexture2D::5820898024533460896::1649801537::1714415317::1::::<><>::
+HighElf_F_Idle_3.png::CompressedTexture2D::3386240429680867567::1649801537::1714415317::1::::<><>::
+HighElf_F_Idle_4.png::CompressedTexture2D::7634676160845840891::1649801537::1714415317::1::::<><>::
+HighElf_F_Walk_1.png::CompressedTexture2D::590107419780933795::1649801537::1714415317::1::::<><>::
+HighElf_F_Walk_2.png::CompressedTexture2D::1558377795670689085::1649801537::1714415317::1::::<><>::
+HighElf_F_Walk_3.png::CompressedTexture2D::5608304218150009598::1649801537::1714415317::1::::<><>::
+HighElf_F_Walk_4.png::CompressedTexture2D::3578672516033553379::1649801537::1714415317::1::::<><>::
+::res://assets/textures/Enchanted Forest Characters/Enchanted Forest Individual Frames/Elven King/::1714415317
+HighElf_M_Idle + Walk_1.png::CompressedTexture2D::7057092687276860314::1649801537::1714415317::1::::<><>::
+HighElf_M_Idle + Walk_2.png::CompressedTexture2D::4444115155030177003::1649801537::1714415317::1::::<><>::
+HighElf_M_Idle + Walk_3.png::CompressedTexture2D::6652500258759374897::1649801537::1714415317::1::::<><>::
+HighElf_M_Idle + Walk_4.png::CompressedTexture2D::8657487899954355220::1649801537::1714415317::1::::<><>::
+::res://assets/textures/Enchanted Forest Characters/Enchanted Forest Individual Frames/Elven Knight/::1714415317
+ElvenKnight_Idle_1.png::CompressedTexture2D::11919812274475938::1649801537::1714415317::1::::<><>::
+ElvenKnight_Idle_2.png::CompressedTexture2D::595326223952580494::1649801537::1714415317::1::::<><>::
+ElvenKnight_Idle_3.png::CompressedTexture2D::4770138082051427654::1649801537::1714415317::1::::<><>::
+ElvenKnight_Idle_4.png::CompressedTexture2D::5247083791361113308::1649801537::1714415317::1::::<><>::
+ElvenKnight_Walk_1.png::CompressedTexture2D::4819523861408641::1649801537::1714415317::1::::<><>::
+ElvenKnight_Walk_2.png::CompressedTexture2D::3388868998000636692::1649801537::1714415317::1::::<><>::
+ElvenKnight_Walk_3.png::CompressedTexture2D::2044318313993083691::1649801537::1714415317::1::::<><>::
+ElvenKnight_Walk_4.png::CompressedTexture2D::2081613859852470326::1649801537::1714415317::1::::<><>::
+::res://assets/textures/Enchanted Forest Characters/Enchanted Forest Individual Frames/Ent/::1714415317
+Ent_Idle_1.png::CompressedTexture2D::5396378456430901873::1649801537::1714415317::1::::<><>::
+Ent_Idle_2.png::CompressedTexture2D::3280898044335464357::1649801537::1714415317::1::::<><>::
+Ent_Idle_3.png::CompressedTexture2D::4019104766501752774::1649801537::1714415317::1::::<><>::
+Ent_Idle_4.png::CompressedTexture2D::5287236936734812286::1649801537::1714415317::1::::<><>::
+Ent_Walk_1.png::CompressedTexture2D::3947767001435533621::1649801537::1714415317::1::::<><>::
+Ent_Walk_2.png::CompressedTexture2D::7552129278888270652::1649801537::1714415317::1::::<><>::
+Ent_Walk_3.png::CompressedTexture2D::5316279393171888884::1649801537::1714415317::1::::<><>::
+Ent_Walk_4.png::CompressedTexture2D::895042359042325000::1649801537::1714415317::1::::<><>::
+::res://assets/textures/Enchanted Forest Characters/Enchanted Forest Individual Frames/Fairy/::1714415317
+Fairy_Idle + Walk_1.png::CompressedTexture2D::8424440244482648366::1649801537::1714415317::1::::<><>::
+Fairy_Idle + Walk_2.png::CompressedTexture2D::2946043238241648449::1649801537::1714415317::1::::<><>::
+Fairy_Idle + Walk_3.png::CompressedTexture2D::3386571985646961301::1649801537::1714415317::1::::<><>::
+Fairy_Idle + Walk_4.png::CompressedTexture2D::5227493665392586714::1649801537::1714415317::1::::<><>::
+::res://assets/textures/Enchanted Forest Characters/Enchanted Forest Individual Frames/Forest Guardian/::1714415317
+ForestGuardian_Idle_1.png::CompressedTexture2D::5294183635266457503::1649801537::1714415317::1::::<><>::
+ForestGuardian_Idle_2.png::CompressedTexture2D::1205305479338246630::1649801537::1714415317::1::::<><>::
+ForestGuardian_Idle_3.png::CompressedTexture2D::4274971714237436446::1649801537::1714415317::1::::<><>::
+ForestGuardian_Idle_4.png::CompressedTexture2D::4423464825766052170::1649801537::1714415317::1::::<><>::
+ForestGuardian_walk_1.png::CompressedTexture2D::8221159190224708530::1649801537::1714415317::1::::<><>::
+ForestGuardian_walk_2.png::CompressedTexture2D::2096840553251430307::1649801537::1714415317::1::::<><>::
+ForestGuardian_walk_3.png::CompressedTexture2D::1377234167875189966::1649801537::1714415317::1::::<><>::
+ForestGuardian_walk_4.png::CompressedTexture2D::6582824568557697570::1649801537::1714415317::1::::<><>::
+::res://assets/textures/Enchanted Forest Characters/Enchanted Forest Individual Frames/Gnoll - Brute/::1714415317
+GnollBrute_Idle_1.png::CompressedTexture2D::872683283572565230::1649801537::1714415317::1::::<><>::
+GnollBrute_Idle_2.png::CompressedTexture2D::2957809506246709523::1649801537::1714415317::1::::<><>::
+GnollBrute_Idle_3.png::CompressedTexture2D::2877746995256832946::1649801537::1714415317::1::::<><>::
+GnollBrute_Idle_4.png::CompressedTexture2D::6068822584656627419::1649801537::1714415317::1::::<><>::
+GnollBrute_Walk_1.png::CompressedTexture2D::8946407943787068025::1649801537::1714415317::1::::<><>::
+GnollBrute_Walk_2.png::CompressedTexture2D::4749542911932555040::1649801537::1714415317::1::::<><>::
+GnollBrute_Walk_3.png::CompressedTexture2D::7330773950329933726::1649801537::1714415317::1::::<><>::
+GnollBrute_Walk_4.png::CompressedTexture2D::1400590940409156154::1649801537::1714415317::1::::<><>::
+::res://assets/textures/Enchanted Forest Characters/Enchanted Forest Individual Frames/Gnoll - Overseer/::1714415317
+GnollOverseer_Idle_1.png::CompressedTexture2D::7573581133092663404::1649801537::1714415317::1::::<><>::
+GnollOverseer_Idle_2.png::CompressedTexture2D::1383895231407707868::1649801537::1714415317::1::::<><>::
+GnollOverseer_Idle_3.png::CompressedTexture2D::8367719391505949154::1649801537::1714415317::1::::<><>::
+GnollOverseer_Idle_4.png::CompressedTexture2D::1829713261979269589::1649801537::1714415317::1::::<><>::
+GnollOverseer_Walk_1.png::CompressedTexture2D::4638091303716835158::1649801537::1714415317::1::::<><>::
+GnollOverseer_Walk_2.png::CompressedTexture2D::5510119412236075664::1649801537::1714415317::1::::<><>::
+GnollOverseer_Walk_3.png::CompressedTexture2D::6817486493068953358::1649801537::1714415317::1::::<><>::
+GnollOverseer_Walk_4.png::CompressedTexture2D::1183780383395597227::1649801537::1714415317::1::::<><>::
+::res://assets/textures/Enchanted Forest Characters/Enchanted Forest Individual Frames/Gnoll - Scout/::1714415317
+GnollScout_Idle_1.png::CompressedTexture2D::4126601486251222957::1649801537::1714415317::1::::<><>::
+GnollScout_Idle_2.png::CompressedTexture2D::7092874829088331790::1649801537::1714415317::1::::<><>::
+GnollScout_Idle_3.png::CompressedTexture2D::8900125002805598344::1649801537::1714415317::1::::<><>::
+GnollScout_Idle_4.png::CompressedTexture2D::4575586177641153422::1649801537::1714415317::1::::<><>::
+GnollScout_Walk_1.png::CompressedTexture2D::1963417216329437766::1649801537::1714415317::1::::<><>::
+GnollScout_Walk_2.png::CompressedTexture2D::222837880208815910::1649801537::1714415317::1::::<><>::
+GnollScout_Walk_3.png::CompressedTexture2D::6913568394534017647::1649801537::1714415317::1::::<><>::
+GnollScout_Walk_4.png::CompressedTexture2D::1087179304582625414::1649801537::1714415317::1::::<><>::
+::res://assets/textures/Enchanted Forest Characters/Enchanted Forest Individual Frames/Gnoll - Shaman/::1714415317
+GnollShaman_Idle_1.png::CompressedTexture2D::422366728361786884::1649801537::1714415317::1::::<><>::
+GnollShaman_Idle_2.png::CompressedTexture2D::6239503471802568555::1649801537::1714415317::1::::<><>::
+GnollShaman_Idle_3.png::CompressedTexture2D::1625661820886423529::1649801537::1714415317::1::::<><>::
+GnollShaman_Idle_4.png::CompressedTexture2D::5933841022043895175::1649801537::1714415317::1::::<><>::
+GnollShaman_Walk_1.png::CompressedTexture2D::4880892440002740900::1649801537::1714415317::1::::<><>::
+GnollShaman_Walk_2.png::CompressedTexture2D::445373165284114963::1649801537::1714415317::1::::<><>::
+GnollShaman_Walk_3.png::CompressedTexture2D::7409121427740993278::1649801537::1714415317::1::::<><>::
+GnollShaman_Walk_4.png::CompressedTexture2D::4670355810021300250::1649801537::1714415317::1::::<><>::
+::res://assets/textures/Enchanted Forest Characters/Enchanted Forest Individual Frames/Golem/::1714415317
+Golem_Idle_1.png::CompressedTexture2D::1084582763389500324::1649801537::1714415317::1::::<><>::
+Golem_Idle_2.png::CompressedTexture2D::7525303176266794631::1649801537::1714415317::1::::<><>::
+Golem_Idle_3.png::CompressedTexture2D::4975584780993306259::1649801537::1714415317::1::::<><>::
+Golem_Idle_4.png::CompressedTexture2D::3924738062773672140::1649801537::1714415317::1::::<><>::
+Golem_Idle_5.png::CompressedTexture2D::6238922421422175849::1649801537::1714415317::1::::<><>::
+Golem_Idle_6.png::CompressedTexture2D::8618838938532652961::1649801537::1714415317::1::::<><>::
+Golem_Walk_1.png::CompressedTexture2D::6423993942252583707::1649801537::1714415317::1::::<><>::
+Golem_Walk_2.png::CompressedTexture2D::1615769146160354554::1649801537::1714415317::1::::<><>::
+Golem_Walk_3.png::CompressedTexture2D::1077177245212227680::1649801537::1714415317::1::::<><>::
+Golem_Walk_4.png::CompressedTexture2D::5860913112730639455::1649801537::1714415317::1::::<><>::
+Golem_Walk_5.png::CompressedTexture2D::1310437463841668977::1649801537::1714415317::1::::<><>::
+Golem_Walk_6.png::CompressedTexture2D::1536590150585857818::1649801537::1714415317::1::::<><>::
+::res://assets/textures/Enchanted Forest Characters/Enchanted Forest Individual Frames/Mushroom - Large/::1714415317
+LargeMushroom_Idle_1.png::CompressedTexture2D::7628792473409332882::1649801537::1714415317::1::::<><>::
+LargeMushroom_Idle_2.png::CompressedTexture2D::3753127104017995809::1649801537::1714415317::1::::<><>::
+LargeMushroom_Idle_3.png::CompressedTexture2D::546756820334672794::1649801537::1714415317::1::::<><>::
+LargeMushroom_Idle_4.png::CompressedTexture2D::9034694443739816137::1649801537::1714415317::1::::<><>::
+LargeMushroom_Walk_1.png::CompressedTexture2D::631501689590781362::1649801537::1714415317::1::::<><>::
+LargeMushroom_Walk_2.png::CompressedTexture2D::8186952798924572145::1649801537::1714415317::1::::<><>::
+LargeMushroom_Walk_3.png::CompressedTexture2D::1398323664421824445::1649801537::1714415317::1::::<><>::
+LargeMushroom_Walk_4.png::CompressedTexture2D::648601759335800589::1649801537::1714415317::1::::<><>::
+::res://assets/textures/Enchanted Forest Characters/Enchanted Forest Individual Frames/Mushroom - Normal/::1714415317
+NormalMushroom_Idle_1.png::CompressedTexture2D::1587812284588479093::1649801537::1714415317::1::::<><>::
+NormalMushroom_Idle_2.png::CompressedTexture2D::1073844924646364486::1649801537::1714415317::1::::<><>::
+NormalMushroom_Idle_3.png::CompressedTexture2D::7358791287139277235::1649801537::1714415317::1::::<><>::
+NormalMushroom_Idle_4.png::CompressedTexture2D::8806218684706898250::1649801537::1714415317::1::::<><>::
+NormalMushroom_Walk_1.png::CompressedTexture2D::2210686773850257349::1649801537::1714415317::1::::<><>::
+NormalMushroom_Walk_2.png::CompressedTexture2D::1063761225601111972::1649801537::1714415317::1::::<><>::
+NormalMushroom_Walk_3.png::CompressedTexture2D::8008909736680994613::1649801537::1714415317::1::::<><>::
+NormalMushroom_Walk_4.png::CompressedTexture2D::6020208045715696780::1649801537::1714415317::1::::<><>::
+::res://assets/textures/Enchanted Forest Characters/Enchanted Forest Individual Frames/Mushroom - Small/::1714415317
+SmallMushroom_Idle_1.png::CompressedTexture2D::5021401430373583204::1649801537::1714415317::1::::<><>::
+SmallMushroom_Idle_2.png::CompressedTexture2D::5662818684094874588::1649801537::1714415317::1::::<><>::
+SmallMushroom_Idle_3.png::CompressedTexture2D::4159276462410290138::1649801537::1714415317::1::::<><>::
+SmallMushroom_Idle_4.png::CompressedTexture2D::2054555142957657762::1649801537::1714415317::1::::<><>::
+SmallMushroom_Walk_1.png::CompressedTexture2D::8208078673993029767::1649801537::1714415317::1::::<><>::
+SmallMushroom_Walk_2.png::CompressedTexture2D::8430998374382314976::1649801537::1714415317::1::::<><>::
+SmallMushroom_Walk_3.png::CompressedTexture2D::7811539562405842843::1649801537::1714415317::1::::<><>::
+SmallMushroom_Walk_4.png::CompressedTexture2D::7175084579767346914::1649801537::1714415317::1::::<><>::
+::res://assets/textures/Enchanted Forest Characters/Enchanted Forest Individual Frames/Ranger/::1714415317
+Ranger_Idle_1.png::CompressedTexture2D::4332344828473496194::1649801537::1714415317::1::::<><>::
+Ranger_Idle_2.png::CompressedTexture2D::4017543916461376608::1649801537::1714415317::1::::<><>::
+Ranger_Idle_3.png::CompressedTexture2D::5991816765095651919::1649801537::1714415317::1::::<><>::
+Ranger_Idle_4.png::CompressedTexture2D::7862331444871031734::1649801537::1714415317::1::::<><>::
+Ranger_Walk_1.png::CompressedTexture2D::1319380435190571396::1649801537::1714415317::1::::<><>::
+Ranger_Walk_2.png::CompressedTexture2D::8360062943039699975::1649801537::1714415317::1::::<><>::
+Ranger_Walk_3.png::CompressedTexture2D::585008179619497836::1649801537::1714415317::1::::<><>::
+Ranger_Walk_4.png::CompressedTexture2D::4751411580014365381::1649801537::1714415317::1::::<><>::
+::res://assets/textures/Enchanted Forest Characters/Enchanted Forest Individual Frames/Troll/::1714415317
+Troll_Idle_1.png::CompressedTexture2D::8892766788405174550::1649801537::1714415317::1::::<><>::
+Troll_Idle_2.png::CompressedTexture2D::5392709699012686461::1649801537::1714415317::1::::<><>::
+Troll_Idle_3.png::CompressedTexture2D::284215348333442969::1649801537::1714415317::1::::<><>::
+Troll_Idle_4.png::CompressedTexture2D::252901575934700757::1649801537::1714415317::1::::<><>::
+Troll_Walk_1.png::CompressedTexture2D::6815206800534165930::1649801537::1714415317::1::::<><>::
+Troll_Walk_2.png::CompressedTexture2D::202537492143028915::1649801537::1714415317::1::::<><>::
+Troll_Walk_3.png::CompressedTexture2D::3880784597459359647::1649801537::1714415317::1::::<><>::
+Troll_Walk_4.png::CompressedTexture2D::9134836701979087561::1649801537::1714415317::1::::<><>::
+::res://assets/textures/Enchanted Forest Characters/Enchanted Forest Individual Frames/Wizard/::1714415317
+Wizard_Idle + Walk_1.png::CompressedTexture2D::1641520289946545936::1649801537::1714415317::1::::<><>::
+Wizard_Idle + Walk_2.png::CompressedTexture2D::5390441672704700413::1649801537::1714415317::1::::<><>::
+Wizard_Idle + Walk_3.png::CompressedTexture2D::330576461057834077::1649801537::1714415317::1::::<><>::
+Wizard_Idle + Walk_4.png::CompressedTexture2D::5521894422325896060::1649801537::1714415317::1::::<><>::
+::res://assets/textures/Enchanted Forest Characters/Enchanted Forest Individual Frames/Wolf/::1714415319
+Wolf_Idle_1.png::CompressedTexture2D::2757996380508020192::1649801537::1714415319::1::::<><>::
+Wolf_Idle_2.png::CompressedTexture2D::8774016675482101429::1649801537::1714415319::1::::<><>::
+Wolf_Idle_3.png::CompressedTexture2D::1688899510208203332::1649801537::1714415319::1::::<><>::
+Wolf_Idle_4.png::CompressedTexture2D::7554067303244183885::1649801537::1714415319::1::::<><>::
+Wolf_Walk_1.png::CompressedTexture2D::3195743125087411682::1649801537::1714415319::1::::<><>::
+Wolf_Walk_2.png::CompressedTexture2D::6514092005003444135::1649801537::1714415319::1::::<><>::
+Wolf_Walk_3.png::CompressedTexture2D::1319288475759328024::1649801537::1714415319::1::::<><>::
+Wolf_Walk_4.png::CompressedTexture2D::850673848686766902::1649801537::1714415319::1::::<><>::
+::res://assets/textures/Fantasy Characters/::1714415240
+::res://assets/textures/Fantasy Characters/Fantasy Individual Frames/::1714415241
+::res://assets/textures/Fantasy Characters/Fantasy Individual Frames/Alchemist/::1714415319
+Alchemist_Idle_1.png::CompressedTexture2D::6753592337829895986::1649801537::1714415319::1::::<><>::
+Alchemist_Idle_2.png::CompressedTexture2D::4649976646778420628::1649801537::1714415319::1::::<><>::
+Alchemist_Idle_3.png::CompressedTexture2D::6055608014837481240::1649801537::1714415319::1::::<><>::
+Alchemist_Idle_4.png::CompressedTexture2D::7928518264646631526::1649801537::1714415319::1::::<><>::
+Alchemist_Walk_1.png::CompressedTexture2D::4875190284289145528::1649801537::1714415319::1::::<><>::
+Alchemist_Walk_2.png::CompressedTexture2D::8350388418606689025::1649801537::1714415319::1::::<><>::
+Alchemist_Walk_3.png::CompressedTexture2D::3689287688032209706::1649801537::1714415319::1::::<><>::
+Alchemist_Walk_4.png::CompressedTexture2D::8073582243514973439::1649801537::1714415319::1::::<><>::
+::res://assets/textures/Fantasy Characters/Fantasy Individual Frames/All/::1714415319
+Alchemist_Idle_1.png::CompressedTexture2D::1924455491315922999::1649801537::1714415319::1::::<><>::
+Alchemist_Idle_2.png::CompressedTexture2D::4344531123206882593::1649801537::1714415319::1::::<><>::
+Alchemist_Idle_3.png::CompressedTexture2D::8776741059343619162::1649801537::1714415319::1::::<><>::
+Alchemist_Idle_4.png::CompressedTexture2D::6081686251328411418::1649801537::1714415319::1::::<><>::
+Alchemist_Walk_1.png::CompressedTexture2D::3004037066108349169::1649801537::1714415319::1::::<><>::
+Alchemist_Walk_2.png::CompressedTexture2D::6346139508499782867::1649801537::1714415319::1::::<><>::
+Alchemist_Walk_3.png::CompressedTexture2D::8074083611174916888::1649801537::1714415319::1::::<><>::
+Alchemist_Walk_4.png::CompressedTexture2D::5322374762843346881::1649801537::1714415319::1::::<><>::
+Archer_Idle_1.png::CompressedTexture2D::5498247192603049705::1649801537::1714415319::1::::<><>::
+Archer_Idle_2.png::CompressedTexture2D::1336368403196056682::1649801537::1714415319::1::::<><>::
+Archer_Idle_3.png::CompressedTexture2D::5464241898422553247::1649801537::1714415319::1::::<><>::
+Archer_Idle_4.png::CompressedTexture2D::4970861591038075213::1649801537::1714415319::1::::<><>::
+Archer_Walk_1.png::CompressedTexture2D::7364972136404348154::1649801537::1714415319::1::::<><>::
+Archer_Walk_2.png::CompressedTexture2D::2669146210351690012::1649801537::1714415319::1::::<><>::
+Archer_Walk_3.png::CompressedTexture2D::6337238261936560733::1649801537::1714415319::1::::<><>::
+Archer_Walk_4.png::CompressedTexture2D::5879698417021057883::1649801537::1714415319::1::::<><>::
+Bishop_Idle + Walk_1.png::CompressedTexture2D::2039528083956290111::1649801537::1714415319::1::::<><>::
+Bishop_Idle + Walk_2.png::CompressedTexture2D::3452425019832871019::1649801537::1714415319::1::::<><>::
+Bishop_Idle + Walk_3.png::CompressedTexture2D::8085623573965256208::1649801537::1714415319::1::::<><>::
+Bishop_Idle + Walk_4.png::CompressedTexture2D::1835444040516024629::1649801537::1714415319::1::::<><>::
+Blacksmith_Idle_1.png::CompressedTexture2D::8223972167851131199::1649801537::1714415319::1::::<><>::
+Blacksmith_Idle_2.png::CompressedTexture2D::7543392459566065120::1649801537::1714415319::1::::<><>::
+Blacksmith_Idle_3.png::CompressedTexture2D::2118636553293206398::1649801537::1714415319::1::::<><>::
+Blacksmith_Idle_4.png::CompressedTexture2D::1786690124138841749::1649801537::1714415319::1::::<><>::
+Blacksmith_Walk_1.png::CompressedTexture2D::3777822294843845727::1649801537::1714415319::1::::<><>::
+Blacksmith_Walk_2.png::CompressedTexture2D::2793448649250751256::1649801537::1714415319::1::::<><>::
+Blacksmith_Walk_3.png::CompressedTexture2D::8150874567258475547::1649801537::1714415319::1::::<><>::
+Blacksmith_Walk_4.png::CompressedTexture2D::6086063288223345274::1649801537::1714415319::1::::<><>::
+Butcher_Idle_1.png::CompressedTexture2D::7075251437580568179::1649801537::1714415319::1::::<><>::
+Butcher_Idle_2.png::CompressedTexture2D::6186390736528839842::1649801537::1714415319::1::::<><>::
+Butcher_Idle_3.png::CompressedTexture2D::5634414989527930896::1649801537::1714415319::1::::<><>::
+Butcher_Idle_4.png::CompressedTexture2D::6703611236583452890::1649801537::1714415319::1::::<><>::
+Butcher_Walk_1.png::CompressedTexture2D::4334889769290780576::1649801537::1714415319::1::::<><>::
+Butcher_Walk_2.png::CompressedTexture2D::3205960117119508529::1649801537::1714415319::1::::<><>::
+Butcher_Walk_3.png::CompressedTexture2D::7749443066315118020::1649801537::1714415319::1::::<><>::
+Butcher_Walk_4.png::CompressedTexture2D::2479487288959275563::1649801537::1714415319::1::::<><>::
+EliteKnight_Idle_1.png::CompressedTexture2D::4023732151084968257::1649801537::1714415319::1::::<><>::
+EliteKnight_Idle_2.png::CompressedTexture2D::2295504719551500936::1649801537::1714415319::1::::<><>::
+EliteKnight_Idle_3.png::CompressedTexture2D::2343905639657980474::1649801537::1714415319::1::::<><>::
+EliteKnight_Idle_4.png::CompressedTexture2D::3301146855650054882::1649801537::1714415319::1::::<><>::
+EliteKnight_Walk_1.png::CompressedTexture2D::6893702487701974400::1649801537::1714415319::1::::<><>::
+EliteKnight_Walk_2.png::CompressedTexture2D::6400137196341131906::1649801537::1714415319::1::::<><>::
+EliteKnight_Walk_3.png::CompressedTexture2D::5809922988076513288::1649801537::1714415319::1::::<><>::
+EliteKnight_Walk_4.png::CompressedTexture2D::4428653909290993625::1649801537::1714415319::1::::<><>::
+Executioner_Idle_1.png::CompressedTexture2D::6281710006017712582::1649801537::1714415319::1::::<><>::
+Executioner_Idle_2.png::CompressedTexture2D::1908064499931011245::1649801537::1714415319::1::::<><>::
+Executioner_Idle_3.png::CompressedTexture2D::2952225737122626569::1649801537::1714415319::1::::<><>::
+Executioner_Idle_4.png::CompressedTexture2D::3781303319333261712::1649801537::1714415319::1::::<><>::
+Executioner_Walk_1.png::CompressedTexture2D::1074258945026593857::1649801537::1714415319::1::::<><>::
+Executioner_Walk_2.png::CompressedTexture2D::4716698467284046805::1649801537::1714415319::1::::<><>::
+Executioner_Walk_3.png::CompressedTexture2D::4994627659566203556::1649801537::1714415319::1::::<><>::
+Executioner_Walk_4.png::CompressedTexture2D::1749537623948316821::1649801537::1714415319::1::::<><>::
+FatNun_Idle + Walk_1.png::CompressedTexture2D::4008599820848401837::1649801537::1714415319::1::::<><>::
+FatNun_Idle + Walk_2.png::CompressedTexture2D::1949203815914368987::1649801537::1714415319::1::::<><>::
+FatNun_Idle + Walk_3.png::CompressedTexture2D::5562500881461479860::1649801537::1714415319::1::::<><>::
+FatNun_Idle + Walk_4.png::CompressedTexture2D::7531911196946872500::1649801537::1714415319::1::::<><>::
+HeavyKnight_Idle_1.png::CompressedTexture2D::163075625572316703::1649801537::1714415319::1::::<><>::
+HeavyKnight_Idle_2.png::CompressedTexture2D::2897638362039662770::1649801537::1714415319::1::::<><>::
+HeavyKnight_Idle_3.png::CompressedTexture2D::3384344520026180988::1649801537::1714415319::1::::<><>::
+HeavyKnight_Idle_4.png::CompressedTexture2D::4736175224815522523::1649801537::1714415319::1::::<><>::
+HeavyKnight_Walk_1.png::CompressedTexture2D::1452521728950839720::1649801537::1714415319::1::::<><>::
+HeavyKnight_Walk_2.png::CompressedTexture2D::5698533543524685982::1649801537::1714415319::1::::<><>::
+HeavyKnight_Walk_3.png::CompressedTexture2D::7428121203638020113::1649801537::1714415319::1::::<><>::
+HeavyKnight_Walk_4.png::CompressedTexture2D::7974527647178506493::1649801537::1714415319::1::::<><>::
+Herald_Idle_1.png::CompressedTexture2D::8249986760813035680::1649801537::1714415319::1::::<><>::
+Herald_Idle_2.png::CompressedTexture2D::6518712732463380277::1649801537::1714415319::1::::<><>::
+Herald_Idle_3.png::CompressedTexture2D::1097947862653760146::1649801537::1714415319::1::::<><>::
+Herald_Idle_4.png::CompressedTexture2D::8951246200940291630::1649801537::1714415319::1::::<><>::
+Herald_Walk_1.png::CompressedTexture2D::4144975922091404614::1649801537::1714415319::1::::<><>::
+Herald_Walk_2.png::CompressedTexture2D::46803290007638797::1649801537::1714415319::1::::<><>::
+Herald_Walk_3.png::CompressedTexture2D::6793782135354498131::1649801537::1714415319::1::::<><>::
+Herald_Walk_4.png::CompressedTexture2D::7756710318879784344::1649801537::1714415319::1::::<><>::
+King_Idle_1.png::CompressedTexture2D::4123489450603913729::1649801537::1714415319::1::::<><>::
+King_Idle_2.png::CompressedTexture2D::6975411884125173740::1649801537::1714415319::1::::<><>::
+King_Idle_3.png::CompressedTexture2D::1669757636600983350::1649801537::1714415319::1::::<><>::
+King_Idle_4.png::CompressedTexture2D::2216160105089321082::1649801537::1714415319::1::::<><>::
+King_Walk_1.png::CompressedTexture2D::6684379271707849179::1649801537::1714415319::1::::<><>::
+King_Walk_2.png::CompressedTexture2D::7004530695203891885::1649801537::1714415319::1::::<><>::
+King_Walk_3.png::CompressedTexture2D::1605588928805505433::1649801537::1714415319::1::::<><>::
+King_Walk_4.png::CompressedTexture2D::3433346827039472576::1649801537::1714415319::1::::<><>::
+Knight_Idle_1.png::CompressedTexture2D::8056273767406617516::1649801537::1714415319::1::::<><>::
+Knight_Idle_2.png::CompressedTexture2D::8559066857440927364::1649801537::1714415319::1::::<><>::
+Knight_Idle_3.png::CompressedTexture2D::4028395154168449495::1649801537::1714415319::1::::<><>::
+Knight_Idle_4.png::CompressedTexture2D::7658701966230881157::1649801537::1714415319::1::::<><>::
+Knight_Walk_1.png::CompressedTexture2D::3346308054329468192::1649801537::1714415319::1::::<><>::
+Knight_Walk_2.png::CompressedTexture2D::7549015373081719565::1649801537::1714415319::1::::<><>::
+Knight_Walk_3.png::CompressedTexture2D::4186435384729970958::1649801537::1714415319::1::::<><>::
+Knight_Walk_4.png::CompressedTexture2D::4664877915034638181::1649801537::1714415319::1::::<><>::
+LargeEliteKnight_Idle_1.png::CompressedTexture2D::4577100307160155078::1649801537::1714415319::1::::<><>::
+LargeEliteKnight_Idle_2.png::CompressedTexture2D::5109279026050762754::1649801537::1714415319::1::::<><>::
+LargeEliteKnight_Idle_3.png::CompressedTexture2D::5322210379198700059::1649801537::1714415319::1::::<><>::
+LargeEliteKnight_Idle_4.png::CompressedTexture2D::2420247385575258572::1649801537::1714415319::1::::<><>::
+LargeEliteKnight_Walk_1.png::CompressedTexture2D::6104705598457958467::1649801537::1714415319::1::::<><>::
+LargeEliteKnight_Walk_2.png::CompressedTexture2D::2689415905796821359::1649801537::1714415319::1::::<><>::
+LargeEliteKnight_Walk_3.png::CompressedTexture2D::180229333537800095::1649801537::1714415319::1::::<><>::
+LargeEliteKnight_Walk_4.png::CompressedTexture2D::2464702242987369727::1649801537::1714415319::1::::<><>::
+LargeKnight_Idle_1.png::CompressedTexture2D::2441156096466543931::1649801537::1714415319::1::::<><>::
+LargeKnight_Idle_2.png::CompressedTexture2D::198825521307641924::1649801537::1714415319::1::::<><>::
+LargeKnight_Idle_3.png::CompressedTexture2D::5594197817821028294::1649801537::1714415319::1::::<><>::
+LargeKnight_Idle_4.png::CompressedTexture2D::4807621443086133091::1649801537::1714415319::1::::<><>::
+LargeKnight_Walk_1.png::CompressedTexture2D::6027506712574987504::1649801537::1714415319::1::::<><>::
+LargeKnight_Walk_2.png::CompressedTexture2D::2388373646400367391::1649801537::1714415319::1::::<><>::
+LargeKnight_Walk_3.png::CompressedTexture2D::3174014648370813163::1649801537::1714415319::1::::<><>::
+LargeKnight_Walk_4.png::CompressedTexture2D::6649758950861133387::1649801537::1714415319::1::::<><>::
+Mage_Idle_1.png::CompressedTexture2D::6118139076032235965::1649801537::1714415319::1::::<><>::
+Mage_Idle_2.png::CompressedTexture2D::8612595335681917781::1649801537::1714415319::1::::<><>::
+Mage_Idle_3.png::CompressedTexture2D::6733101456141756078::1649801537::1714415319::1::::<><>::
+Mage_Idle_4.png::CompressedTexture2D::5117670677789268741::1649801537::1714415319::1::::<><>::
+Mage_Walk_1.png::CompressedTexture2D::4823947728157186945::1649801537::1714415319::1::::<><>::
+Mage_Walk_2.png::CompressedTexture2D::6374989333830083044::1649801537::1714415319::1::::<><>::
+Mage_Walk_3.png::CompressedTexture2D::4512146414433059860::1649801537::1714415319::1::::<><>::
+Mage_Walk_4.png::CompressedTexture2D::6607415476948649239::1649801537::1714415319::1::::<><>::
+MagicShopKeeper_Idle + Walk_1.png::CompressedTexture2D::3275413497406264500::1649801537::1714415319::1::::<><>::
+MagicShopKeeper_Idle + Walk_2.png::CompressedTexture2D::3939761527286331795::1649801537::1714415319::1::::<><>::
+MagicShopKeeper_Idle + Walk_3.png::CompressedTexture2D::2699704004345522620::1649801537::1714415319::1::::<><>::
+MagicShopKeeper_Idle + Walk_4.png::CompressedTexture2D::5783066089452695328::1649801537::1714415319::1::::<><>::
+Merchant_Idle_1.png::CompressedTexture2D::2241918999511236014::1649801537::1714415319::1::::<><>::
+Merchant_Idle_2.png::CompressedTexture2D::7389064306369187178::1649801537::1714415319::1::::<><>::
+Merchant_Idle_3.png::CompressedTexture2D::8925340920676113291::1649801537::1714415319::1::::<><>::
+Merchant_Idle_4.png::CompressedTexture2D::31106410587171604::1649801537::1714415319::1::::<><>::
+Merchant_Walk_1.png::CompressedTexture2D::1835834923690846883::1649801537::1714415319::1::::<><>::
+Merchant_Walk_2.png::CompressedTexture2D::8125278486501797242::1649801537::1714415319::1::::<><>::
+Merchant_Walk_3.png::CompressedTexture2D::7398869620429361392::1649801537::1714415319::1::::<><>::
+Merchant_Walk_4.png::CompressedTexture2D::7731951478924574612::1649801537::1714415319::1::::<><>::
+MountainKing_Idle + Walk_1.png::CompressedTexture2D::8786087212298073300::1649801537::1714415319::1::::<><>::
+MountainKing_Idle + Walk_2.png::CompressedTexture2D::6626700886875720656::1649801537::1714415319::1::::<><>::
+MountainKing_Idle + Walk_3.png::CompressedTexture2D::6685315076916332090::1649801537::1714415319::1::::<><>::
+MountainKing_Idle + Walk_4.png::CompressedTexture2D::6506686734607809737::1649801537::1714415319::1::::<><>::
+NormalNun_Idle + Walk_1.png::CompressedTexture2D::1920054560047148573::1649801537::1714415319::1::::<><>::
+NormalNun_Idle + Walk_2.png::CompressedTexture2D::7759284329052417615::1649801537::1714415319::1::::<><>::
+NormalNun_Idle + Walk_3.png::CompressedTexture2D::4417829549104298901::1649801537::1714415319::1::::<><>::
+NormalNun_Idle + Walk_4.png::CompressedTexture2D::3670845360230202869::1649801537::1714415319::1::::<><>::
+Princess_Idle_1.png::CompressedTexture2D::2995584306737909079::1649801537::1714415319::1::::<><>::
+Princess_Idle_2.png::CompressedTexture2D::3486861509234937321::1649801537::1714415319::1::::<><>::
+Princess_Idle_3.png::CompressedTexture2D::8475025616763542049::1649801537::1714415319::1::::<><>::
+Princess_Idle_4.png::CompressedTexture2D::8609645871126399902::1649801537::1714415319::1::::<><>::
+Princess_Walk_1.png::CompressedTexture2D::3283741442060284432::1649801537::1714415319::1::::<><>::
+Princess_Walk_2.png::CompressedTexture2D::8397710480827220984::1649801537::1714415319::1::::<><>::
+Princess_Walk_3.png::CompressedTexture2D::2874545342906717566::1649801537::1714415319::1::::<><>::
+Princess_Walk_4.png::CompressedTexture2D::2510306183055119332::1649801537::1714415319::1::::<><>::
+Queen_Idle_1.png::CompressedTexture2D::7573972996207380048::1649801537::1714415319::1::::<><>::
+Queen_Idle_2.png::CompressedTexture2D::4165795969498788719::1649801537::1714415319::1::::<><>::
+Queen_Idle_3.png::CompressedTexture2D::8611016235934288661::1649801537::1714415319::1::::<><>::
+Queen_Idle_4.png::CompressedTexture2D::5001757247761051107::1649801537::1714415319::1::::<><>::
+Queen_Walk_1.png::CompressedTexture2D::658950623774210250::1649801537::1714415319::1::::<><>::
+Queen_Walk_2.png::CompressedTexture2D::8780068838045785824::1649801537::1714415319::1::::<><>::
+Queen_Walk_3.png::CompressedTexture2D::7350991826358723810::1649801537::1714415319::1::::<><>::
+Queen_Walk_4.png::CompressedTexture2D::4298206675263841265::1649801537::1714415319::1::::<><>::
+SkinnyNun_Idle + Walk_1.png::CompressedTexture2D::7282530220013879008::1649801537::1714415319::1::::<><>::
+SkinnyNun_Idle + Walk_2.png::CompressedTexture2D::2791653009703300542::1649801537::1714415319::1::::<><>::
+SkinnyNun_Idle + Walk_3.png::CompressedTexture2D::757099929882267954::1649801537::1714415319::1::::<><>::
+SkinnyNun_Idle + Walk_4.png::CompressedTexture2D::1030514031627786366::1649801537::1714415319::1::::<><>::
+Thief_Idle_1.png::CompressedTexture2D::76958463643368623::1649801537::1714415319::1::::<><>::
+Thief_Idle_2.png::CompressedTexture2D::342224595480504202::1649801537::1714415319::1::::<><>::
+Thief_Idle_3.png::CompressedTexture2D::313484159548284469::1649801537::1714415319::1::::<><>::
+Thief_Idle_4.png::CompressedTexture2D::7367646535065553495::1649801537::1714415319::1::::<><>::
+Thief_Walk_1.png::CompressedTexture2D::3486994216328967570::1649801537::1714415319::1::::<><>::
+Thief_Walk_2.png::CompressedTexture2D::1285976964505150161::1649801537::1714415319::1::::<><>::
+Thief_Walk_3.png::CompressedTexture2D::3781861155720050229::1649801537::1714415319::1::::<><>::
+Thief_Walk_4.png::CompressedTexture2D::104743155254454029::1649801537::1714415319::1::::<><>::
+Townsfolk_F_Idle_1.png::CompressedTexture2D::3186437999041883716::1649801537::1714415318::1::::<><>::
+Townsfolk_F_Idle_2.png::CompressedTexture2D::8574879091144138894::1649801537::1714415318::1::::<><>::
+Townsfolk_F_Idle_3.png::CompressedTexture2D::4058999732105902075::1649801537::1714415318::1::::<><>::
+Townsfolk_F_Idle_4.png::CompressedTexture2D::3812881335109191000::1649801537::1714415318::1::::<><>::
+Townsfolk_F_Walk_1.png::CompressedTexture2D::5146313636936065497::1649801537::1714415318::1::::<><>::
+Townsfolk_F_Walk_2.png::CompressedTexture2D::1798065954689405981::1649801537::1714415318::1::::<><>::
+Townsfolk_F_Walk_3.png::CompressedTexture2D::8280535001855208873::1649801537::1714415318::1::::<><>::
+Townsfolk_F_Walk_4.png::CompressedTexture2D::3835830608529607893::1649801537::1714415318::1::::<><>::
+::res://assets/textures/Fantasy Characters/Fantasy Individual Frames/Archer/::1714415318
+Archer_Idle_1.png::CompressedTexture2D::7665972125225761094::1649801537::1714415318::1::::<><>::
+Archer_Idle_2.png::CompressedTexture2D::8537796305488043983::1649801537::1714415318::1::::<><>::
+Archer_Idle_3.png::CompressedTexture2D::8889955079724254473::1649801537::1714415318::1::::<><>::
+Archer_Idle_4.png::CompressedTexture2D::4290746929653853805::1649801537::1714415318::1::::<><>::
+Archer_Walk_1.png::CompressedTexture2D::2039808319388080876::1649801537::1714415318::1::::<><>::
+Archer_Walk_2.png::CompressedTexture2D::4128287361141384775::1649801537::1714415318::1::::<><>::
+Archer_Walk_3.png::CompressedTexture2D::4842005893194448300::1649801537::1714415318::1::::<><>::
+Archer_Walk_4.png::CompressedTexture2D::2095489248988206696::1649801537::1714415318::1::::<><>::
+::res://assets/textures/Fantasy Characters/Fantasy Individual Frames/Bishop/::1714415318
+Bishop_Idle + Walk_1.png::CompressedTexture2D::4475850628212465217::1649801537::1714415318::1::::<><>::
+Bishop_Idle + Walk_2.png::CompressedTexture2D::7656566607139966584::1649801537::1714415318::1::::<><>::
+Bishop_Idle + Walk_3.png::CompressedTexture2D::2086683495938308063::1649801537::1714415318::1::::<><>::
+Bishop_Idle + Walk_4.png::CompressedTexture2D::3055488102844348670::1649801537::1714415318::1::::<><>::
+::res://assets/textures/Fantasy Characters/Fantasy Individual Frames/Blacksmith/::1714415318
+Blacksmith_Idle_1.png::CompressedTexture2D::6859493508318316753::1649801537::1714415318::1::::<><>::
+Blacksmith_Idle_2.png::CompressedTexture2D::6674107500093333149::1649801537::1714415318::1::::<><>::
+Blacksmith_Idle_3.png::CompressedTexture2D::152171618314794510::1649801537::1714415318::1::::<><>::
+Blacksmith_Idle_4.png::CompressedTexture2D::5070672950386192800::1649801537::1714415318::1::::<><>::
+Blacksmith_Walk_1.png::CompressedTexture2D::7113672410108378397::1649801537::1714415318::1::::<><>::
+Blacksmith_Walk_2.png::CompressedTexture2D::5835398254618629960::1649801537::1714415318::1::::<><>::
+Blacksmith_Walk_3.png::CompressedTexture2D::1528704460908401271::1649801537::1714415318::1::::<><>::
+Blacksmith_Walk_4.png::CompressedTexture2D::2317565911642641663::1649801537::1714415318::1::::<><>::
+::res://assets/textures/Fantasy Characters/Fantasy Individual Frames/Butcher/::1714415318
+Butcher_Idle_1.png::CompressedTexture2D::5975779056345065908::1649801537::1714415318::1::::<><>::
+Butcher_Idle_2.png::CompressedTexture2D::548335474932255873::1649801537::1714415318::1::::<><>::
+Butcher_Idle_3.png::CompressedTexture2D::7862105995625060465::1649801537::1714415318::1::::<><>::
+Butcher_Idle_4.png::CompressedTexture2D::5111034978417497985::1649801537::1714415318::1::::<><>::
+Butcher_Walk_1.png::CompressedTexture2D::6546652484211811916::1649801537::1714415318::1::::<><>::
+Butcher_Walk_2.png::CompressedTexture2D::977169606630941813::1649801537::1714415318::1::::<><>::
+Butcher_Walk_3.png::CompressedTexture2D::3601068406164345761::1649801537::1714415318::1::::<><>::
+Butcher_Walk_4.png::CompressedTexture2D::4687306636192983847::1649801537::1714415318::1::::<><>::
+::res://assets/textures/Fantasy Characters/Fantasy Individual Frames/Executioner/::1714415318
+Executioner_Idle_1.png::CompressedTexture2D::6876534631794059977::1649801537::1714415318::1::::<><>::
+Executioner_Idle_2.png::CompressedTexture2D::2145736753883927718::1649801537::1714415318::1::::<><>::
+Executioner_Idle_3.png::CompressedTexture2D::6341960166826839377::1649801537::1714415318::1::::<><>::
+Executioner_Idle_4.png::CompressedTexture2D::1881772448453486894::1649801537::1714415318::1::::<><>::
+Executioner_Walk_1.png::CompressedTexture2D::5457248453655481316::1649801537::1714415318::1::::<><>::
+Executioner_Walk_2.png::CompressedTexture2D::1815940281585351185::1649801537::1714415318::1::::<><>::
+Executioner_Walk_3.png::CompressedTexture2D::3443905979143871855::1649801537::1714415318::1::::<><>::
+Executioner_Walk_4.png::CompressedTexture2D::6061660044178114094::1649801537::1714415318::1::::<><>::
+::res://assets/textures/Fantasy Characters/Fantasy Individual Frames/Herald/::1714415318
+Herald_Idle_1.png::CompressedTexture2D::353251295731198900::1649801537::1714415318::1::::<><>::
+Herald_Idle_2.png::CompressedTexture2D::5003826581124861501::1649801537::1714415318::1::::<><>::
+Herald_Idle_3.png::CompressedTexture2D::693012963912241244::1649801537::1714415318::1::::<><>::
+Herald_Idle_4.png::CompressedTexture2D::592754235905273571::1649801537::1714415318::1::::<><>::
+Herald_Walk_1.png::CompressedTexture2D::4825653659020044522::1649801537::1714415318::1::::<><>::
+Herald_Walk_2.png::CompressedTexture2D::2166031540664788732::1649801537::1714415318::1::::<><>::
+Herald_Walk_3.png::CompressedTexture2D::2803896588744821241::1649801537::1714415318::1::::<><>::
+Herald_Walk_4.png::CompressedTexture2D::3472955633392007790::1649801537::1714415318::1::::<><>::
+::res://assets/textures/Fantasy Characters/Fantasy Individual Frames/King/::1714415318
+King_Idle_1.png::CompressedTexture2D::1738605848961684692::1649801537::1714415318::1::::<><>::
+King_Idle_2.png::CompressedTexture2D::5673206313964365551::1649801537::1714415318::1::::<><>::
+King_Idle_3.png::CompressedTexture2D::5641144636657548713::1649801537::1714415318::1::::<><>::
+King_Idle_4.png::CompressedTexture2D::5240148527310281786::1649801537::1714415318::1::::<><>::
+King_Walk_1.png::CompressedTexture2D::7379774989206749904::1649801537::1714415318::1::::<><>::
+King_Walk_2.png::CompressedTexture2D::9053762454994882421::1649801537::1714415318::1::::<><>::
+King_Walk_3.png::CompressedTexture2D::1873527309020799986::1649801537::1714415318::1::::<><>::
+King_Walk_4.png::CompressedTexture2D::7366005404964345148::1649801537::1714415318::1::::<><>::
+::res://assets/textures/Fantasy Characters/Fantasy Individual Frames/Knight - Elite/::1714415318
+EliteKnight_Idle_1.png::CompressedTexture2D::184544016620521166::1649801537::1714415318::1::::<><>::
+EliteKnight_Idle_2.png::CompressedTexture2D::5468409488685285751::1649801537::1714415318::1::::<><>::
+EliteKnight_Idle_3.png::CompressedTexture2D::8555193245926040312::1649801537::1714415318::1::::<><>::
+EliteKnight_Idle_4.png::CompressedTexture2D::379141454457846010::1649801537::1714415318::1::::<><>::
+EliteKnight_Walk_1.png::CompressedTexture2D::3848075323636647453::1649801537::1714415318::1::::<><>::
+EliteKnight_Walk_2.png::CompressedTexture2D::3699222531662723775::1649801537::1714415318::1::::<><>::
+EliteKnight_Walk_3.png::CompressedTexture2D::2293376460365911435::1649801537::1714415318::1::::<><>::
+EliteKnight_Walk_4.png::CompressedTexture2D::4188092757595698492::1649801537::1714415318::1::::<><>::
+::res://assets/textures/Fantasy Characters/Fantasy Individual Frames/Knight - Heavy/::1714415318
+HeavyKnight_Idle_1.png::CompressedTexture2D::8219838486803060021::1649801537::1714415318::1::::<><>::
+HeavyKnight_Idle_2.png::CompressedTexture2D::3807262636103943505::1649801537::1714415318::1::::<><>::
+HeavyKnight_Idle_3.png::CompressedTexture2D::1023193672953726800::1649801537::1714415318::1::::<><>::
+HeavyKnight_Idle_4.png::CompressedTexture2D::10567701335174938::1649801537::1714415318::1::::<><>::
+HeavyKnight_Walk_1.png::CompressedTexture2D::5041591983079970554::1649801537::1714415318::1::::<><>::
+HeavyKnight_Walk_2.png::CompressedTexture2D::4219611027374652743::1649801537::1714415318::1::::<><>::
+HeavyKnight_Walk_3.png::CompressedTexture2D::1364655066546679404::1649801537::1714415318::1::::<><>::
+HeavyKnight_Walk_4.png::CompressedTexture2D::404519061302964915::1649801537::1714415318::1::::<><>::
+::res://assets/textures/Fantasy Characters/Fantasy Individual Frames/Knight - Standard/::1714415318
+Knight_Idle_1.png::CompressedTexture2D::3997678790211014446::1649801537::1714415318::1::::<><>::
+Knight_Idle_2.png::CompressedTexture2D::7361527837060252409::1649801537::1714415318::1::::<><>::
+Knight_Idle_3.png::CompressedTexture2D::2023406109798335119::1649801537::1714415318::1::::<><>::
+Knight_Idle_4.png::CompressedTexture2D::3481291416796764813::1649801537::1714415318::1::::<><>::
+Knight_Walk_1.png::CompressedTexture2D::4251966255394345900::1649801537::1714415318::1::::<><>::
+Knight_Walk_2.png::CompressedTexture2D::6235780198131435061::1649801537::1714415318::1::::<><>::
+Knight_Walk_3.png::CompressedTexture2D::9009898878869481747::1649801537::1714415318::1::::<><>::
+Knight_Walk_4.png::CompressedTexture2D::8477469663849831572::1649801537::1714415318::1::::<><>::
+::res://assets/textures/Fantasy Characters/Fantasy Individual Frames/Large Knight - Elite/::1714415319
+LargeEliteKnight_Idle_1.png::CompressedTexture2D::6043813236060709748::1649801537::1714415318::1::::<><>::
+LargeEliteKnight_Idle_2.png::CompressedTexture2D::3675328843250685534::1649801537::1714415318::1::::<><>::
+LargeEliteKnight_Idle_3.png::CompressedTexture2D::6037241306151971996::1649801537::1714415318::1::::<><>::
+LargeEliteKnight_Idle_4.png::CompressedTexture2D::3104526079152080786::1649801537::1714415318::1::::<><>::
+LargeEliteKnight_Walk_1.png::CompressedTexture2D::4446627015193530496::1649801537::1714415319::1::::<><>::
+LargeEliteKnight_Walk_2.png::CompressedTexture2D::3110190140541626181::1649801537::1714415319::1::::<><>::
+LargeEliteKnight_Walk_3.png::CompressedTexture2D::91536077158900004::1649801537::1714415319::1::::<><>::
+LargeEliteKnight_Walk_4.png::CompressedTexture2D::7470002655180777758::1649801537::1714415319::1::::<><>::
+::res://assets/textures/Fantasy Characters/Fantasy Individual Frames/Large Knight - Standard/::1714415319
+LargeKnight_Idle_1.png::CompressedTexture2D::8694519387571033161::1649801537::1714415319::1::::<><>::
+LargeKnight_Idle_2.png::CompressedTexture2D::1922616132803714151::1649801537::1714415319::1::::<><>::
+LargeKnight_Idle_3.png::CompressedTexture2D::699378059917153874::1649801537::1714415319::1::::<><>::
+LargeKnight_Idle_4.png::CompressedTexture2D::3571877986712529339::1649801537::1714415319::1::::<><>::
+LargeKnight_Walk_1.png::CompressedTexture2D::2520357984621265458::1649801537::1714415319::1::::<><>::
+LargeKnight_Walk_2.png::CompressedTexture2D::3296914244401805867::1649801537::1714415319::1::::<><>::
+LargeKnight_Walk_3.png::CompressedTexture2D::5132512865264115490::1649801537::1714415319::1::::<><>::
+LargeKnight_Walk_4.png::CompressedTexture2D::8903928397706301232::1649801537::1714415319::1::::<><>::
+::res://assets/textures/Fantasy Characters/Fantasy Individual Frames/Mage/::1714415319
+Mage_Idle_1.png::CompressedTexture2D::1490620218324283583::1649801537::1714415318::1::::<><>::
+Mage_Idle_2.png::CompressedTexture2D::4003958167175766339::1649801537::1714415319::1::::<><>::
+Mage_Idle_3.png::CompressedTexture2D::961026756746778101::1649801537::1714415318::1::::<><>::
+Mage_Idle_4.png::CompressedTexture2D::3761197110946266899::1649801537::1714415318::1::::<><>::
+Mage_Walk_1.png::CompressedTexture2D::1355456964168251257::1649801537::1714415318::1::::<><>::
+Mage_Walk_2.png::CompressedTexture2D::8839248268098032018::1649801537::1714415318::1::::<><>::
+Mage_Walk_3.png::CompressedTexture2D::1547713938080011915::1649801537::1714415318::1::::<><>::
+Mage_Walk_4.png::CompressedTexture2D::8822458559390864606::1649801537::1714415318::1::::<><>::
+::res://assets/textures/Fantasy Characters/Fantasy Individual Frames/Magic Shopkeeper/::1714415319
+MagicShopKeeper_Idle + Walk_1.png::CompressedTexture2D::872188544119865067::1649801537::1714415318::1::::<><>::
+MagicShopKeeper_Idle + Walk_2.png::CompressedTexture2D::6682632032031495632::1649801537::1714415318::1::::<><>::
+MagicShopKeeper_Idle + Walk_3.png::CompressedTexture2D::4803812769064438035::1649801537::1714415319::1::::<><>::
+MagicShopKeeper_Idle + Walk_4.png::CompressedTexture2D::8324395522354027608::1649801537::1714415319::1::::<><>::
+::res://assets/textures/Fantasy Characters/Fantasy Individual Frames/Merchant/::1714415319
+Merchant_Idle_1.png::CompressedTexture2D::665037173817001596::1649801537::1714415319::1::::<><>::
+Merchant_Idle_2.png::CompressedTexture2D::3929199451087502727::1649801537::1714415319::1::::<><>::
+Merchant_Idle_3.png::CompressedTexture2D::7284353549717040747::1649801537::1714415319::1::::<><>::
+Merchant_Idle_4.png::CompressedTexture2D::5090479834335556365::1649801537::1714415319::1::::<><>::
+Merchant_Walk_1.png::CompressedTexture2D::3015187898567956782::1649801537::1714415319::1::::<><>::
+Merchant_Walk_2.png::CompressedTexture2D::1033211676026179661::1649801537::1714415319::1::::<><>::
+Merchant_Walk_3.png::CompressedTexture2D::1624397103270138267::1649801537::1714415319::1::::<><>::
+Merchant_Walk_4.png::CompressedTexture2D::7203264669157451289::1649801537::1714415319::1::::<><>::
+::res://assets/textures/Fantasy Characters/Fantasy Individual Frames/Mountain King/::1714415319
+MountainKing_Idle + Walk_1.png::CompressedTexture2D::1325481518683705137::1649801537::1714415319::1::::<><>::
+MountainKing_Idle + Walk_2.png::CompressedTexture2D::3458675549105922694::1649801537::1714415319::1::::<><>::
+MountainKing_Idle + Walk_3.png::CompressedTexture2D::490508575718449563::1649801538::1714415319::1::::<><>::
+MountainKing_Idle + Walk_4.png::CompressedTexture2D::4992116922684708692::1649801538::1714415319::1::::<><>::
+::res://assets/textures/Fantasy Characters/Fantasy Individual Frames/Nun - Fat/::1714415319
+FatNun_Idle + Walk_1.png::CompressedTexture2D::7534349481273837857::1649801538::1714415319::1::::<><>::
+FatNun_Idle + Walk_2.png::CompressedTexture2D::4283947352035882967::1649801538::1714415319::1::::<><>::
+FatNun_Idle + Walk_3.png::CompressedTexture2D::2146814060241716215::1649801538::1714415319::1::::<><>::
+FatNun_Idle + Walk_4.png::CompressedTexture2D::4088189852870077495::1649801538::1714415319::1::::<><>::
+::res://assets/textures/Fantasy Characters/Fantasy Individual Frames/Nun - Normal/::1714415319
+NormalNun_Idle + Walk_1.png::CompressedTexture2D::1656796223559145415::1649801538::1714415319::1::::<><>::
+NormalNun_Idle + Walk_2.png::CompressedTexture2D::8465539060366528233::1649801538::1714415319::1::::<><>::
+NormalNun_Idle + Walk_3.png::CompressedTexture2D::7259542023068883756::1649801538::1714415319::1::::<><>::
+NormalNun_Idle + Walk_4.png::CompressedTexture2D::8565036612230324021::1649801538::1714415319::1::::<><>::
+::res://assets/textures/Fantasy Characters/Fantasy Individual Frames/Nun - Tall/::1714415318
+TallNun_Idle + Walk_1.png::CompressedTexture2D::265993704288014064::1649801538::1714415318::1::::<><>::
+TallNun_Idle + Walk_2.png::CompressedTexture2D::5184791667473564227::1649801538::1714415318::1::::<><>::
+TallNun_Idle + Walk_3.png::CompressedTexture2D::8608442432429217735::1649801538::1714415318::1::::<><>::
+TallNun_Idle + Walk_4.png::CompressedTexture2D::1771903350062278227::1649801538::1714415318::1::::<><>::
+::res://assets/textures/Fantasy Characters/Fantasy Individual Frames/Princess/::1714415318
+Princess_Idle_1.png::CompressedTexture2D::8890879428045812164::1649801538::1714415318::1::::<><>::
+Princess_Idle_2.png::CompressedTexture2D::6262896280158498451::1649801538::1714415318::1::::<><>::
+Princess_Idle_3.png::CompressedTexture2D::7406789857098924123::1649801538::1714415318::1::::<><>::
+Princess_Idle_4.png::CompressedTexture2D::6629810746869395073::1649801538::1714415318::1::::<><>::
+Princess_Walk_1.png::CompressedTexture2D::3485174915889514359::1649801538::1714415318::1::::<><>::
+Princess_Walk_2.png::CompressedTexture2D::8845883345531089517::1649801538::1714415318::1::::<><>::
+Princess_Walk_3.png::CompressedTexture2D::1743792067303802527::1649801538::1714415318::1::::<><>::
+Princess_Walk_4.png::CompressedTexture2D::6187278353629874435::1649801538::1714415318::1::::<><>::
+::res://assets/textures/Fantasy Characters/Fantasy Individual Frames/Queen/::1714415318
+Queen_Idle_1.png::CompressedTexture2D::6388916655505204556::1649801538::1714415318::1::::<><>::
+Queen_Idle_2.png::CompressedTexture2D::2915000089962952519::1649801538::1714415318::1::::<><>::
+Queen_Idle_3.png::CompressedTexture2D::6960240242168193398::1649801538::1714415318::1::::<><>::
+Queen_Idle_4.png::CompressedTexture2D::1536085752784192131::1649801538::1714415318::1::::<><>::
+Queen_Walk_1.png::CompressedTexture2D::492148624025966153::1649801538::1714415318::1::::<><>::
+Queen_Walk_2.png::CompressedTexture2D::1399589901115415687::1649801538::1714415318::1::::<><>::
+Queen_Walk_3.png::CompressedTexture2D::847622532158107972::1649801538::1714415318::1::::<><>::
+Queen_Walk_4.png::CompressedTexture2D::6775940169979627274::1649801538::1714415318::1::::<><>::
+::res://assets/textures/Fantasy Characters/Fantasy Individual Frames/Thief/::1714415318
+Thief_Idle_1.png::CompressedTexture2D::6495294471820889196::1649801538::1714415318::1::::<><>::
+Thief_Idle_2.png::CompressedTexture2D::8065372098308488958::1649801538::1714415318::1::::<><>::
+Thief_Idle_3.png::CompressedTexture2D::8670290741317185183::1649801538::1714415318::1::::<><>::
+Thief_Idle_4.png::CompressedTexture2D::5145418141197217725::1649801538::1714415318::1::::<><>::
+Thief_Walk_1.png::CompressedTexture2D::2334067333772349536::1649801538::1714415318::1::::<><>::
+Thief_Walk_2.png::CompressedTexture2D::3436655366394067260::1649801538::1714415318::1::::<><>::
+Thief_Walk_3.png::CompressedTexture2D::1322635784337036582::1649801538::1714415318::1::::<><>::
+Thief_Walk_4.png::CompressedTexture2D::6194073334788163013::1649801538::1714415318::1::::<><>::
+::res://assets/textures/Fantasy Characters/Fantasy Individual Frames/Townsfolk - Female/::1714415318
+Townsfolk_F_Idle_1.png::CompressedTexture2D::978495944803917478::1649801538::1714415318::1::::<><>::
+Townsfolk_F_Idle_2.png::CompressedTexture2D::4147630766070738202::1649801538::1714415318::1::::<><>::
+Townsfolk_F_Idle_3.png::CompressedTexture2D::7549600873170926585::1649801538::1714415318::1::::<><>::
+Townsfolk_F_Idle_4.png::CompressedTexture2D::8908798207478364652::1649801538::1714415318::1::::<><>::
+Townsfolk_F_Walk_1.png::CompressedTexture2D::6093348237136789629::1649801538::1714415318::1::::<><>::
+Townsfolk_F_Walk_2.png::CompressedTexture2D::6066170206048260614::1649801538::1714415318::1::::<><>::
+Townsfolk_F_Walk_3.png::CompressedTexture2D::2840312604313861455::1649801538::1714415318::1::::<><>::
+Townsfolk_F_Walk_4.png::CompressedTexture2D::7495305767364208146::1649801538::1714415318::1::::<><>::
+::res://assets/textures/Fantasy Characters/Fantasy Individual Frames/Townsfolk - Male/::1714415318
+Townsfolk_M_Idle_1.png::CompressedTexture2D::8591888638164376429::1649801538::1714415318::1::::<><>::
+Townsfolk_M_Idle_2.png::CompressedTexture2D::716871242455016944::1649801538::1714415318::1::::<><>::
+Townsfolk_M_Idle_3.png::CompressedTexture2D::5206755921941915938::1649801538::1714415318::1::::<><>::
+Townsfolk_M_Idle_4.png::CompressedTexture2D::6027826727942987939::1649801538::1714415318::1::::<><>::
+Townsfolk_M_Walk_1.png::CompressedTexture2D::5108837852330634713::1649801538::1714415318::1::::<><>::
+Townsfolk_M_Walk_2.png::CompressedTexture2D::1308340811350605976::1649801538::1714415318::1::::<><>::
+Townsfolk_M_Walk_3.png::CompressedTexture2D::6828015861737415609::1649801538::1714415318::1::::<><>::
+Townsfolk_M_Walk_4.png::CompressedTexture2D::1200341459460951614::1649801538::1714415318::1::::<><>::
+::res://builds/::1714447323
+::res://resources/::1714441280
+::res://scenes/::1714434998
+::res://scenes/actors/::1714448157
+enemy.tscn::PackedScene::6358982389119221443::1714448157::0::1::::<><>::res://scripts/actors/enemy.gd<>res://scripts/resources/actor_animator.gd<>res://scripts/resources/Movement/movement.gd<>uid://bjnusmisqp7hh::::res://assets/textures/Dungeon/0x72 Dungeon Tileset.png<>res://scripts/resources/Movement/enemy_pathfinder.gd<>res://scripts/resources/Movement/movement_stats.gd
+visk.tscn::PackedScene::164544559124049209::1714448157::0::1::::<><>::res://scripts/actors/visk.gd<>uid://bjnusmisqp7hh::::res://assets/textures/Dungeon/0x72 Dungeon Tileset.png<>res://scripts/resources/Movement/movement_stats.gd<>res://scripts/resources/Movement/movement_velocity_input.gd<>res://scripts/resources/Movement/movement.gd<>res://scripts/resources/actor_animator.gd
+::res://scenes/levels/::1714448157
+game.tscn::PackedScene::6312629698555070786::1714448157::0::1::::<><>::uid://clya3yv7xjuv::::res://scenes/actors/visk.tscn<>uid://mwrspp1m731u::::res://scenes/sounds/bgm.tscn<>uid://cwulrmuaqp6gd::::res://scenes/actors/enemy.tscn
+::res://scenes/sounds/::1714435007
+bgm.tscn::PackedScene::888747579633988152::1714435007::0::1::::<><>::uid://cr8yyc5vueb3::::res://assets/sounds/music/Tragique.wav
+::res://scripts/::1714437546
+::res://scripts/actors/::1714445196
+enemy.gd::GDScript::-1::1714445196::0::1::::<>Node2D<>::
+visk.gd::GDScript::-1::1714439994::0::1::::<>CharacterBody2D<>::
+::res://scripts/resources/::1714448127
+actor_animator.gd::GDScript::-1::1714448127::0::1::::ActorAnimator<>Node<>::
+enemy_spawner.gd::GDScript::-1::1714446743::0::1::::EnemySpawner<>Node<>::
+::res://scripts/resources/Movement/::1714447997
+enemy_pathfinder.gd::GDScript::-1::1714447997::0::1::::EnemyPathfinder<>Node<>::
+movement.gd::GDScript::-1::1714447989::0::1::::Movement<>Node<>::
+movement_stats.gd::GDScript::-1::1714446752::0::1::::MovementStats<>Resource<>::
+movement_velocity_input.gd::GDScript::-1::1714447820::0::1::::MovementVelocityInput<>Node<>::
+player_movement.tres::Resource/Resource::3297594392740107490::1714440131::0::1::::<><>::res://scripts/resources/Movement/movement_stats.gd

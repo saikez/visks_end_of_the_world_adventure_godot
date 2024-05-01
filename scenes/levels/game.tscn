@@ -1,0 +1,25 @@
+[gd_scene load_steps=4 format=3 uid="uid://cv65daydnqlv3"]
+
+[ext_resource type="PackedScene" uid="uid://clya3yv7xjuv" path="res://scenes/actors/visk.tscn" id="1_vxn6u"]
+[ext_resource type="PackedScene" uid="uid://mwrspp1m731u" path="res://scenes/sounds/bgm.tscn" id="2_reny0"]
+[ext_resource type="PackedScene" uid="uid://cwulrmuaqp6gd" path="res://scenes/actors/enemy.tscn" id="3_fpj70"]
+
+[node name="Game" type="Node2D"]
+
+[node name="Enemy" parent="." instance=ExtResource("3_fpj70")]
+position = Vector2(35, 0)
+
+[node name="EnemyPathfinder" parent="Enemy" index="2" node_paths=PackedStringArray("target")]
+target = NodePath("../../Visk")
+
+[node name="CollisionShape2D" parent="Enemy" index="4"]
+visible = true
+
+[node name="Visk" parent="." instance=ExtResource("1_vxn6u")]
+
+[node name="BGM" parent="." instance=ExtResource("2_reny0")]
+
+[node name="Camera2D" type="Camera2D" parent="."]
+zoom = Vector2(2, 2)
+
+[editable path="Enemy"]

@@ -1,0 +1,6 @@
+res://scenes/actors/enemy.tscn::fd523c75aaf8651cffea515440ca5562::1714446767::res://.godot/exported/133200997/export-7d153ae28e49bf73b98f50ee5eda745f-enemy.scn
+res://scenes/actors/visk.tscn::86f0852a8d8e2a317b7461faacf86677::1714446767::res://.godot/exported/133200997/export-817072fc76d3b4ee552fa4cb6621fbe8-visk.scn
+res://scenes/levels/game.tscn::5ef5a91b5718000bbf8298fca474f2c1::1714446767::res://.godot/exported/133200997/export-58baeaa54cca0447d5462d1fef7633ef-game.scn
+res://scenes/sounds/bgm.tscn::caac213cc9e6a056f7173453c39aa145::1714435007::res://.godot/exported/133200997/export-9cf3161fd23ff2bf2649c11a65971564-bgm.scn
+res://scripts/resources/Movement/player_movement.tres::8aa4317dd49329f1d7d94387518e6690::1714440131::res://.godot/exported/133200997/export-0a3589979b2b52d2b20d871961ec2802-player_movement.res
+res://default_bus_layout.tres::e9874e0f101e4a945f25a02a20171c7a::1714434948::res://.godot/exported/133200997/export-19246414aa9fb561ced4b8dce477acec-default_bus_layout.res

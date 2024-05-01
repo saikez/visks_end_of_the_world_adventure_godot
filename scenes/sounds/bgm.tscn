@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://mwrspp1m731u"]
+
+[ext_resource type="AudioStream" uid="uid://cr8yyc5vueb3" path="res://assets/sounds/music/Tragique.wav" id="1_kuy6l"]
+
+[node name="BGM" type="AudioStreamPlayer"]
+stream = ExtResource("1_kuy6l")
+autoplay = true
+bus = &"Music"
