@@ -1,7 +1,9 @@
-res://scenes/weapons
 res://scripts/weapons
+res://scripts/levels
+res://scenes/weapons
+res://scenes/resources
+res://scripts/resources/Damage
 C:/code/personal/_game_projects/visks_end_of_the_world_adventure_godot/builds
 res://assets/textures/Dungeon
-res://resources
 res://scenes/sounds
 res://

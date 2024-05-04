@@ -5,10 +5,10 @@
 [ext_resource type="Script" path="res://scripts/resources/Movement/movement_stats.gd" id="1_gjge7"]
 [ext_resource type="Script" path="res://scripts/resources/Movement/movement_velocity_input.gd" id="1_ocm38"]
 [ext_resource type="Script" path="res://scripts/resources/Movement/movement.gd" id="3_tar60"]
-[ext_resource type="Script" path="res://scripts/weapons/weapon_pivot_point.gd" id="3_txdt5"]
-[ext_resource type="Script" path="res://scripts/weapons/weapon_spawn_point.gd" id="4_2w23a"]
-[ext_resource type="PackedScene" uid="uid://bmq8lhf8qh7iu" path="res://scenes/weapons/weapon.tscn" id="5_nyps2"]
 [ext_resource type="Script" path="res://scripts/resources/actor_animator.gd" id="6_81c20"]
+[ext_resource type="PackedScene" uid="uid://84rlq7cm87st" path="res://scenes/weapons/actor_weapon.tscn" id="8_t3ayo"]
+[ext_resource type="PackedScene" uid="uid://dyl4kprkullxo" path="res://scenes/resources/health_stats.tscn" id="10_pcyjx"]
+[ext_resource type="PackedScene" uid="uid://bmq8lhf8qh7iu" path="res://scenes/weapons/spear.tscn" id="11_fpdar"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_ne85d"]
 atlas = ExtResource("1_di6e3")
@@ -101,15 +101,6 @@ frame_progress = 0.795487
 position = Vector2(0, -8)
 shape = SubResource("CircleShape2D_6gue7")
 
-[node name="WeaponPivotPoint" type="Marker2D" parent="."]
-position = Vector2(0, -8)
-script = ExtResource("3_txdt5")
-
-[node name="WeaponSpawnPoint" type="Marker2D" parent="WeaponPivotPoint"]
-position = Vector2(9, 0)
-script = ExtResource("4_2w23a")
-spear = ExtResource("5_nyps2")
-
 [node name="MovementVelocityInput" type="Node" parent="." node_paths=PackedStringArray("actor")]
 script = ExtResource("1_ocm38")
 actor = NodePath("..")
@@ -120,6 +111,14 @@ script = ExtResource("6_81c20")
 actor = NodePath("..")
 animated_sprite = NodePath("../AnimatedSprite2D")
 
-[node name="Movement" type="Node" parent="." node_paths=PackedStringArray("actor")]
+[node name="Movement" type="Node" parent="."]
 script = ExtResource("3_tar60")
-actor = NodePath("..")
+
+[node name="HealthStats" parent="." instance=ExtResource("10_pcyjx")]
+
+[node name="ActorWeapon" parent="." instance=ExtResource("8_t3ayo")]
+weapon = ExtResource("11_fpdar")
+
+[connection signal="used" from="ActorWeapon" to="." method="_on_actor_weapon_used"]
+
+[editable path="ActorWeapon"]

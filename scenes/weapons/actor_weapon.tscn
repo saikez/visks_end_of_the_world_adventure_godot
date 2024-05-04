@@ -1,0 +1,14 @@
+[gd_scene load_steps=3 format=3 uid="uid://84rlq7cm87st"]
+
+[ext_resource type="Script" path="res://scripts/weapons/actor_weapon.gd" id="1_kujna"]
+[ext_resource type="Script" path="res://scripts/weapons/weapon_pivot_point.gd" id="2_4kppi"]
+
+[node name="ActorWeapon" type="Node"]
+script = ExtResource("1_kujna")
+
+[node name="WeaponPivotPoint" type="Marker2D" parent="."]
+position = Vector2(0, -8)
+script = ExtResource("2_4kppi")
+
+[node name="WeaponSpawnPoint" type="Marker2D" parent="WeaponPivotPoint"]
+position = Vector2(9, 0)
