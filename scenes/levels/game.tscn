@@ -28,6 +28,8 @@ zoom = Vector2(2, 2)
 [node name="WeaponManager" type="Node" parent="."]
 script = ExtResource("5_wprm3")
 
-[connection signal="used_weapon" from="Visk" to="." method="_on_visk_used_weapon"]
+[node name="EnemySpawner" type="Node2D" parent="."]
+
+[connection signal="used_weapon" from="Visk" to="WeaponManager" method="_on_visk_used_weapon"]
 
 [editable path="Enemy"]

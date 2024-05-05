@@ -120,5 +120,3 @@ script = ExtResource("3_tar60")
 weapon = ExtResource("11_fpdar")
 
 [connection signal="used" from="ActorWeapon" to="." method="_on_actor_weapon_used"]
-
-[editable path="ActorWeapon"]

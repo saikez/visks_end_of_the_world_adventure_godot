@@ -3,7 +3,7 @@
 [ext_resource type="Script" path="res://scripts/weapons/actor_weapon.gd" id="1_kujna"]
 [ext_resource type="Script" path="res://scripts/weapons/weapon_pivot_point.gd" id="2_4kppi"]
 
-[node name="ActorWeapon" type="Node"]
+[node name="ActorWeapon" type="Node2D"]
 script = ExtResource("1_kujna")
 
 [node name="WeaponPivotPoint" type="Marker2D" parent="."]

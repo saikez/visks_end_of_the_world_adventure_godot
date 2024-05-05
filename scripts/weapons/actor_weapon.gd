@@ -1,5 +1,5 @@
 class_name ActorWeapon
-extends Node
+extends Node2D
 
 signal used(weapon, location)
 
