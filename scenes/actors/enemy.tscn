@@ -1,12 +1,12 @@
 [gd_scene load_steps=19 format=3 uid="uid://cwulrmuaqp6gd"]
 
-[ext_resource type="Script" path="res://scripts/actors/enemy.gd" id="1_w4xqa"]
-[ext_resource type="Script" path="res://scripts/resources/actor_animator.gd" id="2_al2x7"]
-[ext_resource type="Script" path="res://scripts/resources/Movement/movement.gd" id="2_nh63w"]
+[ext_resource type="Script" path="res://scenes/actors/enemy.gd" id="1_w4xqa"]
+[ext_resource type="Script" path="res://scenes/resources/actor_animator.gd" id="2_al2x7"]
+[ext_resource type="Script" path="res://scenes/resources/Movement/movement.gd" id="2_nh63w"]
 [ext_resource type="Texture2D" uid="uid://bjnusmisqp7hh" path="res://assets/textures/Dungeon/0x72 Dungeon Tileset.png" id="3_ha8sh"]
-[ext_resource type="Script" path="res://scripts/resources/Movement/enemy_pathfinder.gd" id="3_rn4y4"]
-[ext_resource type="Script" path="res://scripts/resources/Movement/movement_stats.gd" id="5_4g7fm"]
-[ext_resource type="Script" path="res://scripts/resources/Damage/health_stats.gd" id="7_ejmol"]
+[ext_resource type="Script" path="res://scenes/resources/Movement/enemy_pathfinder.gd" id="3_rn4y4"]
+[ext_resource type="Script" path="res://scenes/resources/Movement/movement_stats.gd" id="5_4g7fm"]
+[ext_resource type="Script" path="res://scenes/resources/Damage/health_stats.gd" id="7_ejmol"]
 
 [sub_resource type="Resource" id="Resource_u7mnu"]
 script = ExtResource("5_4g7fm")

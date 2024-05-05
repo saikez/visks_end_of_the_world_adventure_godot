@@ -1,10 +1,10 @@
 [gd_scene load_steps=6 format=3 uid="uid://cv65daydnqlv3"]
 
-[ext_resource type="Script" path="res://scripts/levels/game.gd" id="1_3o1r6"]
+[ext_resource type="Script" path="res://scenes/levels/game.gd" id="1_3o1r6"]
 [ext_resource type="PackedScene" uid="uid://clya3yv7xjuv" path="res://scenes/actors/visk.tscn" id="1_vxn6u"]
 [ext_resource type="PackedScene" uid="uid://mwrspp1m731u" path="res://scenes/sounds/bgm.tscn" id="2_reny0"]
 [ext_resource type="PackedScene" uid="uid://cwulrmuaqp6gd" path="res://scenes/actors/enemy.tscn" id="3_fpj70"]
-[ext_resource type="Script" path="res://scripts/weapons/weapon_manager.gd" id="5_wprm3"]
+[ext_resource type="Script" path="res://scenes/weapons/weapon_manager.gd" id="5_wprm3"]
 
 [node name="Game" type="Node2D"]
 script = ExtResource("1_3o1r6")

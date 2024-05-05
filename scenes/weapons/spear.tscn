@@ -1,6 +1,6 @@
 [gd_scene load_steps=4 format=3 uid="uid://bmq8lhf8qh7iu"]
 
-[ext_resource type="Script" path="res://scripts/weapons/spear.gd" id="1_i1g0b"]
+[ext_resource type="Script" path="res://scenes/weapons/spear.gd" id="1_8x8jx"]
 [ext_resource type="Texture2D" uid="uid://cw056pekb63on" path="res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Weapons/weapon_spear.png" id="2_qsfgh"]
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_0ycl8"]
@@ -8,7 +8,7 @@ radius = 2.0
 height = 8.0
 
 [node name="Spear" type="Area2D"]
-script = ExtResource("1_i1g0b")
+script = ExtResource("1_8x8jx")
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
 rotation = 1.5708

@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1714832065
+::res://::1714916588
 default_bus_layout.tres::AudioBusLayout::4930987862639818614::1714820922::0::1::::<><>::
 README.md::TextFile::-1::1714820921::0::1::::<><>::
 ::res://assets/::1714820921
@@ -1519,34 +1519,37 @@ Townsfolk_M_Walk_3.png::CompressedTexture2D::6828015861737415609::1714820921::17
 Townsfolk_M_Walk_4.png::CompressedTexture2D::1200341459460951614::1714820921::1714820921::1::::<><>::
 ::res://builds/::1714820922
 ::res://scenes/::1714833773
-::res://scenes/actors/::1714834882
-enemy.tscn::PackedScene::6358982389119221443::1714834882::0::1::::<><>::res://scripts/actors/enemy.gd<>res://scripts/resources/actor_animator.gd<>res://scripts/resources/Movement/movement.gd<>uid://bjnusmisqp7hh::::res://assets/textures/Dungeon/0x72 Dungeon Tileset.png<>res://scripts/resources/Movement/enemy_pathfinder.gd<>res://scripts/resources/Movement/movement_stats.gd<>res://scripts/resources/Damage/health_stats.gd
-visk.tscn::PackedScene::164544559124049209::1714838092::0::1::::<><>::res://scripts/actors/visk.gd<>uid://bjnusmisqp7hh::::res://assets/textures/Dungeon/0x72 Dungeon Tileset.png<>res://scripts/resources/Movement/movement_stats.gd<>res://scripts/resources/Movement/movement_velocity_input.gd<>res://scripts/resources/Movement/movement.gd<>res://scripts/weapons/weapon_pivot_point.gd<>res://scripts/weapons/weapon_spawn_point.gd<>uid://bmq8lhf8qh7iu::::res://scenes/weapons/weapon.tscn<>res://scripts/resources/actor_animator.gd<>uid://dyl4kprkullxo::::res://scenes/resources/health_stats.tscn
-::res://scenes/levels/::1714834753
-game.tscn::PackedScene::6312629698555070786::1714834753::0::1::::<><>::uid://clya3yv7xjuv::::res://scenes/actors/visk.tscn<>uid://mwrspp1m731u::::res://scenes/sounds/bgm.tscn<>uid://cwulrmuaqp6gd::::res://scenes/actors/enemy.tscn
-::res://scenes/resources/::1714833776
-health_stats.tscn::PackedScene::8868281919009468384::1714833776::0::1::::<><>::res://scripts/resources/Damage/health_stats.gd
-::res://scenes/sounds/::1714820922
-bgm.tscn::PackedScene::888747579633988152::1714820922::0::1::::<><>::uid://cr8yyc5vueb3::::res://assets/sounds/music/Tragique.wav
-::res://scenes/weapons/::1714834753
-weapon.tscn::PackedScene::3263740532817229116::1714838058::0::1::::<><>::res://scripts/weapons/spear.gd<>uid://cw056pekb63on::::res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Weapons/weapon_spear.png
-::res://scripts/::1714820922
-::res://scripts/actors/::1714834882
+::res://scenes/actors/::1714916588
 enemy.gd::GDScript::-1::1714834882::0::1::::<>Node2D<>::
-visk.gd::GDScript::-1::1714833938::0::1::::Visk<>CharacterBody2D<>::
-::res://scripts/resources/::1714831910
+enemy.tscn::PackedScene::6358982389119221443::1714916582::0::1::::<><>::res://scenes/actors/enemy.gd<>res://scenes/resources/actor_animator.gd<>res://scenes/resources/Movement/movement.gd<>uid://bjnusmisqp7hh::::res://assets/textures/Dungeon/0x72 Dungeon Tileset.png<>res://scenes/resources/Movement/enemy_pathfinder.gd<>res://scenes/resources/Movement/movement_stats.gd<>res://scenes/resources/Damage/health_stats.gd
+visk.gd::GDScript::-1::1714912322::0::1::::Visk<>CharacterBody2D<>::
+visk.tscn::PackedScene::164544559124049209::1714916588::0::1::::<><>::res://scenes/actors/visk.gd<>uid://bjnusmisqp7hh::::res://assets/textures/Dungeon/0x72 Dungeon Tileset.png<>res://scenes/resources/Movement/movement_stats.gd<>res://scenes/resources/Movement/movement_velocity_input.gd<>res://scenes/resources/Movement/movement.gd<>res://scenes/resources/actor_animator.gd<>uid://84rlq7cm87st::::res://scenes/weapons/actor_weapon.tscn<>uid://dyl4kprkullxo::::res://scenes/resources/Damage/health_stats.tscn<>uid://bmq8lhf8qh7iu::::res://scenes/weapons/spear.tscn
+::res://scenes/levels/::1714916556
+game.gd::GDScript::-1::1714904504::0::1::::<>Node2D<>::
+game.tscn::PackedScene::6312629698555070786::1714916599::0::1::::<><>::res://scenes/levels/game.gd<>uid://clya3yv7xjuv::::res://scenes/actors/visk.tscn<>uid://mwrspp1m731u::::res://scenes/sounds/bgm.tscn<>uid://cwulrmuaqp6gd::::res://scenes/actors/enemy.tscn<>res://scripts/weapons/weapon_manager.gd
+::res://scenes/resources/::1714916588
 actor_animator.gd::GDScript::-1::1714820922::0::1::::ActorAnimator<>Node<>::
-enemy_spawner.gd::GDScript::-1::1714820922::0::1::::EnemySpawner<>Node<>::
-::res://scripts/resources/Damage/::1714832559
+enemy_spawner.gd::GDScript::-1::1714840121::0::1::::EnemySpawner<>Node<>::
+::res://scenes/resources/Damage/::1714916588
 health_stats.gd::GDScript::-1::1714832559::0::1::::HealthStats<>Node<>::
-::res://scripts/resources/Movement/::1714834744
+health_stats.tscn::PackedScene::8868281919009468384::1714916582::0::1::::<><>::res://scenes/resources/Damage/health_stats.gd
+::res://scenes/resources/Movement/::1714916582
 enemy_pathfinder.gd::GDScript::-1::1714820922::0::1::::EnemyPathfinder<>Node<>::
 movement.gd::GDScript::-1::1714834744::0::1::::Movement<>Node<>::
 movement_stats.gd::GDScript::-1::1714820922::0::1::::MovementStats<>Resource<>::
 movement_velocity_input.gd::GDScript::-1::1714820922::0::1::::MovementVelocityInput<>Node<>::
-player_movement.tres::Resource/Resource::3297594392740107490::1714820922::0::1::::<><>::res://scripts/resources/Movement/movement_stats.gd
-::res://scripts/weapons/::1714825910
-spear.gd::GDScript::-1::1714838055::0::1::::<>Area2D<>::
-weapon.gd::GDScript::-1::1714825910::0::1::::<>Area2D<>::
+player_movement.tres::Resource/MovementStats::3297594392740107490::1714916582::0::1::::<><>::res://scenes/resources/Movement/movement_stats.gd
+::res://scenes/sounds/::1714820922
+bgm.tscn::PackedScene::888747579633988152::1714820922::0::1::::<><>::uid://cr8yyc5vueb3::::res://assets/sounds/music/Tragique.wav
+::res://scenes/weapons/::1714914468
+actor_weapon.tscn::PackedScene::2377151517448371071::1714916599::0::1::::<><>::res://scripts/weapons/actor_weapon.gd<>res://scripts/weapons/weapon_pivot_point.gd
+spear.tscn::PackedScene::3263740532817229116::1714916599::0::1::::<><>::res://scripts/weapons/spear.gd<>uid://cw056pekb63on::::res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Weapons/weapon_spear.png
+::res://scripts/::1714841253
+::res://scripts/actors/::1714916547
+::res://scripts/levels/::1714916556
+::res://scripts/resources/::1714916582
+::res://scripts/weapons/::1714912316
+actor_weapon.gd::GDScript::-1::1714912316::0::1::::ActorWeapon<>Node2D<>::
+spear.gd::GDScript::-1::1714912267::0::1::::Spear<>Area2D<>::
+weapon_manager.gd::GDScript::-1::1714909202::0::1::::<>Node<>::
 weapon_pivot_point.gd::GDScript::-1::1714820922::0::1::::<>Marker2D<>::
-weapon_spawn_point.gd::GDScript::-1::1714838058::0::1::::<>Marker2D<>::
