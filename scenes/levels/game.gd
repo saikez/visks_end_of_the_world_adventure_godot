@@ -1,5 +1,7 @@
 extends Node2D
 
+@export var enemy_spawn_path: PackedScene
+
 @onready var weapon_manager = $WeaponManager
 
 func _ready():

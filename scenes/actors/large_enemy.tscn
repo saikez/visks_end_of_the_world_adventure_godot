@@ -1,0 +1,106 @@
+[gd_scene load_steps=19 format=3 uid="uid://cur7a8mrv7dq4"]
+
+[ext_resource type="Script" path="res://scenes/resources/actor_animator.gd" id="1_tm0jv"]
+[ext_resource type="Script" path="res://scenes/resources/Movement/movement.gd" id="2_egth7"]
+[ext_resource type="Script" path="res://scenes/resources/Movement/enemy_pathfinder.gd" id="3_te7tf"]
+[ext_resource type="Script" path="res://scenes/resources/Movement/movement_stats.gd" id="4_38q6c"]
+[ext_resource type="Texture2D" uid="uid://begpc182tvo12" path="res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Characters/Big Demon/big_demon_idle_anim_f0.png" id="5_qp3jc"]
+[ext_resource type="Texture2D" uid="uid://t3xr4ut5bl0s" path="res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Characters/Big Demon/big_demon_idle_anim_f1.png" id="6_8m3sj"]
+[ext_resource type="Script" path="res://scenes/resources/Damage/health_stats.gd" id="6_ncuat"]
+[ext_resource type="Texture2D" uid="uid://byw17a6bot15c" path="res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Characters/Big Demon/big_demon_idle_anim_f2.png" id="7_tfhrc"]
+[ext_resource type="Texture2D" uid="uid://umd66v4f30k6" path="res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Characters/Big Demon/big_demon_idle_anim_f3.png" id="8_3wamb"]
+[ext_resource type="Texture2D" uid="uid://cem58y18h6qs8" path="res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Characters/Big Demon/big_demon_run_anim_f0.png" id="9_05aed"]
+[ext_resource type="Texture2D" uid="uid://cgf0eak3k6bjd" path="res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Characters/Big Demon/big_demon_run_anim_f1.png" id="10_10aic"]
+[ext_resource type="Texture2D" uid="uid://cf0lorbdjuy1m" path="res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Characters/Big Demon/big_demon_run_anim_f2.png" id="11_ft5cw"]
+[ext_resource type="Texture2D" uid="uid://d2clxg2kduxdj" path="res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Characters/Big Demon/big_demon_run_anim_f3.png" id="12_q0ktc"]
+
+[sub_resource type="GDScript" id="GDScript_i1d0r"]
+script/source = "class_name LargeEnemy
+extends Enemy
+"
+
+[sub_resource type="Resource" id="Resource_u7mnu"]
+script = ExtResource("4_38q6c")
+speed = 50
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_bwxfg"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("5_qp3jc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_8m3sj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_tfhrc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_3wamb")
+}],
+"loop": true,
+"name": &"idle",
+"speed": 10.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("9_05aed")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_10aic")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_ft5cw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_q0ktc")
+}],
+"loop": true,
+"name": &"move",
+"speed": 10.0
+}]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_6xwj3"]
+radius = 9.0
+height = 26.0
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_gb2g2"]
+radius = 11.0
+
+[node name="LargeEnemy" type="CharacterBody2D" groups=["enemies"]]
+motion_mode = 1
+script = SubResource("GDScript_i1d0r")
+
+[node name="ActorAnimator" type="Node" parent="." node_paths=PackedStringArray("actor", "animated_sprite") groups=["enemies"]]
+script = ExtResource("1_tm0jv")
+actor = NodePath("..")
+animated_sprite = NodePath("../AnimatedSprite2D")
+
+[node name="Movement" type="Node" parent="." groups=["enemies"]]
+script = ExtResource("2_egth7")
+
+[node name="EnemyPathfinder" type="Node" parent="." groups=["enemies"]]
+script = ExtResource("3_te7tf")
+movement_stats = SubResource("Resource_u7mnu")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." groups=["enemies"]]
+position = Vector2(0, -4)
+sprite_frames = SubResource("SpriteFrames_bwxfg")
+animation = &"idle"
+autoplay = "idle"
+frame_progress = 0.889059
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." groups=["enemies"]]
+shape = SubResource("CapsuleShape2D_6xwj3")
+
+[node name="HealthStats" type="Node" parent="."]
+script = ExtResource("6_ncuat")
+health = 3
+
+[node name="AttackBox" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="AttackBox"]
+shape = SubResource("CapsuleShape2D_gb2g2")
+
+[connection signal="body_entered" from="AttackBox" to="." method="_on_attack_box_body_entered"]
+[connection signal="body_exited" from="AttackBox" to="." method="_on_attack_box_body_exited"]

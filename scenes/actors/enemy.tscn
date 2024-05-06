@@ -1,4 +1,4 @@
-[gd_scene load_steps=19 format=3 uid="uid://cwulrmuaqp6gd"]
+[gd_scene load_steps=20 format=3 uid="uid://cwulrmuaqp6gd"]
 
 [ext_resource type="Script" path="res://scenes/actors/enemy.gd" id="1_w4xqa"]
 [ext_resource type="Script" path="res://scenes/resources/actor_animator.gd" id="2_al2x7"]
@@ -85,6 +85,10 @@ animations = [{
 radius = 5.0
 height = 16.0
 
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_4v84s"]
+radius = 6.0
+height = 18.0
+
 [node name="Enemy" type="CharacterBody2D" groups=["enemies"]]
 motion_mode = 1
 script = ExtResource("1_w4xqa")
@@ -97,20 +101,27 @@ animated_sprite = NodePath("../AnimatedSprite2D")
 [node name="Movement" type="Node" parent="." groups=["enemies"]]
 script = ExtResource("2_nh63w")
 
-[node name="EnemyPathfinder" type="Node" parent="." node_paths=PackedStringArray("actor") groups=["enemies"]]
+[node name="EnemyPathfinder" type="Node" parent="." groups=["enemies"]]
 script = ExtResource("3_rn4y4")
-actor = NodePath("..")
 movement_stats = SubResource("Resource_u7mnu")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." groups=["enemies"]]
-position = Vector2(0, -16)
+position = Vector2(-1, -8)
 sprite_frames = SubResource("SpriteFrames_bwxfg")
 animation = &"idle"
+autoplay = "idle"
+frame_progress = 0.0118122
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="." groups=["enemies"]]
-visible = false
-position = Vector2(1, -8)
 shape = SubResource("CapsuleShape2D_6xwj3")
 
 [node name="HealthStats" type="Node" parent="."]
 script = ExtResource("7_ejmol")
+
+[node name="AttackBox" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="AttackBox"]
+shape = SubResource("CapsuleShape2D_4v84s")
+
+[connection signal="body_entered" from="AttackBox" to="." method="_on_attack_box_body_entered"]
+[connection signal="body_exited" from="AttackBox" to="." method="_on_attack_box_body_exited"]

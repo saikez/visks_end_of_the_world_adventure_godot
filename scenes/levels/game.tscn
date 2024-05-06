@@ -1,22 +1,23 @@
-[gd_scene load_steps=6 format=3 uid="uid://cv65daydnqlv3"]
+[gd_scene load_steps=11 format=3 uid="uid://cv65daydnqlv3"]
 
 [ext_resource type="Script" path="res://scenes/levels/game.gd" id="1_3o1r6"]
 [ext_resource type="PackedScene" uid="uid://clya3yv7xjuv" path="res://scenes/actors/visk.tscn" id="1_vxn6u"]
 [ext_resource type="PackedScene" uid="uid://mwrspp1m731u" path="res://scenes/sounds/bgm.tscn" id="2_reny0"]
+[ext_resource type="PackedScene" uid="uid://c7p7ry46othwb" path="res://scenes/actors/small_enemy.tscn" id="3_aortx"]
 [ext_resource type="PackedScene" uid="uid://cwulrmuaqp6gd" path="res://scenes/actors/enemy.tscn" id="3_fpj70"]
 [ext_resource type="Script" path="res://scenes/weapons/weapon_manager.gd" id="5_wprm3"]
+[ext_resource type="Script" path="res://scenes/levels/enemy_spawner.gd" id="6_26n5u"]
+[ext_resource type="PackedScene" uid="uid://cur7a8mrv7dq4" path="res://scenes/actors/large_enemy.tscn" id="7_02iax"]
+[ext_resource type="PackedScene" uid="uid://djkta58qejv1q" path="res://scenes/ui/gui.tscn" id="9_bnild"]
+
+[sub_resource type="Curve2D" id="Curve2D_efhih"]
+_data = {
+"points": PackedVector2Array(0, 0, 0, 0, -208, -160, 0, 0, 0, 0, 208, -160, 0, 0, 0, 0, 208, 160, 0, 0, 0, 0, -208, 160, 0, 0, 0, 0, -208, -160)
+}
+point_count = 5
 
 [node name="Game" type="Node2D"]
 script = ExtResource("1_3o1r6")
-
-[node name="Enemy" parent="." instance=ExtResource("3_fpj70")]
-position = Vector2(35, 0)
-
-[node name="EnemyPathfinder" parent="Enemy" index="2" node_paths=PackedStringArray("target")]
-target = NodePath("../../Visk")
-
-[node name="CollisionShape2D" parent="Enemy" index="4"]
-visible = true
 
 [node name="Visk" parent="." instance=ExtResource("1_vxn6u")]
 
@@ -28,8 +29,24 @@ zoom = Vector2(2, 2)
 [node name="WeaponManager" type="Node" parent="."]
 script = ExtResource("5_wprm3")
 
-[node name="EnemySpawner" type="Node2D" parent="."]
+[node name="EnemySpawner" type="Node2D" parent="." node_paths=PackedStringArray("spawn_path")]
+script = ExtResource("6_26n5u")
+enemies = Array[PackedScene]([ExtResource("3_fpj70"), ExtResource("7_02iax"), ExtResource("3_aortx")])
+spawn_path = NodePath("../EnemySpawnPath/EnemySpawnLocation")
 
+[node name="EnemySpawnTimer" type="Timer" parent="EnemySpawner"]
+wait_time = 5.0
+autostart = true
+
+[node name="EnemySpawnPath" type="Path2D" parent="."]
+curve = SubResource("Curve2D_efhih")
+
+[node name="EnemySpawnLocation" type="PathFollow2D" parent="EnemySpawnPath"]
+position = Vector2(-208, -160)
+
+[node name="GUI" parent="." instance=ExtResource("9_bnild")]
+
+[connection signal="died" from="Visk" to="EnemySpawner" method="_on_visk_died"]
+[connection signal="health_updated" from="Visk" to="GUI" method="_on_visk_health_updated"]
 [connection signal="used_weapon" from="Visk" to="WeaponManager" method="_on_visk_used_weapon"]
-
-[editable path="Enemy"]
+[connection signal="timeout" from="EnemySpawner/EnemySpawnTimer" to="EnemySpawner" method="_on_enemy_spawn_timer_timeout"]

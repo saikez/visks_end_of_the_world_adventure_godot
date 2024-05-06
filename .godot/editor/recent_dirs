@@ -1,9 +1,13 @@
-res://scripts/weapons
-res://scripts/levels
+res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Characters/Lizard
+res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/UI Heart
+res://assets/fonts
+res://scenes/UI
+res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Characters/Imp
+res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/Characters/Big Demon
+res://assets/textures/Dungeon
+res://scenes/actors
 res://scenes/weapons
 res://scenes/resources
-res://scripts/resources/Damage
 C:/code/personal/_game_projects/visks_end_of_the_world_adventure_godot/builds
-res://assets/textures/Dungeon
 res://scenes/sounds
 res://

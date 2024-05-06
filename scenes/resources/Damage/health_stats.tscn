@@ -2,5 +2,5 @@
 
 [ext_resource type="Script" path="res://scenes/resources/Damage/health_stats.gd" id="1_5h5c0"]
 
-[node name="HealthStats" type="Node2D"]
+[node name="HealthStats" type="Node"]
 script = ExtResource("1_5h5c0")

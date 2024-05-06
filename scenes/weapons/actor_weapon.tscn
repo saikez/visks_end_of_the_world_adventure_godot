@@ -7,7 +7,6 @@
 script = ExtResource("1_kujna")
 
 [node name="WeaponPivotPoint" type="Marker2D" parent="."]
-position = Vector2(0, -8)
 script = ExtResource("2_4kppi")
 
 [node name="WeaponSpawnPoint" type="Marker2D" parent="WeaponPivotPoint"]

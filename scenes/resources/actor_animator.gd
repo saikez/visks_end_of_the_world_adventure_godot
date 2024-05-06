@@ -16,3 +16,6 @@ func _physics_process(_delta):
 		animated_sprite.play("idle")
 	else:
 		animated_sprite.play("move")
+	
+	if actor.has_method("is_dead") and actor.is_dead():
+		animated_sprite.play("dead")
