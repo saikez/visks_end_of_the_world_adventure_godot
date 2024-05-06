@@ -2,9 +2,9 @@
 
 [ext_resource type="Script" path="res://scenes/ui/gui.gd" id="1_1m2xw"]
 [ext_resource type="FontFile" uid="uid://chjlay1n80r2m" path="res://assets/fonts/AncientModernTales.ttf" id="1_k7he8"]
-[ext_resource type="Script" path="res://scenes/UI/health_bar.gd" id="1_v4lft"]
-[ext_resource type="Script" path="res://scenes/UI/Title.gd" id="2_5npij"]
 [ext_resource type="Texture2D" uid="uid://377e6374tris" path="res://assets/textures/Dungeon/0x72 Dungeon Individual Frames/UI Heart/ui_heart_full.png" id="2_f1tk7"]
+[ext_resource type="Script" path="res://scenes/ui/health_bar.gd" id="2_megrk"]
+[ext_resource type="Script" path="res://scenes/ui/Title.gd" id="5_4y12h"]
 
 [sub_resource type="LabelSettings" id="LabelSettings_r1mr3"]
 font = ExtResource("1_k7he8")
@@ -34,7 +34,7 @@ size_flags_vertical = 3
 [node name="HealthBar" type="HBoxContainer" parent="MarginContainer/Rows/TopRow"]
 layout_mode = 2
 size_flags_stretch_ratio = 2.0
-script = ExtResource("1_v4lft")
+script = ExtResource("2_megrk")
 
 [node name="1" type="TextureRect" parent="MarginContainer/Rows/TopRow/HealthBar"]
 layout_mode = 2
@@ -62,7 +62,7 @@ size_flags_horizontal = 6
 size_flags_vertical = 0
 text = "Visk's End of the World Adventure"
 label_settings = SubResource("LabelSettings_r1mr3")
-script = ExtResource("2_5npij")
+script = ExtResource("5_4y12h")
 
 [node name="Timer" type="Timer" parent="MarginContainer/Rows/MiddleRow/Title"]
 wait_time = 5.0

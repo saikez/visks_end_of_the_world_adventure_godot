@@ -13,13 +13,15 @@ config_version=5
 config/name="visks_end_of_the_world_adventure_godot"
 run/main_scene="res://scenes/levels/game.tscn"
 config/features=PackedStringArray("4.2", "GL Compatibility")
+boot_splash/show_image=false
+boot_splash/fullsize=false
+boot_splash/use_filter=false
 config/icon="res://assets/icon.svg"
 
 [display]
 
 window/size/viewport_width=800
 window/size/viewport_height=600
-window/size/mode=2
 window/size/resizable=false
 window/stretch/mode="viewport"
 window/dpi/allow_hidpi=false

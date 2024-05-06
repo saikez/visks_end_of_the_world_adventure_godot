@@ -31,6 +31,5 @@ func is_dead():
 			actor_collider.disabled = true
 		return true
 
-
 func _on_health_stats_zeroed():
 	emit_signal("died")

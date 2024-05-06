@@ -4,3 +4,9 @@ res://scenes/actors/enemy.tscn
 res://scenes/weapons/spear.tscn
 res://scenes/weapons/actor_weapon.tscn
 res://scenes/UI/gui.tscn
+res://scenes/ui/gui.tscn
+res://scenes/ui/gui.gd
+res://scenes/ui/health_bar.gd
+res://scenes/ui/Title.gd
+res://scenes/levels/game.gd
+res://scenes/actors/visk.gd
