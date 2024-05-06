@@ -1,17 +1,6 @@
-res://scenes/actors/small_enemy.tscn
-res://scenes/actors/large_enemy.tscn
 res://scenes/levels/game.tscn
 res://scenes/actors/visk.tscn
 res://scenes/actors/enemy.tscn
 res://scenes/weapons/spear.tscn
 res://scenes/weapons/actor_weapon.tscn
 res://scenes/UI/gui.tscn
-res://scenes/weapons/actor_weapon.gd
-res://scenes/actors/enemy.gd
-res://scenes/resources/Movement/movement_velocity_input.gd
-res://scenes/actors/visk.gd
-res://scenes/resources/Damage/health_stats.gd
-res://scenes/resources/Damage/health_stats.tscn
-res://scenes/levels/enemy_spawner.gd
-res://scenes/levels/game.gd
-res://scenes/ui/gui.gd

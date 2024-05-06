@@ -1,6 +1,13 @@
-res://scenes/actors/enemy.tscn::fd523c75aaf8651cffea515440ca5562::1714446767::res://.godot/exported/133200997/export-7d153ae28e49bf73b98f50ee5eda745f-enemy.scn
-res://scenes/actors/visk.tscn::86f0852a8d8e2a317b7461faacf86677::1714446767::res://.godot/exported/133200997/export-817072fc76d3b4ee552fa4cb6621fbe8-visk.scn
-res://scenes/levels/game.tscn::5ef5a91b5718000bbf8298fca474f2c1::1714446767::res://.godot/exported/133200997/export-58baeaa54cca0447d5462d1fef7633ef-game.scn
+res://scenes/actors/enemy.tscn::b698132e46737be3a0a2e59c7d4043f5::1715030084::res://.godot/exported/133200997/export-7d153ae28e49bf73b98f50ee5eda745f-enemy.scn
+res://scenes/actors/visk.tscn::c5cd84b122b54a6fe187ef35bbb0b57e::1715030084::res://.godot/exported/133200997/export-817072fc76d3b4ee552fa4cb6621fbe8-visk.scn
+res://scenes/levels/game.tscn::40e2f1fa1a13e59ddabe1617fc46698b::1715030084::res://.godot/exported/133200997/export-58baeaa54cca0447d5462d1fef7633ef-game.scn
 res://scenes/sounds/bgm.tscn::caac213cc9e6a056f7173453c39aa145::1714435007::res://.godot/exported/133200997/export-9cf3161fd23ff2bf2649c11a65971564-bgm.scn
-res://scripts/resources/Movement/player_movement.tres::8aa4317dd49329f1d7d94387518e6690::1714440131::res://.godot/exported/133200997/export-0a3589979b2b52d2b20d871961ec2802-player_movement.res
 res://default_bus_layout.tres::e9874e0f101e4a945f25a02a20171c7a::1714434948::res://.godot/exported/133200997/export-19246414aa9fb561ced4b8dce477acec-default_bus_layout.res
+res://scenes/actors/enemy_spawn.tscn::fe60d20ad822c4380bef45fafca128a1::1715029938::res://.godot/exported/133200997/export-fe86aab088f96dce03010d452485f79b-enemy_spawn.scn
+res://scenes/actors/large_enemy.tscn::152aa6bb4c84c4b36ac350868a57a94d::1715029938::res://.godot/exported/133200997/export-818705db4082b9a321b4083d33068e8d-large_enemy.scn
+res://scenes/actors/small_enemy.tscn::03ba287f313f7050b642a70d6dc36002::1715029938::res://.godot/exported/133200997/export-50a3cd003ab55dd10947a009811d9541-small_enemy.scn
+res://scenes/resources/Damage/health_stats.tscn::6bb17d3703b14244354d4c2dcc2355b6::1715029938::res://.godot/exported/133200997/export-6218dfc297483ea752a6f7039d0c4e7b-health_stats.scn
+res://scenes/resources/Movement/player_movement.tres::b728e7debacdecf442a3e156a3b675c3::1715029938::res://.godot/exported/133200997/export-0d5b6267d797b10f3140a5eda0d77229-player_movement.res
+res://scenes/ui/gui.tscn::32fe8531ae00d82cbd6eb97be0d5876d::1715030084::res://.godot/exported/133200997/export-6ad7f3dc3e91d0034842f7cec50e4830-gui.scn
+res://scenes/weapons/actor_weapon.tscn::627f55569eef4d8ef4c65f26f18bd188::1715030084::res://.godot/exported/133200997/export-60acf7c431bdc8dfac8e513b16379700-actor_weapon.scn
+res://scenes/weapons/spear.tscn::fe359e81a9022cd87572c118cc391526::1715030084::res://.godot/exported/133200997/export-677b4b8d87a6c41a8ce839bcd05e75ab-spear.scn
