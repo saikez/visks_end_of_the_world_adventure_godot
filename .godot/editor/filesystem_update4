@@ -10,3 +10,5 @@ res://scenes/ui/health_bar.gd
 res://scenes/ui/Title.gd
 res://scenes/levels/game.gd
 res://scenes/actors/visk.gd
+res://scenes/actors/small_enemy.tscn
+res://scenes/actors/large_enemy.tscn
